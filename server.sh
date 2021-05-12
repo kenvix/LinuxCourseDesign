@@ -1,4 +1,6 @@
 #!/bin/bash
+set -e
+
 SHELL_FOLDER=$(cd "$(dirname "$0")";pwd)
 CONFIG_FILE="config.sh"
 cd "$SHELL_FOLDER"
@@ -38,7 +40,27 @@ stdbuf -oL nc -vv -lkp $SERVER_PORT | {
                     # Add
                     a)
                         IFS= read -r studentId
-                        
+                        currentLine=0
+                        log "接收到来自 $studentId 的请求"
+                        userId=${$(getUserIdByStudentId "$studentId")-"-1"}
+                        if [[ $userId == "-1" ]]; then
+                            logW "无此用户 $studentId"
+                        else
+                            while IFS= read -r line; do
+                                let currentLine++
+                                if [[ $line =~ "种类" ]]; then
+                                    logD "Skipping header"
+                                else
+                                    # colNum=$(echo -n -e "$line" | grep -o $'\t' | wc -l | wc -l)
+                                    read mainType subType sku x y < <(echo "$line")
+                                    if [ ! -n "$y" ]; then
+                                        logW "第 $currentLine 行有错误，每行数据必须有 5 列"
+                                    else
+                                          
+                                    fi
+                                fi
+                            done
+                        fi
                     ;;
 
                     *)

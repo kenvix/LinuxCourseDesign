@@ -26,7 +26,7 @@ sensible-editor "$filePath"
 
 lineNum=$(grep -c "" "$filePath")
 if (( $lineNum <= 1 )); then
-    log "请至少编写一行数据，格式为：种类\t子类\t特点\t经度\t纬度"
+    logE "请至少编写一行数据，格式为：种类\t子类\t特点\t经度\t纬度 （\t表示制表符）"
     exit 2
 fi
 
@@ -42,6 +42,7 @@ while IFS= read -r line; do
             log "第 $currentLine 行有错误，每行数据必须有 5 列"
             log "文本编辑器请按 Tab 键表示下一列，建议使用 VSCode 或 LibreOffice 编辑，如果数据不存在请写横线 - "
             log "请重新编写文件。"
+            rm -f "$filePath"
             exit 3
         fi
     fi
