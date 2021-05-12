@@ -1,0 +1,1305 @@
+Script started on 2021-05-03 11:39:57+08:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="158" LINES="30"]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ls[K[Kexec -c [K[K[K
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exec /dev/tcp/localhost/45123[C /dev/tcp/localhost/451234 /dev/tcp/localhost/45123[C /dev/tcp/localhost/45123< /dev/tcp/localhost/45123> /dev/tcp/localhost/45123
+bash: exec: 4: not found
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^[[A^[[D^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^[[A^[[D^[[A^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^[[A^[[B^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exec 4 <> /dev/tcp/localhost/45123^[[D^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# 
+
+^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^[[A^[[B^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exit
+^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exit
+script -a t2^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/Script started on 2021-05-03 11:41:18+08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="158" LINES="30"]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exec 4 <> /dev/tcp/localhost/45123[K4 <> /dev/tcp/localhost/45123[1P/dev/tcp/localhost/45123[1P<>/dev/tcp/localhost/45123
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[Ks [K[Kecho 1[K-e ""
+
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# 0echo -e ""\"0"[C >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -e "\0" >&4[1@1[1@1[1@1[1@1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -e "1111\0" >&4[C[C[1@2[1@2[1@2[1@2[1@2[1@2[1@2[1@2[1@2[1@2[1@2[1@2[1@2[1@2
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -e "111122222222222222\0" >&4[C[1@ [1@-[1@n
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "111122222222222222\0" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "111122222222222222\0" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "111122222222222222\0" >&4[C[1@5[1@5
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "55111122222222222222\0" >&4[C[1@d[1@s[1@a[1@d
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111122222222222222\0" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111122222222222222\0" >&4[1@8
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad551111282222222222222\0" >&4[1@\[1@n
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222\0" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222\0" >&4[1@1[1P[1P[1@1[1@3
+
+Script done on 2021-05-03 11:52:38+08:00 [COMMAND_EXIT_CODE="141"]
+Script started on 2021-05-03 11:52:43+08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="158" LINES="30"]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exec 4<>/dev/tcp/localhost/45123
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222\13" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222\13" >&4[C[1@ [C[C[C[1@$
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 $\13" >&4[C[C[C[C[C[C[C[C[C[K[K[K
+dsad55111128222
+2222222222 $\13]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 $\13" [C[C[C[C[C[C>&4[C[1P[1P[1@0
+
+Script done on 2021-05-03 11:53:30+08:00 [COMMAND_EXIT_CODE="141"]
+Script started on 2021-05-03 11:53:33+08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="158" LINES="30"]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign#  exec 4<>/dev/tcp/localhost/45123
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 $\0" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 $\0" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 $\0" >&4[1P
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 \0" >&4[1P[1@3
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 \3" >&4
+
+Script done on 2021-05-03 11:54:04+08:00 [COMMAND_EXIT_CODE="141"]
+Script started on 2021-05-03 11:54:06+08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="158" LINES="30"]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exec 4<>/dev/tcp/localhost/45123
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 \3" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 \3" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 \3" >&4[15Pxec 4<>/dev/tcp/localhost/45123 <> /dev/tcp/localhost/45123[2P<>/dev/tcp/localhost/45123 <> /dev/tcp/localhost/45123[Kscript -a t2[7Pexec 4 <> /dev/tcp/localhost/45123[2P<>/dev/tcp/localhost/45123cho -n -e "dsad55111128222\n2222222222 \3" >&4[Kecho -n -e "dsad55111128222\n2222222222 \3" >&4[1P[1@0
+
+Script done on 2021-05-03 11:54:33+08:00 [COMMAND_EXIT_CODE="141"]
+Script started on 2021-05-03 11:54:38+08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="158" LINES="30"]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exec 4<>/dev/tcp/localhost/45123
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exec 4<>/dev/tcp/localhost/45123 <> /dev/tcp/localhost/45123[2P<>/dev/tcp/localhost/45123[Kecho -n -e "dsad55111128222\n2222222222 \0" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 \0" >&4
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exec 4<>/dev/tcp/localhost/45123^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 \0" >&4^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "dsad55111128222\n2222222222 \0" >&4[K./client.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $?
+0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $?./client.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat  c
+cat: c: No such file or directory
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat  client.sh 
+exec 4<>/dev/tcp/localhost/45123
+
+function sendPacket {
+    echo -n -e $1 >&4
+}
+
+sendPacket $'\7'
+sendPacket "Good!!!"
+sendPacket $'\0']0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[Kcat  client.sh 
+#!/bin/bash
+
+exec 4<>/dev/tcp/localhost/45123
+
+function sendPacket {
+    echo -n -e $1 >&4
+}
+
+sendPacket $'\7'
+sendPacket "Good!!!"
+sendPacket $'\0'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat  client.sh [K./client.sh 
+
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# man s[Kascii
+[?1049h[22;0;0t[?1h=ASCII(7)                                                         Linux Programmer's Manual                                                        ASCII(7)[m
+[m
+[1mNAME[0m[m
+       ascii - ASCII character set encoded in octal, decimal, and hexadecimal[m
+[m
+[1mDESCRIPTION[0m[m
+       ASCII  is  the American Standard Code for Information Interchange.  It is a 7-bit code.  Many 8-bit codes (e.g., ISO 8859-1) contain ASCII as their[m
+       lower half.  The international counterpart of ASCII is known as ISO 646-IRV.[m
+[m
+       The following table contains the 128 ASCII characters.[m
+[m
+       C program '\X' escapes are noted.[m
+[m
+       Oct   Dec   Hex   Char                        Oct   Dec   Hex   Char[m
+       ────────────────────────────────────────────────────────────────────────[m
+       000   0     00    NUL '\0' (null character)   100   64    40    @[m
+       001   1     01    SOH (start of heading)      101   65    41    A[m
+       002   2     02    STX (start of text)         102   66    42    B[m
+       003   3     03    ETX (end of text)           103   67    43    C[m
+       004   4     04    EOT (end of transmission)   104   68    44    D[m
+       005   5     05    ENQ (enquiry)               105   69    45    E[m
+       006   6     06    ACK (acknowledge)           106   70    46    F[m
+       007   7     07    BEL '\a' (bell)             107   71    47    G[m
+       010   8     08    BS  '\b' (backspace)        110   72    48    H[m
+       011   9     09    HT  '\t' (horizontal tab)   111   73    49    I[m
+       012   10    0A    LF  '\n' (new line)         112   74    4A    J[m
+       013   11    0B    VT  '\v' (vertical tab)     113   75    4B    K[m
+       014   12    0C    FF  '\f' (form feed)        114   76    4C    L[m
+       015   13    0D    CR  '\r' (carriage ret)     115   77    4D    M[m
+[7m Manual page ascii(7) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K       016   14    0E    SO  (shift out)             116   78    4E    N[m
+       017   15    0F    SI  (shift in)              117   79    4F    O[m
+       020   16    10    DLE (data link escape)      120   80    50    P[m
+       021   17    11    DC1 (device control 1)      121   81    51    Q[m
+       022   18    12    DC2 (device control 2)      122   82    52    R[m
+       023   19    13    DC3 (device control 3)      123   83    53    S[m
+       024   20    14    DC4 (device control 4)      124   84    54    T[m
+       025   21    15    NAK (negative ack.)         125   85    55    U[m
+       026   22    16    SYN (synchronous idle)      126   86    56    V[m
+       027   23    17    ETB (end of trans. blk)     127   87    57    W[m
+       030   24    18    CAN (cancel)                130   88    58    X[m
+       031   25    19    EM  (end of medium)         131   89    59    Y[m
+       032   26    1A    SUB (substitute)            132   90    5A    Z[m
+       033   27    1B    ESC (escape)                133   91    5B    [[m
+       034   28    1C    FS  (file separator)        134   92    5C    \  '\\'[m
+       035   29    1D    GS  (group separator)       135   93    5D    ][m
+       036   30    1E    RS  (record separator)      136   94    5E    ^[m
+       037   31    1F    US  (unit separator)        137   95    5F    _[m
+       040   32    20    SPACE                       140   96    60    `[m
+       041   33    21    !                           141   97    61    a[m
+       042   34    22    "                           142   98    62    b[m
+       043   35    23    #                           143   99    63    c[m
+       044   36    24    $                           144   100   64    d[m
+       045   37    25    %                           145   101   65    e[m
+       046   38    26    &                           146   102   66    f[m
+       047   39    27    '                           147   103   67    g[m
+       050   40    28    (                           150   104   68    h[m
+       051   41    29    )                           151   105   69    i[m
+       052   42    2A    *                           152   106   6A    j[m
+[7m Manual page ascii(7) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K       053   43    2B    +                           153   107   6B    k[m
+       054   44    2C    ,                           154   108   6C    l[m
+       055   45    2D    -                           155   109   6D    m[m
+       056   46    2E    .                           156   110   6E    n[m
+       057   47    2F    /                           157   111   6F    o[m
+[m
+       060   48    30    0                           160   112   70    p[m
+       061   49    31    1                           161   113   71    q[m
+       062   50    32    2                           162   114   72    r[m
+       063   51    33    3                           163   115   73    s[m
+       064   52    34    4                           164   116   74    t[m
+       065   53    35    5                           165   117   75    u[m
+       066   54    36    6                           166   118   76    v[m
+       067   55    37    7                           167   119   77    w[m
+       070   56    38    8                           170   120   78    x[m
+       071   57    39    9                           171   121   79    y[m
+       072   58    3A    :                           172   122   7A    z[m
+       073   59    3B    ;                           173   123   7B    {[m
+       074   60    3C    <                           174   124   7C    |[m
+       075   61    3D    =                           175   125   7D    }[m
+       076   62    3E    >                           176   126   7E    ~[m
+       077   63    3F    ?                           177   127   7F    DEL[m
+[m
+   [1mTables[0m[m
+       For convenience, below are more compact tables in hex and decimal.[m
+[m
+          2 3 4 5 6 7       30 40 50 60 70 80 90 100 110 120[m
+        -------------      ---------------------------------[m
+       0:   0 @ P ` p     0:    (  2  <  F  P  Z  d   n   x[m
+[7m Manual page ascii(7) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM       052   42    2A    *                           152   106   6A    j[m
+[HM       051   41    29    )                           151   105   69    i[m
+[HM       050   40    28    (                           150   104   68    h[m
+[HM       047   39    27    '                           147   103   67    g[m
+[HM       046   38    26    &                           146   102   66    f[m
+[HM       045   37    25    %                           145   101   65    e[m
+[HM       044   36    24    $                           144   100   64    d[m
+[HM       043   35    23    #                           143   99    63    c[m
+[HM       042   34    22    "                           142   98    62    b[m
+[HM       041   33    21    !                           141   97    61    a[m
+[HM       040   32    20    SPACE                       140   96    60    `[m
+[HM       037   31    1F    US  (unit separator)        137   95    5F    _[m
+[HM       036   30    1E    RS  (record separator)      136   94    5E    ^[m
+[HM       035   29    1D    GS  (group separator)       135   93    5D    ][m
+[HM       034   28    1C    FS  (file separator)        134   92    5C    \  '\\'[m
+[HM       033   27    1B    ESC (escape)                133   91    5B    [[m
+[HM       032   26    1A    SUB (substitute)            132   90    5A    Z[m
+[HM       031   25    19    EM  (end of medium)         131   89    59    Y[m
+[HM       030   24    18    CAN (cancel)                130   88    58    X[m
+[HM       027   23    17    ETB (end of trans. blk)     127   87    57    W[m
+[HM       026   22    16    SYN (synchronous idle)      126   86    56    V[m
+[HM       025   21    15    NAK (negative ack.)         125   85    55    U[m
+[HM       024   20    14    DC4 (device control 4)      124   84    54    T[m
+[HM       023   19    13    DC3 (device control 3)      123   83    53    S[m
+[HM       022   18    12    DC2 (device control 2)      122   82    52    R[m
+[HM       021   17    11    DC1 (device control 1)      121   81    51    Q[m
+[HM       020   16    10    DLE (data link escape)      120   80    50    P[m
+[HM       017   15    0F    SI  (shift in)              117   79    4F    O[m
+[HM       016   14    0E    SO  (shift out)             116   78    4E    N[m
+[30;1H[K[7m Manual page ascii(7) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM       015   13    0D    CR  '\r' (carriage ret)     115   77    4D    M[m
+[HM       014   12    0C    FF  '\f' (form feed)        114   76    4C    L[m
+[HM       013   11    0B    VT  '\v' (vertical tab)     113   75    4B    K[m
+[HM       012   10    0A    LF  '\n' (new line)         112   74    4A    J[m
+[HM       011   9     09    HT  '\t' (horizontal tab)   111   73    49    I[m
+[HM       010   8     08    BS  '\b' (backspace)        110   72    48    H[m
+[HM       007   7     07    BEL '\a' (bell)             107   71    47    G[m
+[HM       006   6     06    ACK (acknowledge)           106   70    46    F[m
+[HM       005   5     05    ENQ (enquiry)               105   69    45    E[m
+[HM       004   4     04    EOT (end of transmission)   104   68    44    D[m
+[HM       003   3     03    ETX (end of text)           103   67    43    C[m
+[HM       002   2     02    STX (start of text)         102   66    42    B[m
+[HM       001   1     01    SOH (start of heading)      101   65    41    A[m
+[HM       000   0     00    NUL '\0' (null character)   100   64    40    @[m
+[HM       ────────────────────────────────────────────────────────────────────────[m
+[HM       Oct   Dec   Hex   Char                        Oct   Dec   Hex   Char[m
+[HM[m
+[HM       C program '\X' escapes are noted.[m
+[HM[m
+[HM       The following table contains the 128 ASCII characters.[m
+[HM[m
+[HM       lower half.  The international counterpart of ASCII is known as ISO 646-IRV.[m
+[HM       ASCII  is  the American Standard Code for Information Interchange.  It is a 7-bit code.  Many 8-bit codes (e.g., ISO 8859-1) contain ASCII as their[m
+[HM[1mDESCRIPTION[0m[m
+[HM[m
+[HM       ascii - ASCII character set encoded in octal, decimal, and hexadecimal[m
+[HM[1mNAME[0m[m
+[HM[m
+[HMASCII(7)                                                         Linux Programmer's Manual                                                        ASCII(7)[m
+[30;1H[K[7m Manual page ascii(7) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[K[7m Manual page ascii(7) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo ""\"2"0"
+\20
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo "\20"[C[C[C[C[C[1P"[1P"0"A"[1P\0A"$\0A"[C\0A"[C[1P0A"'\0A"[C[C[C[C[K'
+
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $'\0A'[1P'[1P'4'1'
+!
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $'\41'[C[1P'2'
+"
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $'\42''\42'[1P\42'[C\42'4\42'1\42'
+!"
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $'\F0\0A'
+\F0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $'\F0\0A'41\42'[1P1\42'A1\42'
+\A1"
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $'\A1\42'[1P\42'[1P\42'8\42'9\42'^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# man s[Kascii
+[?1049h[22;0;0t[?1h=ASCII(7)                                                         Linux Programmer's Manual                                                        ASCII(7)[m
+[m
+[1mNAME[0m[m
+       ascii - ASCII character set encoded in octal, decimal, and hexadecimal[m
+[m
+[1mDESCRIPTION[0m[m
+       ASCII  is  the American Standard Code for Information Interchange.  It is a 7-bit code.  Many 8-bit codes (e.g., ISO 8859-1) contain ASCII as their[m
+       lower half.  The international counterpart of ASCII is known as ISO 646-IRV.[m
+[m
+       The following table contains the 128 ASCII characters.[m
+[m
+       C program '\X' escapes are noted.[m
+[m
+       Oct   Dec   Hex   Char                        Oct   Dec   Hex   Char[m
+       ────────────────────────────────────────────────────────────────────────[m
+       000   0     00    NUL '\0' (null character)   100   64    40    @[m
+       001   1     01    SOH (start of heading)      101   65    41    A[m
+       002   2     02    STX (start of text)         102   66    42    B[m
+       003   3     03    ETX (end of text)           103   67    43    C[m
+       004   4     04    EOT (end of transmission)   104   68    44    D[m
+       005   5     05    ENQ (enquiry)               105   69    45    E[m
+       006   6     06    ACK (acknowledge)           106   70    46    F[m
+       007   7     07    BEL '\a' (bell)             107   71    47    G[m
+       010   8     08    BS  '\b' (backspace)        110   72    48    H[m
+       011   9     09    HT  '\t' (horizontal tab)   111   73    49    I[m
+       012   10    0A    LF  '\n' (new line)         112   74    4A    J[m
+       013   11    0B    VT  '\v' (vertical tab)     113   75    4B    K[m
+       014   12    0C    FF  '\f' (form feed)        114   76    4C    L[m
+       015   13    0D    CR  '\r' (carriage ret)     115   77    4D    M[m
+[7m Manual page ascii(7) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       016   14    0E    SO  (shift out)             116   78    4E    N[m
+[7m Manual page ascii(7) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       017   15    0F    SI  (shift in)              117   79    4F    O[m
+[7m Manual page ascii(7) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       020   16    10    DLE (data link escape)      120   80    50    P[m
+[7m Manual page ascii(7) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       021   17    11    DC1 (device control 1)      121   81    51    Q[m
+[7m Manual page ascii(7) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       022   18    12    DC2 (device control 2)      122   82    52    R[m
+[7m Manual page ascii(7) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       023   19    13    DC3 (device control 3)      123   83    53    S[m
+[7m Manual page ascii(7) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       024   20    14    DC4 (device control 4)      124   84    54    T[m
+[7m Manual page ascii(7) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       025   21    15    NAK (negative ack.)         125   85    55    U[m
+[7m Manual page ascii(7) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       026   22    16    SYN (synchronous idle)      126   86    56    V[m
+[7m Manual page ascii(7) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       027   23    17    ETB (end of trans. blk)     127   87    57    W[m
+[7m Manual page ascii(7) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       030   24    18    CAN (cancel)                130   88    58    X[m
+[7m Manual page ascii(7) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       031   25    19    EM  (end of medium)         131   89    59    Y[m
+[7m Manual page ascii(7) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       032   26    1A    SUB (substitute)            132   90    5A    Z[m
+[7m Manual page ascii(7) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       033   27    1B    ESC (escape)                133   91    5B    [[m
+[7m Manual page ascii(7) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       034   28    1C    FS  (file separator)        134   92    5C    \  '\\'[m
+[7m Manual page ascii(7) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       035   29    1D    GS  (group separator)       135   93    5D    ][m
+[7m Manual page ascii(7) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       036   30    1E    RS  (record separator)      136   94    5E    ^[m
+[7m Manual page ascii(7) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       037   31    1F    US  (unit separator)        137   95    5F    _[m
+[7m Manual page ascii(7) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       040   32    20    SPACE                       140   96    60    `[m
+[7m Manual page ascii(7) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       041   33    21    !                           141   97    61    a[m
+[7m Manual page ascii(7) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       042   34    22    "                           142   98    62    b[m
+[7m Manual page ascii(7) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       043   35    23    #                           143   99    63    c[m
+[7m Manual page ascii(7) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       044   36    24    $                           144   100   64    d[m
+[7m Manual page ascii(7) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       045   37    25    %                           145   101   65    e[m
+[7m Manual page ascii(7) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       046   38    26    &                           146   102   66    f[m
+[7m Manual page ascii(7) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       047   39    27    '                           147   103   67    g[m
+[7m Manual page ascii(7) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       050   40    28    (                           150   104   68    h[m
+[7m Manual page ascii(7) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       051   41    29    )                           151   105   69    i[m
+[7m Manual page ascii(7) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       052   42    2A    *                           152   106   6A    j[m
+[7m Manual page ascii(7) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       053   43    2B    +                           153   107   6B    k[m
+[7m Manual page ascii(7) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       054   44    2C    ,                           154   108   6C    l[m
+[7m Manual page ascii(7) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       055   45    2D    -                           155   109   6D    m[m
+[7m Manual page ascii(7) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       056   46    2E    .                           156   110   6E    n[m
+[7m Manual page ascii(7) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K       057   47    2F    /                           157   111   6F    o[m
+[m
+       060   48    30    0                           160   112   70    p[m
+       061   49    31    1                           161   113   71    q[m
+       062   50    32    2                           162   114   72    r[m
+       063   51    33    3                           163   115   73    s[m
+       064   52    34    4                           164   116   74    t[m
+       065   53    35    5                           165   117   75    u[m
+       066   54    36    6                           166   118   76    v[m
+       067   55    37    7                           167   119   77    w[m
+       070   56    38    8                           170   120   78    x[m
+       071   57    39    9                           171   121   79    y[m
+       072   58    3A    :                           172   122   7A    z[m
+       073   59    3B    ;                           173   123   7B    {[m
+       074   60    3C    <                           174   124   7C    |[m
+       075   61    3D    =                           175   125   7D    }[m
+       076   62    3E    >                           176   126   7E    ~[m
+       077   63    3F    ?                           177   127   7F    DEL[m
+[m
+   [1mTables[0m[m
+       For convenience, below are more compact tables in hex and decimal.[m
+[m
+          2 3 4 5 6 7       30 40 50 60 70 80 90 100 110 120[m
+        -------------      ---------------------------------[m
+       0:   0 @ P ` p     0:    (  2  <  F  P  Z  d   n   x[m
+       1: ! 1 A Q a q     1:    )  3  =  G  Q  [  e   o   y[m
+       2: " 2 B R b r     2:    *  4  >  H  R  \  f   p   z[m
+       3: # 3 C S c s     3: !  +  5  ?  I  S  ]  g   q   {[m
+       4: $ 4 D T d t     4: "  ,  6  @  J  T  ^  h   r   |[m
+[7m Manual page ascii(7) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM       056   46    2E    .                           156   110   6E    n[m
+[HM       055   45    2D    -                           155   109   6D    m[m
+[HM       054   44    2C    ,                           154   108   6C    l[m
+[HM       053   43    2B    +                           153   107   6B    k[m
+[HM       052   42    2A    *                           152   106   6A    j[m
+[HM       051   41    29    )                           151   105   69    i[m
+[HM       050   40    28    (                           150   104   68    h[m
+[HM       047   39    27    '                           147   103   67    g[m
+[HM       046   38    26    &                           146   102   66    f[m
+[HM       045   37    25    %                           145   101   65    e[m
+[HM       044   36    24    $                           144   100   64    d[m
+[HM       043   35    23    #                           143   99    63    c[m
+[HM       042   34    22    "                           142   98    62    b[m
+[HM       041   33    21    !                           141   97    61    a[m
+[HM       040   32    20    SPACE                       140   96    60    `[m
+[HM       037   31    1F    US  (unit separator)        137   95    5F    _[m
+[HM       036   30    1E    RS  (record separator)      136   94    5E    ^[m
+[HM       035   29    1D    GS  (group separator)       135   93    5D    ][m
+[HM       034   28    1C    FS  (file separator)        134   92    5C    \  '\\'[m
+[HM       033   27    1B    ESC (escape)                133   91    5B    [[m
+[HM       032   26    1A    SUB (substitute)            132   90    5A    Z[m
+[HM       031   25    19    EM  (end of medium)         131   89    59    Y[m
+[HM       030   24    18    CAN (cancel)                130   88    58    X[m
+[HM       027   23    17    ETB (end of trans. blk)     127   87    57    W[m
+[HM       026   22    16    SYN (synchronous idle)      126   86    56    V[m
+[HM       025   21    15    NAK (negative ack.)         125   85    55    U[m
+[HM       024   20    14    DC4 (device control 4)      124   84    54    T[m
+[HM       023   19    13    DC3 (device control 3)      123   83    53    S[m
+[HM       022   18    12    DC2 (device control 2)      122   82    52    R[m
+[30;1H[K[7m Manual page ascii(7) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM       021   17    11    DC1 (device control 1)      121   81    51    Q[m
+[HM       020   16    10    DLE (data link escape)      120   80    50    P[m
+[HM       017   15    0F    SI  (shift in)              117   79    4F    O[m
+[HM       016   14    0E    SO  (shift out)             116   78    4E    N[m
+[HM       015   13    0D    CR  '\r' (carriage ret)     115   77    4D    M[m
+[HM       014   12    0C    FF  '\f' (form feed)        114   76    4C    L[m
+[HM       013   11    0B    VT  '\v' (vertical tab)     113   75    4B    K[m
+[HM       012   10    0A    LF  '\n' (new line)         112   74    4A    J[m
+[HM       011   9     09    HT  '\t' (horizontal tab)   111   73    49    I[m
+[HM       010   8     08    BS  '\b' (backspace)        110   72    48    H[m
+[HM       007   7     07    BEL '\a' (bell)             107   71    47    G[m
+[HM       006   6     06    ACK (acknowledge)           106   70    46    F[m
+[HM       005   5     05    ENQ (enquiry)               105   69    45    E[m
+[HM       004   4     04    EOT (end of transmission)   104   68    44    D[m
+[HM       003   3     03    ETX (end of text)           103   67    43    C[m
+[HM       002   2     02    STX (start of text)         102   66    42    B[m
+[HM       001   1     01    SOH (start of heading)      101   65    41    A[m
+[HM       000   0     00    NUL '\0' (null character)   100   64    40    @[m
+[HM       ────────────────────────────────────────────────────────────────────────[m
+[HM       Oct   Dec   Hex   Char                        Oct   Dec   Hex   Char[m
+[HM[m
+[HM       C program '\X' escapes are noted.[m
+[HM[m
+[HM       The following table contains the 128 ASCII characters.[m
+[HM[m
+[HM       lower half.  The international counterpart of ASCII is known as ISO 646-IRV.[m
+[HM       ASCII  is  the American Standard Code for Information Interchange.  It is a 7-bit code.  Many 8-bit codes (e.g., ISO 8859-1) contain ASCII as their[m
+[HM[1mDESCRIPTION[0m[m
+[HM[m
+[30;1H[K[7m Manual page ascii(7) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K       022   18    12    DC2 (device control 2)      122   82    52    R[m
+       023   19    13    DC3 (device control 3)      123   83    53    S[m
+       024   20    14    DC4 (device control 4)      124   84    54    T[m
+       025   21    15    NAK (negative ack.)         125   85    55    U[m
+       026   22    16    SYN (synchronous idle)      126   86    56    V[m
+       027   23    17    ETB (end of trans. blk)     127   87    57    W[m
+       030   24    18    CAN (cancel)                130   88    58    X[m
+       031   25    19    EM  (end of medium)         131   89    59    Y[m
+       032   26    1A    SUB (substitute)            132   90    5A    Z[m
+       033   27    1B    ESC (escape)                133   91    5B    [[m
+       034   28    1C    FS  (file separator)        134   92    5C    \  '\\'[m
+       035   29    1D    GS  (group separator)       135   93    5D    ][m
+       036   30    1E    RS  (record separator)      136   94    5E    ^[m
+       037   31    1F    US  (unit separator)        137   95    5F    _[m
+       040   32    20    SPACE                       140   96    60    `[m
+       041   33    21    !                           141   97    61    a[m
+       042   34    22    "                           142   98    62    b[m
+       043   35    23    #                           143   99    63    c[m
+       044   36    24    $                           144   100   64    d[m
+       045   37    25    %                           145   101   65    e[m
+       046   38    26    &                           146   102   66    f[m
+       047   39    27    '                           147   103   67    g[m
+       050   40    28    (                           150   104   68    h[m
+       051   41    29    )                           151   105   69    i[m
+       052   42    2A    *                           152   106   6A    j[m
+       053   43    2B    +                           153   107   6B    k[m
+       054   44    2C    ,                           154   108   6C    l[m
+       055   45    2D    -                           155   109   6D    m[m
+       056   46    2E    .                           156   110   6E    n[m
+[7m Manual page ascii(7) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       057   47    2F    /                           157   111   6F    o[m
+[7m Manual page ascii(7) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ascii(7) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       060   48    30    0                           160   112   70    p[m
+[7m Manual page ascii(7) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       061   49    31    1                           161   113   71    q[m
+[7m Manual page ascii(7) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       062   50    32    2                           162   114   72    r[m
+[7m Manual page ascii(7) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       063   51    33    3                           163   115   73    s[m
+[7m Manual page ascii(7) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       064   52    34    4                           164   116   74    t[m
+[7m Manual page ascii(7) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       065   53    35    5                           165   117   75    u[m
+[7m Manual page ascii(7) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       066   54    36    6                           166   118   76    v[m
+[7m Manual page ascii(7) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       067   55    37    7                           167   119   77    w[m
+[7m Manual page ascii(7) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       070   56    38    8                           170   120   78    x[m
+[7m Manual page ascii(7) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       071   57    39    9                           171   121   79    y[m
+[7m Manual page ascii(7) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       072   58    3A    :                           172   122   7A    z[m
+[7m Manual page ascii(7) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       073   59    3B    ;                           173   123   7B    {[m
+[7m Manual page ascii(7) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       074   60    3C    <                           174   124   7C    |[m
+[7m Manual page ascii(7) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       075   61    3D    =                           175   125   7D    }[m
+[7m Manual page ascii(7) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       076   62    3E    >                           176   126   7E    ~[m
+[7m Manual page ascii(7) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       077   63    3F    ?                           177   127   7F    DEL[m
+[7m Manual page ascii(7) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ascii(7) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mTables[0m[m
+[7m Manual page ascii(7) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       For convenience, below are more compact tables in hex and decimal.[m
+[7m Manual page ascii(7) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ascii(7) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K          2 3 4 5 6 7       30 40 50 60 70 80 90 100 110 120[m
+[7m Manual page ascii(7) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -------------      ---------------------------------[m
+[7m Manual page ascii(7) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       0:   0 @ P ` p     0:    (  2  <  F  P  Z  d   n   x[m
+[7m Manual page ascii(7) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       1: ! 1 A Q a q     1:    )  3  =  G  Q  [  e   o   y[m
+[7m Manual page ascii(7) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       2: " 2 B R b r     2:    *  4  >  H  R  \  f   p   z[m
+[7m Manual page ascii(7) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       3: # 3 C S c s     3: !  +  5  ?  I  S  ]  g   q   {[m
+[7m Manual page ascii(7) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       4: $ 4 D T d t     4: "  ,  6  @  J  T  ^  h   r   |[m
+[7m Manual page ascii(7) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       5: % 5 E U e u     5: #  -  7  A  K  U  _  i   s   }[m
+[7m Manual page ascii(7) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       6: & 6 F V f v     6: $  .  8  B  L  V  `  j   t   ~[m
+[7m Manual page ascii(7) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       7: ' 7 G W g w     7: %  /  9  C  M  W  a  k   u  DEL[m
+[7m Manual page ascii(7) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       8: ( 8 H X h x     8: &  0  :  D  N  X  b  l   v[m
+[7m Manual page ascii(7) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       9: ) 9 I Y i y     9: '  1  ;  E  O  Y  c  m   w[m
+[7m Manual page ascii(7) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       A: * : J Z j z[m
+[7m Manual page ascii(7) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       B: + ; K [ k {[m
+[7m Manual page ascii(7) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       C: , < L \ l |[m
+[7m Manual page ascii(7) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       D: - = M ] m }[m
+[7m Manual page ascii(7) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       E: . > N ^ n ~[m
+[7m Manual page ascii(7) line 73 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# caman asciiecho $'\A1\42'[1P\42'[1P\42'2\42'4\42'0\42'
+�"
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $'\240\42'[6Pman asciiecho $'\240\42'[Kecho $'\240\42'[1P'[1P'[1P'
+�
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# $'\240'^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $'\240'\42'[6Pman ascii
+[?1049h[22;0;0t[?1h=ASCII(7)                                                         Linux Programmer's Manual                                                        ASCII(7)[m
+[m
+[1mNAME[0m[m
+       ascii - ASCII character set encoded in octal, decimal, and hexadecimal[m
+[m
+[1mDESCRIPTION[0m[m
+       ASCII  is  the American Standard Code for Information Interchange.  It is a 7-bit code.  Many 8-bit codes (e.g., ISO 8859-1) contain ASCII as their[m
+       lower half.  The international counterpart of ASCII is known as ISO 646-IRV.[m
+[m
+       The following table contains the 128 ASCII characters.[m
+[m
+       C program '\X' escapes are noted.[m
+[m
+       Oct   Dec   Hex   Char                        Oct   Dec   Hex   Char[m
+       ────────────────────────────────────────────────────────────────────────[m
+       000   0     00    NUL '\0' (null character)   100   64    40    @[m
+       001   1     01    SOH (start of heading)      101   65    41    A[m
+       002   2     02    STX (start of text)         102   66    42    B[m
+       003   3     03    ETX (end of text)           103   67    43    C[m
+       004   4     04    EOT (end of transmission)   104   68    44    D[m
+       005   5     05    ENQ (enquiry)               105   69    45    E[m
+       006   6     06    ACK (acknowledge)           106   70    46    F[m
+       007   7     07    BEL '\a' (bell)             107   71    47    G[m
+       010   8     08    BS  '\b' (backspace)        110   72    48    H[m
+       011   9     09    HT  '\t' (horizontal tab)   111   73    49    I[m
+       012   10    0A    LF  '\n' (new line)         112   74    4A    J[m
+       013   11    0B    VT  '\v' (vertical tab)     113   75    4B    K[m
+       014   12    0C    FF  '\f' (form feed)        114   76    4C    L[m
+       015   13    0D    CR  '\r' (carriage ret)     115   77    4D    M[m
+[7m Manual page ascii(7) line 1 (press h for help or q to quit)[27m[K[K[7m Manual page ascii(7) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./CLI[K[K[Kclient.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ECHO[K[K[K[Kecho $'\240\10'
+�
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $'\240\10'[3P./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh [K./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+./client.sh: line 9: printf: `?': invalid format character
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+./client.sh: line 9: printf: `?': invalid format character
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+SEND: #%?\n
+连接成功
+SEND: sadsad
+SEND: sad\nsadsad
+SEND: Good!!!
+SEND: \x00
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+SEND: #%?\n
+连接成功
+SEND: sadsad
+SEND: sad\nsadsad
+SEND: Good!!!
+SEND: \0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+SEND: #%?\n
+连接成功
+SEND: sadsad
+SEND: sad\nsadsad
+SEND: Good!!!
+SEND: \0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+SEND: #%?\n
+连接成功
+SEND: sadsad
+SEND: sad\nsadsad
+SEND: Good!!!
+SEND: \0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+SEND: #%?\n
+连接成功
+SEND: sadsad
+SEND: sad\nsadsad
+SEND: Good!!!
+SEND: \0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+SEND: #%?\n
+连接成功
+SEND: sadsad
+SEND: sad\nsadsad
+SEND: Good!!!
+SEND: \0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+SEND: #%?\n
+连接成功
+SEND: sadsad
+SEND: sad\nsadsad
+SEND: Good!!!
+SEND: \0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+连接成功
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+./functions.sh: line 8: ((: &&  == 1 : syntax error: operand expected (error token is "&&  == 1 ")
+连接成功
+./functions.sh: line 8: ((: &&  == 1 : syntax error: operand expected (error token is "&&  == 1 ")
+./functions.sh: line 8: ((: &&  == 1 : syntax error: operand expected (error token is "&&  == 1 ")
+./functions.sh: line 8: ((: &&  == 1 : syntax error: operand expected (error token is "&&  == 1 ")
+./functions.sh: line 8: ((: &&  == 1 : syntax error: operand expected (error token is "&&  == 1 ")
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+连接成功
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+连接成功
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+./functions.sh: line 8: ((: == 1 : syntax error: operand expected (error token is "== 1 ")
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+./functions.sh: line 8: [: : integer expression expected
+连接成功
+./functions.sh: line 8: [: : integer expression expected
+./functions.sh: line 8: [: : integer expression expected
+./functions.sh: line 8: [: : integer expression expected
+./functions.sh: line 8: [: : integer expression expected
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+正在与服务器建立连接
+./client.sh: line 19: connectServer: command not found
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+正在与服务器建立连接
+连接成功
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在与服务器建立连接
+[CONNECT] localhost:45123
+连接成功
+[SEND]: #%?\n
+[SEND]: ass
+[SEND]: sdasad
+[SEND]: 443434626
+[SEND]: \0
+[SEND]: #%?\n
+[SEND]: 333dd
+[SEND]: 2121321
+[SEND]: ytuty
+[SEND]: \0
+[CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在与服务器建立连接
+[CONNECT] localhost:45123
+连接成功
+[SEND]: #%?\n
+[SEND]: 
+[SEND]: ass
+[SEND]: sdasad
+[SEND]: 443434626
+[SEND]: \0
+[SEND]: #%?\n
+[SEND]: 333dd
+[SEND]: 2121321
+[SEND]: ytuty
+[SEND]: \0
+[CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh [K./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在与服务器建立连接
+[CONNECT] localhost:45123
+连接成功
+[SEND]: #%?\n
+[SEND]: ax
+[SEND]: ass
+[SEND]: sdasad
+[SEND]: 443434626
+[SEND]: \0
+[SEND]: #%?\n
+[SEND]: 333dd
+[SEND]: 2121321
+[SEND]: ytuty
+[SEND]: \0
+[CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在与服务器建立连接
+[CONNECT] localhost:45123
+连接成功
+[SEND]: #%?\n
+[SEND]: ax
+[SEND]: ass
+[SEND]: sdasad
+[SEND]: 443434626
+[SEND]: \0
+[SEND]: #%?\n
+[SEND]: 333dd
+[SEND]: 2121321
+[SEND]: ytuty
+[SEND]: \0
+[CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在与服务器建立连接
+[CONNECT] localhost:45123
+连接成功
+[SEND]: #%?\n
+[SEND]: ax
+[SEND]: ass
+[SEND]: sdasad
+[SEND]: 443434626
+[SEND]: \0
+[SEND]: #%?\n
+[SEND]: 333dd
+[SEND]: 2121321
+[SEND]: ytuty
+[SEND]: \0
+[CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ps auxf
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0    892   584 ?        Sl   07:29   0:00 /init
+root         7  0.0  0.0    900    88 ?        Ss   07:29   0:00 /init
+root         8  0.0  0.0    900    96 ?        S    07:29   0:00  \_ /init
+root         9  0.0  0.0  10200  5324 pts/0    Ss   07:29   0:00      \_ -bash
+root      1103  0.0  0.0   7360  2392 pts/0    S+   11:54   0:00          \_ script -a t2
+root      1104  0.0  0.0   9096  4192 pts/1    Ss   11:54   0:00              \_ bash -i
+root      1838  0.0  0.0  10620  3396 pts/1    R+   13:49   0:00                  \_ ps auxf
+root       486  0.0  0.0    900    88 ?        Ss   11:09   0:00 /init
+root       487  0.0  0.0    900    96 ?        S    11:09   0:00  \_ /init
+root       488  0.0  0.0   2608   604 pts/2    Ss+  11:09   0:00      \_ sh -c "$VSCODE_WSL_EXT_LOCATION/scripts/wslServer.sh" 3c4e3df9e89829dce27b7b5c2450830
+root       489  0.0  0.0   2608  1876 pts/2    S+   11:09   0:00          \_ sh /mnt/c/Users/Kenvix/.vscode/extensions/ms-vscode-remote.remote-wsl-0.54.6/scri
+root       495  0.0  0.0   2608   536 pts/2    S+   11:09   0:00              \_ sh /root/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/server.s
+root       497  0.3  0.9 989900 80148 pts/2    Sl+  11:09   0:38                  \_ /root/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/node /r
+root       508  0.1  0.4 871072 40068 pts/2    Sl+  11:09   0:11                      \_ /root/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/nod
+root       810  0.0  0.0   9096  4076 pts/3    Ss   11:09   0:00                      |   \_ /bin/bash
+root       818  0.0  0.0   7360  2120 pts/3    S+   11:09   0:00                      |       \_ script -a
+root       819  0.0  0.0   9096  4072 pts/4    Ss   11:09   0:00                      |           \_ bash -i
+root      1818  0.0  0.0   8620  3192 pts/4    S+   13:45   0:00                      |               \_ /bin/bash ./server.sh
+root      1822  0.0  0.0   3352  2064 pts/4    S+   13:45   0:00                      |                   \_ nc -vv -lkp 45123
+root      1823  0.0  0.0   8620  1676 pts/4    S+   13:45   0:00                      |                   \_ /bin/bash ./server.sh
+root       734  0.1  0.5 852844 41080 pts/2    Sl+  11:09   0:13                      \_ /root/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/nod
+root       741  0.9  1.3 2092608 112712 pts/2  Sl+  11:09   1:34                      \_ /root/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/nod
+root       789  1.0  1.2 854740 98440 pts/2    Sl+  11:09   1:38                          \_ /root/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d
+root       828  0.0  0.9 599324 76320 pts/2    Sl+  11:10   0:01                          \_ /root/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d
+root       887  0.0  0.4 560644 40384 pts/2    Sl+  11:20   0:00                          \_ /root/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[Kps[K[Ksensible-editor x
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;74H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                                                  x                                                                             [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# date
+Mon May  3 15:46:47 CST 2021
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# dae[Kte --help
+Usage: date [OPTION]... [+FORMAT]
+  or:  date [-u|--utc|--universal] [MMDDhhmm[[CC]YY][.ss]]
+Display the current time in the given FORMAT, or set the system date.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -d, --date=STRING          display time described by STRING, not 'now'
+      --debug                annotate the parsed date,
+                              and warn about questionable usage to stderr
+  -f, --file=DATEFILE        like --date; once for each line of DATEFILE
+  -I[FMT], --iso-8601[=FMT]  output date/time in ISO 8601 format.
+                               FMT='date' for date only (the default),
+                               'hours', 'minutes', 'seconds', or 'ns'
+                               for date and time to the indicated precision.
+                               Example: 2006-08-14T02:34:56-06:00
+  -R, --rfc-email            output date and time in RFC 5322 format.
+                               Example: Mon, 14 Aug 2006 02:34:56 -0600
+      --rfc-3339=FMT         output date/time in RFC 3339 format.
+                               FMT='date', 'seconds', or 'ns'
+                               for date and time to the indicated precision.
+                               Example: 2006-08-14 02:34:56-06:00
+  -r, --reference=FILE       display the last modification time of FILE
+  -s, --set=STRING           set time described by STRING
+  -u, --utc, --universal     print or set Coordinated Universal Time (UTC)
+      --help     display this help and exit
+      --version  output version information and exit
+
+FORMAT controls the output.  Interpreted sequences are:
+
+  %%   a literal %
+  %a   locale's abbreviated weekday name (e.g., Sun)
+  %A   locale's full weekday name (e.g., Sunday)
+  %b   locale's abbreviated month name (e.g., Jan)
+  %B   locale's full month name (e.g., January)
+  %c   locale's date and time (e.g., Thu Mar  3 23:05:25 2005)
+  %C   century; like %Y, except omit last two digits (e.g., 20)
+  %d   day of month (e.g., 01)
+  %D   date; same as %m/%d/%y
+  %e   day of month, space padded; same as %_d
+  %F   full date; same as %Y-%m-%d
+  %g   last two digits of year of ISO week number (see %G)
+  %G   year of ISO week number (see %V); normally useful only with %V
+  %h   same as %b
+  %H   hour (00..23)
+  %I   hour (01..12)
+  %j   day of year (001..366)
+  %k   hour, space padded ( 0..23); same as %_H
+  %l   hour, space padded ( 1..12); same as %_I
+  %m   month (01..12)
+  %M   minute (00..59)
+  %n   a newline
+  %N   nanoseconds (000000000..999999999)
+  %p   locale's equivalent of either AM or PM; blank if not known
+  %P   like %p, but lower case
+  %q   quarter of year (1..4)
+  %r   locale's 12-hour clock time (e.g., 11:11:04 PM)
+  %R   24-hour hour and minute; same as %H:%M
+  %s   seconds since 1970-01-01 00:00:00 UTC
+  %S   second (00..60)
+  %t   a tab
+  %T   time; same as %H:%M:%S
+  %u   day of week (1..7); 1 is Monday
+  %U   week number of year, with Sunday as first day of week (00..53)
+  %V   ISO week number, with Monday as first day of week (01..53)
+  %w   day of week (0..6); 0 is Sunday
+  %W   week number of year, with Monday as first day of week (00..53)
+  %x   locale's date representation (e.g., 12/31/99)
+  %X   locale's time representation (e.g., 23:13:48)
+  %y   last two digits of year (00..99)
+  %Y   year
+  %z   +hhmm numeric time zone (e.g., -0400)
+  %:z  +hh:mm numeric time zone (e.g., -04:00)
+  %::z  +hh:mm:ss numeric time zone (e.g., -04:00:00)
+  %:::z  numeric time zone with : to necessary precision (e.g., -04, +05:30)
+  %Z   alphabetic time zone abbreviation (e.g., EDT)
+
+By default, date pads numeric fields with zeroes.
+The following optional flags may follow '%':
+
+  -  (hyphen) do not pad the field
+  _  (underscore) pad with spaces
+  0  (zero) pad with zeros
+  ^  use upper case if possible
+  #  use opposite case if possible
+
+After any flags comes an optional field width, as a decimal number;
+then an optional modifier, which is either
+E to use the locale's alternate representations if available, or
+O to use the locale's alternate numeric symbols if available.
+
+Examples:
+Convert seconds since the epoch (1970-01-01 UTC) to a date
+  $ date --date='@2147483647'
+
+Show the time on the west coast of the US (use tzselect(1) to find TZ)
+  $ TZ='America/Los_Angeles' date
+
+Show the local time for 9AM next Friday on the west coast of the US
+  $ date --date='TZ="America/Los_Angeles" 09:00 next Fri'
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Report date translation bugs to <https://translationproject.org/team/>
+Full documentation at: <https://www.gnu.org/software/coreutils/date>
+or available locally via: info '(coreutils) date invocation'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# date --help[K[K[K[K[K[K%y
+date: invalid date ‘%y’
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# date %y[KY
+date: invalid date ‘%Y’
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# date +%Y-%m-%d
+2021-05-03
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo ${1-$(date +%Y-%m-%d)}
+2021-05-03
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# filePath=${1-"$(date +%Y-%m-%d).csv"}[1@e[1@c[1@h[1@o[1@ 
+filePath=2021-05-03.csv
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo filePath=${1-"$(date +%Y-%m-%d).csv"}
+filePath=2021-05-03.csv
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# sens
+sensible-browser  sensible-editor   sensible-mda      sensible-pager    sensrsvc.dll      
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# senssensible-editor^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./eed[K[Kdit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+./edit.sh: line 11: log: command not found
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;72H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh [K./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;72H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;72H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;72H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;72H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+将创建当日的汇报文件：2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[3d[?12l[?25h[?25l[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[3d[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[3d[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# crontab -e
+no crontab for root - using an empty one
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;71H(B[0;7m[ Read 23 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                     /tmp/crontab.khCg9c/crontab                                                                [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m[36m# Edit this file to introduce tasks to be run by cron.[3d# [4d# Each task to run has to be defined through a single line[5d# indicating with different fields when the task will be run[6d# and what command to run for the task[7d# [8d# To define the time you can provide concrete values for[9d# minute (m), hour (h), day of month (dom), month (mon),[10d# and day of week (dow) or use '*' in these fields (for 'any').[11d# [12d# Notice that tasks will be started based on the cron's system[13d# daemon's notion of time and timezones.[14d# [15d# Output of the crontab jobs (including errors) is sent through[16d# email to the user the crontab file belongs to (unless redirected).[17d# [18d# For example, you can run a backup of all your user accounts[19d# at 5 a.m every week with:[20d# 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/[21d# [22d# For more information see the manual pages of crontab(5) and cron(8)[23d# [24d# m h  dom mon dow   command[2d[39m(B[m[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[8d[?12l[?25h[?25l[9d[?12l[?25h[?25l[10d[?12l[?25h[?25l[11d[?12l[?25h[?25l[12d[?12l[?25h[?25l[13d[?12l[?25h[?25l[14d[?12l[?25h[?25l[15d[?12l[?25h[?25l[16d[?12l[?25h[?25l[17d[?12l[?25h[?25l[18d[?12l[?25h[?25l[19d[?12l[?25h[?25l[20d[?12l[?25h[?25l[21d[?12l[?25h[?25l[22d[?12l[?25h[?25l[23d[?12l[?25h[?25l[24d[?12l[?25h[?25l[25d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[27d[K[25d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[28d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004lNo modification made
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# crontab -e./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[3d[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# wc -l 2021-05-03.csv 
+1 2021-05-03.csv
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# grep -c "" 2021-05-03.csv 
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# grep -c ""^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# grep -c "" 2021-05-03.csv 
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# grep -c "" 2021-05-03.csv [5Pwc -l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11P./edit.sh[C
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[27d[K[1;149H(B[0;7mModified(B[m[2;25H种类,子类,特点,经度,纬度[2;25H[?12l[?25h[?25l[27d(B[0;7mSave modified buffer?                                                                                                                                         [28;1H Y(B[m Yes[K[29d(B[0;7m N(B[m No  [29;17H(B[0;7m^C(B[m Cancel[K[27;23H[?12l[?25h[?25l[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l
+
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l编辑结束
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l请至少编写一行数据，格式为：种类,子类,特点,经度,纬度
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[?12l[?25h[?25l[3d[?12l[?25h[?25l[A[?12l[?25h[?25l[3d[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l请至少编写一行数据，格式为：种类,子类,特点,经度,纬度
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l请至少编写一行数据，格式为：种类,子类,特点,经度,纬度
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[3d[?12l[?25h[?25l[1;149H(B[0;7mModified(B[m[3dsadsad[?12l[?25h[?25l[27d(B[0;7mSave modified buffer?                                                                                                                                         [28;1H Y(B[m Yes[K[29d(B[0;7m N(B[m No  [29;17H(B[0;7m^C(B[m Cancel[K[27;23H[?12l[?25h[?25l[28d(B[0;7m^G(B[m Get Help[28;40H(B[0;7mM-D(B[m DOS Format[28;79H(B[0;7mM-A(B[m Append[28;118H(B[0;7mM-B(B[m Backup File[29d(B[0;7m^C(B[m Cancel[17G         [29;40H(B[0;7mM-M(B[m Mac Format[29;79H(B[0;7mM-P(B[m Prepend[29;118H(B[0;7m^T(B[m To Files[27d(B[0;7mFile Name to Write [DOS Format]: 2021-05-03.csv(B[m[27;48H[?12l[?25h[?25l[27;72H[1K (B[0;7m[ Writing... ](B[m[K[1;149H(B[0;7m        (B[m[27;71H(B[0;7m[ Wrote 2 lines ](B[m[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004lSkipping header
+sadsad
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 2 lines (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[3dsadsad[A[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[3;7H[?12l[?25h[?25l[1;149H(B[0;7mModified(B[m[3;6H [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[K[?12l[?25h[?25l[27d(B[0;7mSave modified buffer?                                                                                                                                         [28;1H Y(B[m Yes[K[29d(B[0;7m N(B[m No  [29;17H(B[0;7m^C(B[m Cancel[K[27;23H[?12l[?25h[?25l[28d(B[0;7m^G(B[m Get Help[28;40H(B[0;7mM-D(B[m DOS Format[28;79H(B[0;7mM-A(B[m Append[28;118H(B[0;7mM-B(B[m Backup File[29d(B[0;7m^C(B[m Cancel[17G         [29;40H(B[0;7mM-M(B[m Mac Format[29;79H(B[0;7mM-P(B[m Prepend[29;118H(B[0;7m^T(B[m To Files[27d(B[0;7mFile Name to Write [DOS Format]: 2021-05-03.csv(B[m[27;48H[?12l[?25h[?25l[27;72H[1K (B[0;7m[ Writing... ](B[m[K[1;149H(B[0;7m        (B[m[27;71H(B[0;7m[ Wrote 2 lines ](B[m[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004lSkipping header
+
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+正在编辑文件: 2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 2 lines (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类,子类,特点,经度,纬度[?12l[?25h[?25l[3d[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004lSkipping header
+
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# csvtool 
+
+Command 'csvtool' not found, but can be installed with:
+
+apt install csvtool
+
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# apt install csvtool
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following package was automatically installed and is no longer required:
+  ssl-cert
+Use 'apt autoremove' to remove it.
+The following NEW packages will be installed:
+  csvtool
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 385 kB of archives.
+After this operation, 1551 kB of additional disk space will be used.
+[33m0% [Working][0m            Get:1 https://mirrors.tuna.tsinghua.edu.cn/ubuntu focal/universe amd64 csvtool amd64 2.4-1build1 [385 kB]
+[33m3% [1 csvtool 16.1 kB/385 kB 4%][0my[33m                                100% [Working][0m              Fetched 385 kB in 1s (562 kB/s)
+
+7[0;28r8[1ASelecting previously unselected package csvtool.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 91577 files and directories currently installed.)
+Preparing to unpack .../csvtool_2.4-1build1_amd64.deb ...
+7[29;0f[42m[30mProgress: [  0%][49m[39m [........................................................................................................................................] 87[29;0f[42m[30mProgress: [ 20%][49m[39m [###########################.............................................................................................................] 8Unpacking csvtool (2.4-1build1) ...
+7[29;0f[42m[30mProgress: [ 40%][49m[39m [######################################################..................................................................................] 8Setting up csvtool (2.4-1build1) ...
+7[29;0f[42m[30mProgress: [ 60%][49m[39m [#################################################################################.......................................................] 87[29;0f[42m[30mProgress: [ 80%][49m[39m [############################################################################################################............................] 8Processing triggers for man-db (2.9.1-1) ...
+
+7[0;29r8[1A[J]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ra[Kead a b
+a  	b
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $a
+a
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $a[Kb
+b
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo $b[Kecho $baread a bapt install csvtool[11Pread a bapt install csvtool[11Pcsvtool [2@./edit.sh[C[2Pcsvtool[Capt install csvtool[11Pread a b[1Pecho $aread a bapt install csvtool[11Pcsvtool [2@./edit.sh[C
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+调试模式已启用
+将创建当日的汇报文件：2021-05-03.csv
+[?2004h[?1049h[22;0;0t[1;29r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[27;73H(B[0;7m[ Reading... ](B[m[27;58H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                            2021-05-03.csv                                                                      [1;157H(B[m[28d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[28;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket[29d(B[0;7m^X(B[m Exit[29;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[29;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was[27d[2d[39;49m(B[m种类    子类    特点    经度    纬度[?12l[?25h[?25l[3d[?12l[?25h[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l请至少编写一行数据，格式为：种类\t子类\t特点\t经度\t纬度
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh [3Pecho $baread a b[1Pecho $ab./edit.sh [Knano template.csv [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# nano template.csv ~[K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# nano template.csv ~[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kre./edit.sh [3Pecho $baread a bapt install csvtool[11Pread a b[C[1@ [1@d[1@-[1P[1P[1@-[1@d[C[1@ [1@'[1@'[1@$[C
+^[[A^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# read -d $'' a b[1@\[1@t
+啊	]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# read -d $'\t' a b
+a^?啊	]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# read -d $'\t' a b[1P[1P[1P[1P[1P[1P[1P[1P[1P
+啊	吧
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# read a b[9@-d $'\t' [C[C[Ca b[K[K恶臭[K[Kecho ""啊"￥"啊"[2P"啊"[C[C "啊"- "啊"w "啊"[1P "啊"n "啊"[C "啊"- "啊"e "啊"[C[C[C[C\"t"吧"[C  [K| wc
+      0       2       7
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "啊\t吧" | wc[1@b[1@b[C[C[C[C[1@a[1@a
+      0       2      11
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "啊bb\t吧aa" | wc -
+      0       2      11 -
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "啊bb\t吧aa" | wc -[K^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# wc --help
+Usage: wc [OPTION]... [FILE]...
+  or:  wc [OPTION]... --files0-from=F
+Print newline, word, and byte counts for each FILE, and a total line if
+more than one FILE is specified.  A word is a non-zero-length sequence of
+characters delimited by white space.
+
+With no FILE, or when FILE is -, read standard input.
+
+The options below may be used to select which counts are printed, always in
+the following order: newline, word, character, byte, maximum line length.
+  -c, --bytes            print the byte counts
+  -m, --chars            print the character counts
+  -l, --lines            print the newline counts
+      --files0-from=F    read input from the files specified by
+                           NUL-terminated names in file F;
+                           If F is - then read names from standard input
+  -L, --max-line-length  print the maximum display width
+  -w, --words            print the word counts
+      --help     display this help and exit
+      --version  output version information and exit
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Report wc translation bugs to <https://translationproject.org/team/>
+Full documentation at: <https://www.gnu.org/software/coreutils/wc>
+or available locally via: info '(coreutils) wc invocation'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# wc --helpecho -n -e "啊bb\t吧aa" | wc -[K
+      0       2      11
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "啊bb\t吧aa" | wc -l
+0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "啊bb\t吧aa" | wc -l[K[K[K[K[K[K[K[K
+啊bb	吧aa]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "啊bb\t吧aa" | wc -l[K | wc -l
+0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "啊bb\t吧aa" | wc -l[K[K[K
+      0       2      11
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "啊bb\t吧aa" | wc | grep[K[K[K[Kawk '{print NF}'
+3
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# echo -n -e "啊bb\t吧aa" | wc | awk '{print NF}'[1PF}'[1PF}'[1PF}'[1PF}'[1PF}'[1PF}'[1PF}'[1PF}'[1PF}'[1PF}'[1PF}'[C[C[C[K[K[K[K[Kawk '{print $1,$2}'[C[1P}'[1P}'[1P}'[1P}'2}'
+2
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign#  | wc | awk '{print $2}'[23@echo -n -e "啊bb\t吧aa"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exit
+
+Script done on 2021-05-03 16:12:17+08:00 [COMMAND_EXIT_CODE="130"]
+Script started on 2021-05-12 10:53:56+08:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="120" LINES="30"]
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# s [K[Ks[K [Ks [K[K^V[Kprintf -v date '%(%Y-%m-%d %H:%M:%S)T\n' -1 
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# printf -v date '%(%Y-%m-%d %H:%M:%S)T\n' -1 [K[K[K
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# s [K[Kecho ""$"(date" '+%Y"-%m-%d" %H:%"M:%S"')"
+2021-05-12 10:55:09
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# echo "$(date '+%Y-%m-%d %H:%M:%S')"[1P')"[1P')"[1P')"[1P')"[1P')"[1P')"[1P')"[1P')"[1P')"
+2021-05-12
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# s [K[Ke[Kxe[Ke[K[Kexec 9 s [K[K[K<>[Cfu[Kfff
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# s [K[Kecho 123>>&9
+bash: syntax error near unexpected token `&'
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# echo 123>>&9[C[1P&9
+
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# s echo 123>&9[1P>&9[1P>&9[1P>&92>&93>&94>&9
+
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# s [K[Kecho 234>&94>&94>&94>&94>&94>&9
+bash: 9: Bad file descriptor
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# s [K[Kecho 23444444>&9
+bash: 9: Bad file descriptor
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# echo 23444444>&9[5P>&9123>&9>&9xec 9<>ffff
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# exec 9<>ffffcho 23444444>&9[5P>&9
+
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# echo 234>&9xec 9<>ffff[1Pcho 234>&9xec 9<>ffffcho 23444444>&9
+bash: 9: Bad file descriptor
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# echo 23444444>&9[5P>&9xec 9<>ffff[K[K[K[K-
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# 是[K是[Kls
+1.html               client.sh  [0m[01;34mdata[0m     functions.sh      server.sh     test.csv
+2021-05-03.csv       config.sh  edit.sh  main.sqlite3      t2            typescript
+2021-05-03.csv.save  d          ffff     main.sqlite3.bak  template.csv  w122.csv
+]0;root@LowDPI: /home/course/CourseDesignroot@LowDPI:/home/course/CourseDesign# s [K[Ks [K[Ks [K[Ks [K[Kexit
+exit
+
+Script done on 2021-05-12 15:10:06+08:00 [COMMAND_EXIT_CODE="0"]
