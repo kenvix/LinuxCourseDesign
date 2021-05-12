@@ -1,6 +1,5 @@
 #!/bin/bash
 
-export VERSION=1
 export IS_DEBUG=1
 export SERVER_PORT="45123"
 
