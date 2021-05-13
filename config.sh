@@ -3,6 +3,7 @@
 # 客户端设置
 export USER_STUDENT_ID="1145141919"
 export USER_NAME="李田所"
+export SERVER_ADDRESS="localhost"
 
 # 服务器设置
 export IS_DEBUG=1

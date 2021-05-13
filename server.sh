@@ -38,7 +38,7 @@ stdbuf -oL nc -vv -lkp $SERVER_PORT | {
 
                 case "$dType" in
                     # Add
-                    a)
+                    add)
                         IFS= read -r studentId
                         currentLine=0
                         log "接收到来自 $studentId 的请求"
@@ -56,7 +56,8 @@ stdbuf -oL nc -vv -lkp $SERVER_PORT | {
                                     if [ ! -n "$y" ]; then
                                         logW "第 $currentLine 行有错误，每行数据必须有 5 列"
                                     else
-                                          
+                                        log "正在处理：$mainType $subType $sku $userId $x $y"
+                                        addElementOrIncKillNumByTypeName "$mainType" "$subType" "$sku" "$userId" "$x" "$y"
                                     fi
                                 fi
                             done

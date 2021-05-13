@@ -16,20 +16,20 @@ fi
 
 log "正在与服务器建立连接"
 
-connectServer localhost 45123
-log "连接成功"
+function connectAndSendCSV {
+    checkParamNum 2 $*
+    local studentId="$1"
+    local file="$2"
+    local server="${SERVER_ADDRESS-"localhost"}"
+    local port="${SERVER_PORT-"45123"}"
+    connectServer "$server" "$port"
+    log "连接成功"
 
-sendHeader
-sendType "ax"
-sendLine "ass"
-sendLine "sdasad"
-sendString "443434626"
-sendFooter
+    sendHeader
+    sendType "add"
+    sendLine "$studentId"
+    sendFile "$file"
+    sendFooter
 
-sendHeader
-sendLine "333dd"
-sendLine "2121321"
-sendString "ytuty"
-sendFooter
-
-disconnectServer
+    disconnectServer
+}
