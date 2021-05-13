@@ -3460,4 +3460,1069 @@ Processing triggers for initramfs-tools (0.136ubuntu6.4) ...
 [2021-05-13 19:33:05] [DEBUG] 调试模式已启用
 [2021-05-13 19:33:05] [INFO] 正在与服务器建立连接
 是否立刻发送此文件？^C
-]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CScript started on 2021-05-13 20:13:33+08:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="83" LINES="11"]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ps f
+  PID TTY      STAT   TIME COMMAND
+  228 tty2     Ss     0:00 /init
+  229 tty2     S      0:00  \_ -bash
+  280 tty2     S      0:00      \_ script -a t2
+  281 pts/0    Ss     0:00          \_ bash -i
+    7 tty1     Ss     0:00 /init
+    8 tty1     S      0:00  \_ -bash
+  289 tty1     S      0:00      \_ script -a
+  290 pts/1    Ss     0:00          \_ bash -i
+  297 pts/1    R      0:00              \_ ps f
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# s [K[Ks [K[K
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 20:27:34] [DEBUG] 调试模式已启用
+[2021-05-13 20:27:35] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 20:27:35] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 20:27:35] [INFO] 连接成功
+[2021-05-13 20:27:35] [DEBUG] [SEND]: #%?\n
+[2021-05-13 20:27:35] [DEBUG] [SEND]: add
+[2021-05-13 20:27:35] [DEBUG] [SEND]: 1145141919
+[2021-05-13 20:27:35] [DEBUG] [SEND]: \0
+[2021-05-13 20:27:35] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:22:31] [DEBUG] 调试模式已启用
+[2021-05-13 21:22:31] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:22:31] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:22:31] [INFO] 连接成功
+[2021-05-13 21:22:31] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:22:31] [DEBUG] [SEND]: add
+[2021-05-13 21:22:31] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:22:31] [DEBUG] [SEND]: \0
+[2021-05-13 21:22:31] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:23:27] [DEBUG] 调试模式已启用
+[2021-05-13 21:23:27] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:23:27] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:23:27] [INFO] 连接成功
+[2021-05-13 21:23:27] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:23:27] [DEBUG] [SEND]: add
+[2021-05-13 21:23:27] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:23:27] [DEBUG] [SEND]: \0
+[2021-05-13 21:23:27] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# tee
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# tee --help
+Usage: tee [OPTION]... [FILE]...
+Copy standard input to each FILE, and also to standard output.
+
+  -a, --append              append to the given FILEs, do not overwrite
+  -i, --ignore-interrupts   ignore interrupt signals
+  -p                        diagnose errors writing to non pipes
+      --output-error[=MODE]   set behavior on write error.  See MODE below
+      --help     display this help and exit
+      --version  output version information and exit
+
+MODE determines behavior with write errors on the outputs:
+  'warn'         diagnose errors writing to any output
+  'warn-nopipe'  diagnose errors writing to any output not a pipe
+  'exit'         exit on error writing to any output
+  'exit-nopipe'  exit on error writing to any output not a pipe
+The default MODE for the -p option is 'warn-nopipe'.
+The default operation when --output-error is not specified, is to
+exit immediately on error writing to a pipe, and diagnose errors
+writing to non pipe outputs.
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Report tee translation bugs to <https://translationproject.org/team/>
+Full documentation at: <https://www.gnu.org/software/coreutils/tee>
+or available locally via: info '(coreutils) tee invocation'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# tee --help
+Usage: tee [OPTION]... [FILE]...
+Copy standard input to each FILE, and also to standard output.
+
+  -a, --append              append to the given FILEs, do not overwrite
+  -i, --ignore-interrupts   ignore interrupt signals
+  -p                        diagnose errors writing to non pipes
+      --output-error[=MODE]   set behavior on write error.  See MODE below
+      --help     display this help and exit
+      --version  output version information and exit
+
+MODE determines behavior with write errors on the outputs:
+  'warn'         diagnose errors writing to any output
+  'warn-nopipe'  diagnose errors writing to any output not a pipe
+  'exit'         exit on error writing to any output
+  'exit-nopipe'  exit on error writing to any output not a pipe
+The default MODE for the -p option is 'warn-nopipe'.
+The default operation when --output-error is not specified, is to
+exit immediately on error writing to a pipe, and diagnose errors
+writing to non pipe outputs.
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Report tee translation bugs to <https://translationproject.org/team/>
+Full documentation at: <https://www.gnu.org/software/coreutils/tee>
+or available locally via: info '(coreutils) tee invocation'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# tee --help[K./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:26:03] [DEBUG] 调试模式已启用
+[2021-05-13 21:26:03] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:26:03] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:26:03] [INFO] 连接成功
+[2021-05-13 21:26:03] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:26:03] [DEBUG] [SEND]: add
+[2021-05-13 21:26:03] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:26:03] [DEBUG] [SEND]: \0
+[2021-05-13 21:26:03] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:26:18] [DEBUG] 调试模式已启用
+[2021-05-13 21:26:18] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:26:18] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:26:18] [INFO] 连接成功
+[2021-05-13 21:26:18] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:26:18] [DEBUG] [SEND]: add
+[2021-05-13 21:26:18] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:26:18] [DEBUG] [SEND]: \0
+[2021-05-13 21:26:18] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:28:11] [DEBUG] 调试模式已启用
+[2021-05-13 21:28:11] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:28:11] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:28:11] [INFO] 连接成功
+[2021-05-13 21:28:11] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:28:11] [DEBUG] [SEND]: add
+[2021-05-13 21:28:11] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:28:11] [DEBUG] [SEND]: \0
+[2021-05-13 21:28:11] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:28:34] [DEBUG] 调试模式已启用
+[2021-05-13 21:28:34] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:28:34] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:28:34] [INFO] 连接成功
+[2021-05-13 21:28:34] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:28:34] [DEBUG] [SEND]: add
+[2021-05-13 21:28:34] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:28:34] [DEBUG] [SEND]: \0
+[2021-05-13 21:28:34] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:29:30] [DEBUG] 调试模式已启用
+[2021-05-13 21:29:30] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:29:30] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:29:30] [INFO] 连接成功
+[2021-05-13 21:29:30] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:29:30] [DEBUG] [SEND]: add
+[2021-05-13 21:29:30] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:29:30] [DEBUG] [SEND]: \0
+[2021-05-13 21:29:30] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:30:36] [DEBUG] 调试模式已启用
+[2021-05-13 21:30:36] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:30:36] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:30:36] [INFO] 连接成功
+[2021-05-13 21:30:36] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:30:36] [DEBUG] [SEND]: add
+[2021-05-13 21:30:36] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:30:36] [DEBUG] [SEND]: \0
+[2021-05-13 21:30:36] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:31:07] [DEBUG] 调试模式已启用
+[2021-05-13 21:31:07] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:31:07] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:31:07] [INFO] 连接成功
+[2021-05-13 21:31:07] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:31:07] [DEBUG] [SEND]: add
+[2021-05-13 21:31:07] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:31:07] [DEBUG] [SEND]: \0
+[2021-05-13 21:31:07] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:33:57] [DEBUG] 调试模式已启用
+[2021-05-13 21:33:57] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:33:57] [DEBUG] [CONNECT] localhost:45123
+./functions.sh: connect: Connection refused
+./functions.sh: line 55: /dev/tcp/localhost/45123: Connection refused
+[2021-05-13 21:33:57] [ERROR] 连接服务器失败
+发送文件失败失败，是否重试？[y/n] y
+[2021-05-13 21:34:01] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:34:01] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:34:01] [INFO] 连接成功
+[2021-05-13 21:34:01] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:34:01] [DEBUG] [SEND]: add
+[2021-05-13 21:34:01] [DEBUG] [SEND]: 1145141919
+./functions.sh: line 311: "2021-05-13.csv": No such file or directory
+[2021-05-13 21:34:01] [DEBUG] [SEND]: 
+[2021-05-13 21:34:01] [DEBUG] [SEND]: \0
+[2021-05-13 21:34:01] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:34:13] [DEBUG] 调试模式已启用
+[2021-05-13 21:34:13] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:34:13] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:34:13] [INFO] 连接成功
+[2021-05-13 21:34:13] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:34:13] [DEBUG] [SEND]: add
+[2021-05-13 21:34:13] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:34:13] [DEBUG] [SEND]: 2
+[2021-05-13 21:34:13] [DEBUG] [SEND]: \0
+[2021-05-13 21:34:13] [DEBUG] [CLOSE] :
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:37:51] [DEBUG] 调试模式已启用
+[2021-05-13 21:37:51] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:37:51] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:37:51] [INFO] 连接成功
+[2021-05-13 21:37:51] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:37:51] [DEBUG] [SEND]: add
+[2021-05-13 21:37:51] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:37:51] [DEBUG] [SEND]: 2
+[2021-05-13 21:37:51] [DEBUG] [SEND]: \0
+[2021-05-13 21:37:51] [DEBUG] [CLOSE] :
+[2021-05-13 21:37:51] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:39:03] [DEBUG] 调试模式已启用
+[2021-05-13 21:39:03] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:39:03] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:39:03] [INFO] 连接成功
+[2021-05-13 21:39:03] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:39:03] [DEBUG] [SEND]: add
+[2021-05-13 21:39:03] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:39:03] [DEBUG] [SEND]: 2
+[2021-05-13 21:39:03] [DEBUG] [SEND]: \0
+[2021-05-13 21:39:03] [DEBUG] [CLOSE] :
+[2021-05-13 21:39:03] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:39:36] [DEBUG] 调试模式已启用
+[2021-05-13 21:39:36] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:39:36] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:39:36] [INFO] 连接成功
+[2021-05-13 21:39:36] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:39:36] [DEBUG] [SEND]: add
+[2021-05-13 21:39:36] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:39:36] [DEBUG] [SEND]: 2
+[2021-05-13 21:39:36] [DEBUG] [SEND]: \0
+[2021-05-13 21:39:36] [DEBUG] [CLOSE] :
+[2021-05-13 21:39:36] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:39:38] [DEBUG] 调试模式已启用
+[2021-05-13 21:39:39] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:39:39] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:39:39] [INFO] 连接成功
+[2021-05-13 21:39:39] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:39:39] [DEBUG] [SEND]: add
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:39:40] [DEBUG] 调试模式已启用
+[2021-05-13 21:39:40] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:39:40] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:39:40] [INFO] 连接成功
+[2021-05-13 21:39:40] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:39:40] [DEBUG] [SEND]: add
+[2021-05-13 21:39:40] [DEBUG] [SEND]: 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:39:40] [DEBUG] 调试模式已启用
+[2021-05-13 21:39:41] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:39:41] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:39:41] [INFO] 连接成功
+[2021-05-13 21:39:41] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:39:41] [DEBUG] [SEND]: add
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:39:41] [DEBUG] 调试模式已启用
+[2021-05-13 21:39:41] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:39:41] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:39:41] [INFO] 连接成功
+[2021-05-13 21:39:41] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:39:41] [DEBUG] [SEND]: add
+[2021-05-13 21:39:41] [DEBUG] [SEND]: 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:39:45] [DEBUG] 调试模式已启用
+[2021-05-13 21:39:45] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:39:45] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:39:45] [INFO] 连接成功
+[2021-05-13 21:39:45] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:39:45] [DEBUG] [SEND]: add
+[2021-05-13 21:39:45] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:39:45] [DEBUG] [SEND]: 2
+[2021-05-13 21:39:45] [DEBUG] [SEND]: \0
+[2021-05-13 21:39:45] [DEBUG] [CLOSE] :
+[2021-05-13 21:39:45] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:41:39] [DEBUG] 调试模式已启用
+[2021-05-13 21:41:39] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:41:39] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:41:39] [INFO] 连接成功
+[2021-05-13 21:41:39] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:41:39] [DEBUG] [SEND]: add
+[2021-05-13 21:41:39] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:41:39] [DEBUG] [SEND]: 2
+[2021-05-13 21:41:39] [DEBUG] [SEND]: \0
+[2021-05-13 21:41:39] [DEBUG] [CLOSE] :
+[2021-05-13 21:41:39] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:42:14] [DEBUG] 调试模式已启用
+[2021-05-13 21:42:14] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:42:14] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:42:14] [INFO] 连接成功
+[2021-05-13 21:42:14] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:42:14] [DEBUG] [SEND]: add
+[2021-05-13 21:42:14] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:42:14] [DEBUG] [SEND]: 2
+[2021-05-13 21:42:14] [DEBUG] [SEND]: \0
+[2021-05-13 21:42:14] [DEBUG] [CLOSE] :
+[2021-05-13 21:42:14] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:42:42] [DEBUG] 调试模式已启用
+[2021-05-13 21:42:42] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:42:42] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:42:42] [INFO] 连接成功
+[2021-05-13 21:42:42] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:42:42] [DEBUG] [SEND]: add
+[2021-05-13 21:42:42] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:42:42] [DEBUG] [SEND]: 2
+[2021-05-13 21:42:42] [DEBUG] [SEND]: \0
+[2021-05-13 21:42:42] [DEBUG] [CLOSE] :
+[2021-05-13 21:42:42] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:42:58] [DEBUG] 调试模式已启用
+[2021-05-13 21:42:58] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:42:58] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:42:58] [INFO] 连接成功
+[2021-05-13 21:42:58] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:42:58] [DEBUG] [SEND]: add
+[2021-05-13 21:42:58] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:42:58] [DEBUG] [SEND]: 2
+[2021-05-13 21:42:58] [DEBUG] [SEND]: \0
+[2021-05-13 21:42:58] [DEBUG] [CLOSE] :
+[2021-05-13 21:42:58] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:43:47] [DEBUG] 调试模式已启用
+[2021-05-13 21:43:47] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:43:47] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:43:47] [INFO] 连接成功
+[2021-05-13 21:43:47] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:43:47] [DEBUG] [SEND]: add
+[2021-05-13 21:43:47] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:43:47] [DEBUG] [SEND]: 2
+[2021-05-13 21:43:47] [DEBUG] [SEND]: \0
+[2021-05-13 21:43:47] [DEBUG] [CLOSE] :
+[2021-05-13 21:43:47] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:44:39] [DEBUG] 调试模式已启用
+[2021-05-13 21:44:39] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:44:39] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:44:39] [INFO] 连接成功
+[2021-05-13 21:44:39] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:44:39] [DEBUG] [SEND]: add
+[2021-05-13 21:44:39] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:44:39] [DEBUG] [SEND]: 2
+[2021-05-13 21:44:39] [DEBUG] [SEND]: \0
+[2021-05-13 21:44:39] [DEBUG] [CLOSE] :
+[2021-05-13 21:44:39] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:45:28] [DEBUG] 调试模式已启用
+[2021-05-13 21:45:28] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:45:28] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:45:28] [INFO] 连接成功
+[2021-05-13 21:45:28] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:45:28] [DEBUG] [SEND]: add
+[2021-05-13 21:45:28] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:45:28] [DEBUG] [SEND]: 2
+[2021-05-13 21:45:28] [DEBUG] [SEND]: \0
+[2021-05-13 21:45:28] [DEBUG] [CLOSE] :
+[2021-05-13 21:45:28] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:47:11] [DEBUG] 调试模式已启用
+[2021-05-13 21:47:11] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:47:11] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:47:11] [INFO] 连接成功
+[2021-05-13 21:47:11] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:47:11] [DEBUG] [SEND]: add
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:47:12] [DEBUG] 调试模式已启用
+[2021-05-13 21:47:12] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:47:12] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:47:12] [INFO] 连接成功
+[2021-05-13 21:47:12] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:47:12] [DEBUG] [SEND]: add
+[2021-05-13 21:47:12] [DEBUG] [SEND]: 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:48:46] [DEBUG] 调试模式已启用
+[2021-05-13 21:48:46] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:48:47] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:48:47] [INFO] 连接成功
+[2021-05-13 21:48:47] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:48:47] [DEBUG] [SEND]: add
+[2021-05-13 21:48:47] [DEBUG] [SEND]: 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:48:49] [DEBUG] 调试模式已启用
+[2021-05-13 21:48:49] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:48:49] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:48:49] [INFO] 连接成功
+[2021-05-13 21:48:49] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:48:49] [DEBUG] [SEND]: add
+[2021-05-13 21:48:49] [DEBUG] [SEND]: 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:48:56] [DEBUG] 调试模式已启用
+[2021-05-13 21:48:56] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:48:56] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:48:56] [INFO] 连接成功
+[2021-05-13 21:48:56] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:48:56] [DEBUG] [SEND]: add
+[2021-05-13 21:48:56] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:48:56] [DEBUG] [SEND]: 2
+[2021-05-13 21:48:56] [DEBUG] [SEND]: \0
+[2021-05-13 21:48:56] [DEBUG] [CLOSE] :
+[2021-05-13 21:48:56] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:49:44] [DEBUG] 调试模式已启用
+[2021-05-13 21:49:44] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:49:44] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:49:44] [INFO] 连接成功
+[2021-05-13 21:49:44] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:49:44] [DEBUG] [SEND]: add
+[2021-05-13 21:49:44] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:49:44] [DEBUG] [SEND]: 2
+[2021-05-13 21:49:44] [DEBUG] [SEND]: \0
+[2021-05-13 21:49:44] [DEBUG] [CLOSE] :
+[2021-05-13 21:49:44] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:49:46] [DEBUG] 调试模式已启用
+[2021-05-13 21:49:46] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:49:46] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:49:46] [INFO] 连接成功
+[2021-05-13 21:49:46] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:49:46] [DEBUG] [SEND]: add
+[2021-05-13 21:49:46] [DEBUG] [SEND]: 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:49:47] [DEBUG] 调试模式已启用
+[2021-05-13 21:49:47] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:49:47] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:49:47] [INFO] 连接成功
+[2021-05-13 21:49:47] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:49:47] [DEBUG] [SEND]: add
+[2021-05-13 21:49:47] [DEBUG] [SEND]: 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:51:36] [DEBUG] 调试模式已启用
+[2021-05-13 21:51:36] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:51:36] [DEBUG] [CONNECT] localhost:45123
+./functions.sh: connect: Connection refused
+./functions.sh: line 55: /dev/tcp/localhost/45123: Connection refused
+[2021-05-13 21:51:36] [ERROR] 连接服务器失败
+发送文件失败失败，是否重试？[y/n] y
+[2021-05-13 21:51:39] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:51:39] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:51:39] [INFO] 连接成功
+[2021-05-13 21:51:39] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:51:39] [DEBUG] [SEND]: add
+[2021-05-13 21:51:39] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:51:39] [DEBUG] [SEND]: 2
+[2021-05-13 21:51:39] [DEBUG] [SEND-FILE]: 2021-05-13.csv
+[2021-05-13 21:51:39] [DEBUG] [SEND]: \0
+[2021-05-13 21:51:39] [DEBUG] [CLOSE] :
+[2021-05-13 21:51:39] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:52:06] [DEBUG] 调试模式已启用
+[2021-05-13 21:52:06] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:52:06] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:52:06] [INFO] 连接成功
+[2021-05-13 21:52:06] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:52:06] [DEBUG] [SEND]: add
+[2021-05-13 21:52:06] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:52:06] [DEBUG] [SEND]: 2
+[2021-05-13 21:52:06] [DEBUG] [SEND-FILE]: 2021-05-13.csv
+[2021-05-13 21:52:06] [DEBUG] [SEND]: \0
+[2021-05-13 21:52:06] [DEBUG] [CLOSE] :
+[2021-05-13 21:52:06] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:52:40] [DEBUG] 调试模式已启用
+[2021-05-13 21:52:40] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:52:40] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:52:40] [INFO] 连接成功
+[2021-05-13 21:52:40] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:52:40] [DEBUG] [SEND]: add
+[2021-05-13 21:52:40] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:52:40] [DEBUG] [SEND]: 2
+[2021-05-13 21:52:40] [DEBUG] [SEND-FILE]: 2021-05-13.csv
+[2021-05-13 21:52:40] [DEBUG] [SEND]: \0
+[2021-05-13 21:52:40] [DEBUG] [CLOSE] :
+[2021-05-13 21:52:40] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:53:07] [DEBUG] 调试模式已启用
+[2021-05-13 21:53:07] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:53:07] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:53:07] [INFO] 连接成功
+[2021-05-13 21:53:07] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:53:07] [DEBUG] [SEND]: add
+[2021-05-13 21:53:07] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:53:08] [DEBUG] [SEND]: 2
+[2021-05-13 21:53:08] [DEBUG] [SEND-FILE]: 2021-05-13.csv
+[2021-05-13 21:53:08] [DEBUG] [SEND]: \0
+[2021-05-13 21:53:08] [DEBUG] [CLOSE] :
+[2021-05-13 21:53:08] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:53:10] [DEBUG] 调试模式已启用
+[2021-05-13 21:53:10] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 21:53:10] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 21:53:10] [INFO] 连接成功
+[2021-05-13 21:53:10] [DEBUG] [SEND]: #%?\n
+[2021-05-13 21:53:10] [DEBUG] [SEND]: add
+[2021-05-13 21:53:10] [DEBUG] [SEND]: 1145141919
+[2021-05-13 21:53:10] [DEBUG] [SEND]: 2
+[2021-05-13 21:53:10] [DEBUG] [SEND-FILE]: 2021-05-13.csv
+[2021-05-13 21:53:10] [DEBUG] [SEND]: \0
+[2021-05-13 21:53:10] [DEBUG] [CLOSE] :
+[2021-05-13 21:53:10] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# nc --help
+nc: invalid option -- '-'
+usage: nc [-46CDdFhklNnrStUuvZz] [-I length] [-i interval] [-M ttl]
+	  [-m minttl] [-O length] [-P proxy_username] [-p source_port]
+	  [-q seconds] [-s source] [-T keyword] [-V rtable] [-W recvlimit] [-w timeout]
+	  [-X proxy_protocol] [-x proxy_address[:port]] 	  [destination] [port]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# man nc
+[?1049h[22;0;0t[?1h=NC(1)                      BSD General Commands Manual                     NC(1)[m
+[m
+[1mNAME[0m[m
+     [1mnc[0m — arbitrary TCP and UDP connections and listens[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mnc[0m [[1m-46bCDdFhklNnrStUuvZz[0m] [[1m-I[0m [4mlength[24m] [[1m-i[0m [4minterval[24m] [[1m-M[0m [4mttl[24m] [[1m-m[0m [4mminttl[24m][m
+        [[1m-O[0m [4mlength[24m] [[1m-P[0m [4mproxy_username[24m] [[1m-p[0m [4msource_port[24m] [[1m-q[0m [4mseconds[24m][m
+        [[1m-s[0m [4msource[24m] [[1m-T[0m [4mkeyword[24m] [[1m-V[0m [4mrtable[24m] [[1m-W[0m [4mrecvlimit[24m] [[1m-w[0m [4mtimeout[24m][m
+        [[1m-X[0m [4mproxy_protocol[24m] [[1m-x[0m [4mproxy_address[24m[:[4mport[24m]] [[4mdestination[24m] [[4mport[24m][m
+[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+[1mDESCRIPTION[0m[m
+     The [1mnc[0m (or [1mnetcat[0m) utility is used for just about anything under the sun[m
+     involving TCP, UDP, or UNIX-domain sockets.  It can open TCP connections,[m
+     send UDP packets, listen on arbitrary TCP and UDP ports, do port scanning,[m
+     and deal with both IPv4 and IPv6.  Unlike telnet(1), [1mnc[0m scripts nicely, and[m
+     separates error messages onto standard error instead of sending them to[m
+     standard output, as telnet(1) does with some.[m
+[m
+     Common uses include:[m
+[7m Manual page nc(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM        [[1m-X[0m [4mproxy_protocol[24m] [[1m-x[0m [4mproxy_address[24m[:[4mport[24m]] [[4mdestination[24m] [[4mport[24m][m
+[HM        [[1m-s[0m [4msource[24m] [[1m-T[0m [4mkeyword[24m] [[1m-V[0m [4mrtable[24m] [[1m-W[0m [4mrecvlimit[24m] [[1m-w[0m [4mtimeout[24m][m
+[HM        [[1m-O[0m [4mlength[24m] [[1m-P[0m [4mproxy_username[24m] [[1m-p[0m [4msource_port[24m] [[1m-q[0m [4mseconds[24m][m
+[HM     [1mnc[0m [[1m-46bCDdFhklNnrStUuvZz[0m] [[1m-I[0m [4mlength[24m] [[1m-i[0m [4minterval[24m] [[1m-M[0m [4mttl[24m] [[1m-m[0m [4mminttl[24m][m
+[HM[1mSYNOPSIS[0m[m
+[HM[m
+[HM     [1mnc[0m — arbitrary TCP and UDP connections and listens[m
+[HM[1mNAME[0m[m
+[HM[m
+[HMNC(1)                      BSD General Commands Manual                     NC(1)[m
+[11;1H[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+[1mDESCRIPTION[0m[m
+     The [1mnc[0m (or [1mnetcat[0m) utility is used for just about anything under the sun[m
+     involving TCP, UDP, or UNIX-domain sockets.  It can open TCP connections,[m
+     send UDP packets, listen on arbitrary TCP and UDP ports, do port scanning,[m
+     and deal with both IPv4 and IPv6.  Unlike telnet(1), [1mnc[0m scripts nicely, and[m
+     separates error messages onto standard error instead of sending them to[m
+     standard output, as telnet(1) does with some.[m
+[m
+     Common uses include:[m
+[7m Manual page nc(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+           [1m•[0m   simple TCP proxies[m
+           [1m•[0m   shell-script based HTTP clients and servers[m
+           [1m•[0m   network daemon testing[m
+           [1m•[0m   a SOCKS or HTTP ProxyCommand for ssh(1)[m
+           [1m•[0m   and much, much more[m
+[m
+     The options are as follows:[m
+[m
+     [1m-4[0m      Use IPv4 addresses only.[m
+[7m Manual page nc(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-6[0m      Use IPv6 addresses only.[m
+[m
+     [1m-b[0m      Allow broadcast.[m
+[m
+     [1m-C[0m      Send CRLF as line-ending.  Each line feed (LF) character from the[m
+             input data is translated into CR+LF before being written to the[m
+             socket.  Line feed characters that are already preceded with a car‐[m
+             riage return (CR) are not translated.  Received data is not af‐[m
+             fected.[m
+[7m Manual page nc(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-D[0m      Enable debugging on the socket.[m
+[m
+     [1m-d[0m      Do not attempt to read from stdin.[m
+[m
+     [1m-F[0m      Pass the first connected socket using sendmsg(2) to stdout and[m
+             exit.  This is useful in conjunction with [1m-X[0m to have [1mnc[0m perform[m
+             connection setup with a proxy but then leave the rest of the con‐[m
+             nection to another program (e.g. ssh(1) using the ssh_config(5)[m
+             [1mProxyUseFdpass[0m option).  Cannot be used with [1m-U[0m.[m
+[7m Manual page nc(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-h[0m      Print out the [1mnc[0m help text and exit.[m
+[m
+     [1m-I[0m [4mlength[24m[m
+             Specify the size of the TCP receive buffer.[m
+[m
+     [1m-i[0m [4minterval[24m[m
+             Sleep for [4minterval[24m seconds between lines of text sent and received.[m
+             Also causes a delay time between connections to multiple ports.[m
+[m
+[7m Manual page nc(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     [1m-k[0m      When a connection is completed, listen for another one.  Requires[m
+             [1m-l[0m.  When used together with the [1m-u[0m option, the server socket is[m
+             not connected and it can receive UDP datagrams from multiple hosts.[m
+[m
+     [1m-l[0m      Listen for an incoming connection rather than initiating a connec‐[m
+             tion to a remote host.  The [4mdestination[24m and [4mport[24m to listen on can[m
+             be specified either as non-optional arguments, or with options [1m-s[0m[m
+             and [1m-p[0m respectively.  Cannot be used together with [1m-x[0m or [1m-z[0m.  Addi‐[m
+             tionally, any timeouts specified with the [1m-w[0m option are ignored.[m
+[m
+[7m Manual page nc(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     [1m-M[0m [4mttl[24m  Set the TTL / hop limit of outgoing packets.[m
+[m
+     [1m-m[0m [4mminttl[24m[m
+             Ask the kernel to drop incoming packets whose TTL / hop limit is[m
+             under [4mminttl[24m.[m
+[m
+     [1m-N[0m      shutdown(2) the network socket after EOF on the input.  Some[m
+             servers require this to finish their work.[m
+[m
+     [1m-n[0m      Do not do any DNS or service lookups on any specified addresses,[m
+[7m Manual page nc(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             hostnames or ports.[m
+[m
+     [1m-O[0m [4mlength[24m[m
+             Specify the size of the TCP send buffer.[m
+[m
+     [1m-P[0m [4mproxy_username[24m[m
+             Specifies a username to present to a proxy server that requires au‐[m
+             thentication.  If no username is specified then authentication will[m
+             not be attempted.  Proxy authentication is only supported for HTTP[m
+             CONNECT proxies at present.[m
+[7m Manual page nc(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-p[0m [4msource_port[24m[m
+             Specify the source port [1mnc[0m should use, subject to privilege re‐[m
+             strictions and availability.[m
+[m
+     [1m-q[0m [4mseconds[24m[m
+             after EOF on stdin, wait the specified number of [4mseconds[24m and then[m
+             quit. If [4mseconds[24m is negative, wait forever (default).  Specifying a[m
+             non-negative [4mseconds[24m implies [1m-N[0m.[m
+[m
+[7m Manual page nc(1) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     [1m-r[0m      Choose source and/or destination ports randomly instead of sequen‐[m
+             tially within a range or in the order that the system assigns them.[m
+[m
+     [1m-S[0m      Enable the RFC 2385 TCP MD5 signature option.[m
+[m
+     [1m-s[0m [4msource[24m[m
+             Send packets from the interface with the [4msource[24m IP address.  For[m
+             UNIX-domain datagram sockets, specifies the local temporary socket[m
+             file to create and use so that datagrams can be received.  Cannot[m
+             be used together with [1m-x[0m.[m
+[7m Manual page nc(1) line 101 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-T[0m [4mkeyword[24m[m
+             Change the IPv4 TOS/IPv6 traffic class value.  [4mkeyword[24m may be one[m
+             of [1mcritical[0m, [1minetcontrol[0m, [1mlowcost[0m, [1mlowdelay[0m, [1mnetcontrol[0m,[m
+             [1mthroughput[0m, [1mreliability[0m, or one of the DiffServ Code Points: [1mef[0m,[m
+             [1maf11[0m ... [1maf43[0m, [1mcs0[0m ... [1mcs7[0m; or a number in either hex or decimal.[m
+[m
+     [1m-t[0m      Send RFC 854 DON'T and WON'T responses to RFC 854 DO and WILL re‐[m
+             quests.  This makes it possible to use [1mnc[0m to script telnet ses‐[m
+             sions.[m
+[7m Manual page nc(1) line 111 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-U[0m      Use UNIX-domain sockets.  Cannot be used together with [1m-F[0m or [1m-x[0m.[m
+[m
+     [1m-u[0m      Use UDP instead of TCP.  Cannot be used together with [1m-x[0m.  For[m
+             UNIX-domain sockets, use a datagram socket instead of a stream[m
+             socket.  If a UNIX-domain socket is used, a temporary receiving[m
+             socket is created in [4m/tmp[24m unless the [1m-s[0m flag is given.[m
+[m
+     [1m-V[0m [4mrtable[24m[m
+             Set the routing table to be used.[m
+[7m Manual page nc(1) line 121 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-v[0m      Produce more verbose output.[m
+[m
+     [1m-W[0m [4mrecvlimit[24m[m
+             Terminate after receiving [4mrecvlimit[24m packets from the network.[m
+[m
+     [1m-w[0m [4mtimeout[24m[m
+             Connections which cannot be established or are idle timeout after[m
+             [4mtimeout[24m seconds.  The [1m-w[0m flag has no effect on the [1m-l[0m option, i.e.[m
+             [1mnc[0m will listen forever for a connection, with or without the [1m-w[0m[m
+[7m Manual page nc(1) line 131 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             flag.  The default is no timeout.[m
+[m
+     [1m-X[0m [4mproxy_protocol[24m[m
+             Use [4mproxy_protocol[24m when talking to the proxy server.  Supported[m
+             protocols are [1m4[0m (SOCKS v.4), [1m5[0m (SOCKS v.5) and [1mconnect[0m (HTTPS[m
+             proxy).  If the protocol is not specified, SOCKS version 5 is used.[m
+[m
+     [1m-x[0m [4mproxy_address[24m[:[4mport[24m][m
+             Connect to [4mdestination[24m using a proxy at [4mproxy_address[24m and [4mport[24m.  If[m
+             [4mport[24m is not specified, the well-known port for the proxy protocol[m
+[7m Manual page nc(1) line 141 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             is used (1080 for SOCKS, 3128 for HTTPS).  An IPv6 address can be[m
+             specified unambiguously by enclosing [4mproxy_address[24m in square brack‐[m
+             ets.  A proxy cannot be used with any of the options [1m-lsuU[0m.[m
+[m
+     [1m-Z[0m      DCCP mode.[m
+[m
+     [1m-z[0m      Only scan for listening daemons, without sending any data to them.[m
+             Cannot be used together with [1m-l[0m.[m
+[m
+     [4mdestination[24m can be a numerical IP address or a symbolic hostname (unless[m
+[7m Manual page nc(1) line 151 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     the [1m-n[0m option is given).  In general, a destination must be specified, un‐[m
+     less the [1m-l[0m option is given (in which case the local host is used).  For[m
+     UNIX-domain sockets, a destination is required and is the socket path to[m
+     connect to (or listen on if the [1m-l[0m option is given).[m
+[m
+     [4mport[24m can be specified as a numeric port number or as a service name.  Port[m
+     ranges may be specified as numeric port numbers of the form [4mnn[24m-[4mmm[24m.  In gen‐[m
+     eral, a destination port must be specified, unless the [1m-U[0m option is given.[m
+[m
+[1mCLIENT/SERVER[0m [1mMODEL[0m[m
+[7m Manual page nc(1) line 161 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     It is quite simple to build a very basic client/server model using [1mnc[0m.  On[m
+     one console, start [1mnc[0m listening on a specific port for a connection.  For[m
+     example:[m
+[m
+           $ nc -l 1234[m
+[m
+     [1mnc[0m is now listening on port 1234 for a connection.  On a second console (or[m
+     a second machine), connect to the machine and port being listened on:[m
+[m
+           $ nc 127.0.0.1 1234[m
+[7m Manual page nc(1) line 171 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM[1mCLIENT/SERVER[0m [1mMODEL[0m[m
+[HM[m
+[HM     eral, a destination port must be specified, unless the [1m-U[0m option is given.[m
+[HM     ranges may be specified as numeric port numbers of the form [4mnn[24m-[4mmm[24m.  In gen‐[m
+[HM     [4mport[24m can be specified as a numeric port number or as a service name.  Port[m
+[HM[m
+[HM     connect to (or listen on if the [1m-l[0m option is given).[m
+[HM     UNIX-domain sockets, a destination is required and is the socket path to[m
+[HM     less the [1m-l[0m option is given (in which case the local host is used).  For[m
+[HM     the [1m-n[0m option is given).  In general, a destination must be specified, un‐[m
+[11;1H[K[7m Manual page nc(1) line 161 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     [4mdestination[24m can be a numerical IP address or a symbolic hostname (unless[m
+[HM[m
+[HM             Cannot be used together with [1m-l[0m.[m
+[HM     [1m-z[0m      Only scan for listening daemons, without sending any data to them.[m
+[HM[m
+[HM     [1m-Z[0m      DCCP mode.[m
+[HM[m
+[HM             ets.  A proxy cannot be used with any of the options [1m-lsuU[0m.[m
+[HM             specified unambiguously by enclosing [4mproxy_address[24m in square brack‐[m
+[HM             is used (1080 for SOCKS, 3128 for HTTPS).  An IPv6 address can be[m
+[11;1H[K[7m Manual page nc(1) line 151 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             [4mport[24m is not specified, the well-known port for the proxy protocol[m
+[HM             Connect to [4mdestination[24m using a proxy at [4mproxy_address[24m and [4mport[24m.  If[m
+[HM     [1m-x[0m [4mproxy_address[24m[:[4mport[24m][m
+[HM[m
+[HM             proxy).  If the protocol is not specified, SOCKS version 5 is used.[m
+[HM             protocols are [1m4[0m (SOCKS v.4), [1m5[0m (SOCKS v.5) and [1mconnect[0m (HTTPS[m
+[HM             Use [4mproxy_protocol[24m when talking to the proxy server.  Supported[m
+[HM     [1m-X[0m [4mproxy_protocol[24m[m
+[HM[m
+[HM             flag.  The default is no timeout.[m
+[11;1H[K[7m Manual page nc(1) line 141 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             [1mnc[0m will listen forever for a connection, with or without the [1m-w[0m[m
+[HM             [4mtimeout[24m seconds.  The [1m-w[0m flag has no effect on the [1m-l[0m option, i.e.[m
+[HM             Connections which cannot be established or are idle timeout after[m
+[HM     [1m-w[0m [4mtimeout[24m[m
+[HM[m
+[HM             Terminate after receiving [4mrecvlimit[24m packets from the network.[m
+[HM     [1m-W[0m [4mrecvlimit[24m[m
+[HM[m
+[HM     [1m-v[0m      Produce more verbose output.[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 131 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             Set the routing table to be used.[m
+[HM     [1m-V[0m [4mrtable[24m[m
+[HM[m
+[HM             socket is created in [4m/tmp[24m unless the [1m-s[0m flag is given.[m
+[HM             socket.  If a UNIX-domain socket is used, a temporary receiving[m
+[HM             UNIX-domain sockets, use a datagram socket instead of a stream[m
+[HM     [1m-u[0m      Use UDP instead of TCP.  Cannot be used together with [1m-x[0m.  For[m
+[HM[m
+[HM     [1m-U[0m      Use UNIX-domain sockets.  Cannot be used together with [1m-F[0m or [1m-x[0m.[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 121 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             sions.[m
+[HM             quests.  This makes it possible to use [1mnc[0m to script telnet ses‐[m
+[HM     [1m-t[0m      Send RFC 854 DON'T and WON'T responses to RFC 854 DO and WILL re‐[m
+[HM[m
+[HM             [1maf11[0m ... [1maf43[0m, [1mcs0[0m ... [1mcs7[0m; or a number in either hex or decimal.[m
+[HM             [1mthroughput[0m, [1mreliability[0m, or one of the DiffServ Code Points: [1mef[0m,[m
+[HM             of [1mcritical[0m, [1minetcontrol[0m, [1mlowcost[0m, [1mlowdelay[0m, [1mnetcontrol[0m,[m
+[HM             Change the IPv4 TOS/IPv6 traffic class value.  [4mkeyword[24m may be one[m
+[HM     [1m-T[0m [4mkeyword[24m[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 111 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             be used together with [1m-x[0m.[m
+[HM             file to create and use so that datagrams can be received.  Cannot[m
+[HM             UNIX-domain datagram sockets, specifies the local temporary socket[m
+[HM             Send packets from the interface with the [4msource[24m IP address.  For[m
+[HM     [1m-s[0m [4msource[24m[m
+[HM[m
+[HM     [1m-S[0m      Enable the RFC 2385 TCP MD5 signature option.[m
+[HM[m
+[HM             tially within a range or in the order that the system assigns them.[m
+[HM     [1m-r[0m      Choose source and/or destination ports randomly instead of sequen‐[m
+[11;1H[K[7m Manual page nc(1) line 101 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM[m
+[HM             non-negative [4mseconds[24m implies [1m-N[0m.[m
+[HM             quit. If [4mseconds[24m is negative, wait forever (default).  Specifying a[m
+[HM             after EOF on stdin, wait the specified number of [4mseconds[24m and then[m
+[HM     [1m-q[0m [4mseconds[24m[m
+[HM[m
+[HM             strictions and availability.[m
+[HM             Specify the source port [1mnc[0m should use, subject to privilege re‐[m
+[HM     [1m-p[0m [4msource_port[24m[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             CONNECT proxies at present.[m
+[HM             not be attempted.  Proxy authentication is only supported for HTTP[m
+[HM             thentication.  If no username is specified then authentication will[m
+[HM             Specifies a username to present to a proxy server that requires au‐[m
+[HM     [1m-P[0m [4mproxy_username[24m[m
+[HM[m
+[HM             Specify the size of the TCP send buffer.[m
+[HM     [1m-O[0m [4mlength[24m[m
+[HM[m
+[HM             hostnames or ports.[m
+[11;1H[K[7m Manual page nc(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     [1m-n[0m      Do not do any DNS or service lookups on any specified addresses,[m
+[HM[m
+[HM             servers require this to finish their work.[m
+[HM     [1m-N[0m      shutdown(2) the network socket after EOF on the input.  Some[m
+[HM[m
+[HM             under [4mminttl[24m.[m
+[HM             Ask the kernel to drop incoming packets whose TTL / hop limit is[m
+[HM     [1m-m[0m [4mminttl[24m[m
+[HM[m
+[HM     [1m-M[0m [4mttl[24m  Set the TTL / hop limit of outgoing packets.[m
+[11;1H[K[7m Manual page nc(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM[m
+[HM             tionally, any timeouts specified with the [1m-w[0m option are ignored.[m
+[HM             and [1m-p[0m respectively.  Cannot be used together with [1m-x[0m or [1m-z[0m.  Addi‐[m
+[HM             be specified either as non-optional arguments, or with options [1m-s[0m[m
+[HM             tion to a remote host.  The [4mdestination[24m and [4mport[24m to listen on can[m
+[HM     [1m-l[0m      Listen for an incoming connection rather than initiating a connec‐[m
+[HM[m
+[HM             not connected and it can receive UDP datagrams from multiple hosts.[m
+[HM             [1m-l[0m.  When used together with the [1m-u[0m option, the server socket is[m
+[HM     [1m-k[0m      When a connection is completed, listen for another one.  Requires[m
+[11;1H[K[7m Manual page nc(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM[m
+[HM             Also causes a delay time between connections to multiple ports.[m
+[HM             Sleep for [4minterval[24m seconds between lines of text sent and received.[m
+[HM     [1m-i[0m [4minterval[24m[m
+[HM[m
+[HM             Specify the size of the TCP receive buffer.[m
+[HM     [1m-I[0m [4mlength[24m[m
+[HM[m
+[HM     [1m-h[0m      Print out the [1mnc[0m help text and exit.[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     [1m-k[0m      When a connection is completed, listen for another one.  Requires[m
+             [1m-l[0m.  When used together with the [1m-u[0m option, the server socket is[m
+             not connected and it can receive UDP datagrams from multiple hosts.[m
+[m
+     [1m-l[0m      Listen for an incoming connection rather than initiating a connec‐[m
+             tion to a remote host.  The [4mdestination[24m and [4mport[24m to listen on can[m
+             be specified either as non-optional arguments, or with options [1m-s[0m[m
+             and [1m-p[0m respectively.  Cannot be used together with [1m-x[0m or [1m-z[0m.  Addi‐[m
+             tionally, any timeouts specified with the [1m-w[0m option are ignored.[m
+[m
+[7m Manual page nc(1) line 61 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# . ./fin[K[Kunctions.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# echio[K[K[K[K[KgetUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919[K[K[K[K[K[K[K[K[K[K1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[KgetUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[KexecSQLRO "SELECT userid FROM users WHERE studentid = '$studentId';" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P';"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P';"[1P';"[1P';"[1P';"[1P';"[1P';"[1P';"[1P';"[1P';"1';"1';"4';"5';"1';"4';"1';"9';"1';"9';" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# execSQLRO "SELECT userid FROM users WHERE studentid = '1145141919';" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K"
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# sqlAdds^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# execSQLRO "SELECT userid FROM users WHERE studentid = '1145141919';" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CexecSQLRO "SELECT userid FROM users WHERE studentid = '1145141919';" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[37PgetUserIdByStudentId 1145141919
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# . ./functions.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[CexecSQLRO "SELECT userid FROM users WHERE studentid = '1145141919';" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[37PgetUserIdByStudentId 1145141919
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# . ./functions.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919
+
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# . ./functions.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# . ./functions.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# echo -n "${sql//[\']//\\\'}"[C[1P//[\']//\\\'}"[1P//[\']//\\\'}"[1P//[\']//\\\'}"1//[\']//\\\'}"
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# e[Kecho -n "${1//[\']//\\\'}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# echo -n "${sql//[\']//\\\'}"
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ech[K[K[Ksql=1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# sql=1echo -n "${sql//[\']//\\\'}"
+1]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# echo -n "${sql//[\']//\\\'}"
+1]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# echo -n "${sql//[\']//\\\'}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kecho -n "${sql//[\']//\\\'}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csql=1[Kecho -n "${sql//[\']//\\\'}"[2P1//[\']//\\\'}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# . ./functions.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -n "${sql//[\']//\\\'}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csql=1[Kecho -n "${sql//[\']//\\\'}"[2P1//[\']//\\\'}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# . ./functions.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# . ./functions.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 1145141919[K[K[K[K[K[K[K[K[K[K888
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# getUserIdByStudentId 888[K[K[K1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# . ./functions.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[CgetUserIdByStudentId 1145141919
+1145141919
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;roo

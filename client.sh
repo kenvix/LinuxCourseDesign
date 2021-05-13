@@ -42,3 +42,5 @@ while ((senderExitCode != 0)); do
         * ) echo "Yes or no.";;
     esac
 done
+
+log "发送成功。"

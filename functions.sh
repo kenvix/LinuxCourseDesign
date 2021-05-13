@@ -83,6 +83,11 @@ function sendLine {
     echo >&4
 }
 
+function sendFile {
+    logD "[SEND-FILE]: $1"
+    cat "$1" >&4
+}
+
 function sendType {
     sendLine "$1"
 }
@@ -101,7 +106,9 @@ function sqlAdds {
 
 function getUserIdByStudentId {
     checkParamNum 1 $*
-    local studentId=$(sqlAdds "$1")
+    echo $1
+    local studentId=`sqlAdds "$1"`
+    echo $studentId
     execSQLRO "SELECT userid FROM users WHERE studentid = '$studentId';"
 }
 
@@ -296,7 +303,7 @@ function connectAndSendCSV {
     connectServer "$server" "$port"
     if (($? != 0)); then
         logE "连接服务器失败"
-        return 1
+        return 2
     fi 
 
     log "连接成功"
@@ -304,6 +311,7 @@ function connectAndSendCSV {
     sendHeader  || return 1
     sendType "add" || return 1
     sendLine "$studentId" || return 1
+    sendLine "$(wc -l <  "$file")" || return 1
     sendFile "$file" || return 1
     sendFooter || return 1
 
