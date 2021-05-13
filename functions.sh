@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+
 
 export SQL_FILE=${SQL_FILE-"main.sqlite3"}
 export VERSION=3
@@ -285,6 +285,30 @@ function exportDailyRank {
 
     echo "</body></html>" >&9
     exec 9>&-   
+}
+
+function connectAndSendCSV {
+    checkParamNum 2 $*
+    local studentId="$1"
+    local file="$2"
+    local server="${SERVER_ADDRESS-"localhost"}"
+    local port="${SERVER_PORT-"45123"}"
+    connectServer "$server" "$port"
+    if (($? != 0)); then
+        logE "连接服务器失败"
+        return 1
+    fi 
+
+    log "连接成功"
+
+    sendHeader  || return 1
+    sendType "add" || return 1
+    sendLine "$studentId" || return 1
+    sendFile "$file" || return 1
+    sendFooter || return 1
+
+    disconnectServer || return 1
+    return 0
 }
 
 logD "调试模式已启用"

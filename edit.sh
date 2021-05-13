@@ -48,11 +48,21 @@ while IFS= read -r line; do
     fi
 done < "$filePath"
 
+function sendFileNow {
+    logD "Calling client"
+    ./client.sh "$filePath"
+}
+
 while true; do
     read -p "是否立刻发送此文件？" yn
     case $yn in
-        [Yy]* ) sendFileNow;;
-        [Nn]* ) exit;;
+        [Yy]* ) 
+            sendFileNow
+            exit $?
+        ;;
+        [Nn]* ) 
+            log "将不会自动发送报告文件，你稍后可自行运行 ./client \"$filePath\" 来发送文件"
+        ;;
         * ) echo "Yes or no.";;
     esac
 done
