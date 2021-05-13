@@ -1,15 +1,30 @@
 #!/bin/bash
-set -e
 
 SHELL_FOLDER=$(
     cd "$(dirname "$0")"
     pwd
 )
 CONFIG_FILE="config.sh"
-cd "$SHELL_FOLDER"
+EMBEDDING_MODE=0
+HANDLE_REQUEST=0
 
-echo "塞尔达传说信息收集服务器" >&2
-echo "当前工作目录是 $(pwd)" >&2
+set -- $(getopt -q -o h --long embedding,handle-request -- "$@")
+
+while [ -n "$1" ]; do
+    case "$1" in
+    --embedding) EMBEDDING_MODE=1 ;;
+    --handle-request) HANDLE_REQUEST=1 ;;
+    --)
+        shift
+        break
+        ;;
+    *) echo "$1 is not option" ;;
+    esac
+
+    shift
+done
+
+cd "$SHELL_FOLDER"
 
 if [ ! -f "$CONFIG_FILE" ] || [ ! -x "$CONFIG_FILE" ]; then
     log "错误：在工作目录找不到配置文件 $CONFIG_FILE 或该文件不可执行。"
@@ -19,13 +34,7 @@ fi
 . ./$CONFIG_FILE
 . ./functions.sh
 
-if [ ! -f "$SERVER_DATABASE" ]; then
-    logInline "正在初始化数据库..."
-    log "完成"
-fi
-
-log "版本 $VERSION  正在监听端口 $SERVER_PORT"
-stdbuf -oL nc -vv -lkp $SERVER_PORT | {
+function handleRequest {
     # 分隔符：NUL
     while IFS= read -t 10 -d '' -r recv; do
         # log "RECV: $recv"
@@ -87,3 +96,33 @@ stdbuf -oL nc -vv -lkp $SERVER_PORT | {
         # echo "RECV PACKET: $recv"
     done
 }
+
+if [ $EMBEDDING_MODE -ne 0 ]; then
+    if [ $HANDLE_REQUEST -ne 0 ]; then
+        handleRequest
+        exit $?
+    fi
+else
+    echo "塞尔达传说信息收集服务器" >&2
+    echo "当前工作目录是 $(pwd)" >&2
+
+    if [ ! -f "$SERVER_DATABASE" ]; then
+        logInline "正在初始化数据库..."
+        log "完成"
+    fi
+
+    if command -v nc.traditional &>/dev/null; then
+        logD "Found Debian traditional netcat"
+        netcat="nc.traditional"
+    else
+        netcat="nc"
+    fi
+
+    log "版本 $VERSION  正在监听端口 $SERVER_PORT"
+    $netcat -vv -lkp $SERVER_PORT -c "$SHELL_FOLDER/server.sh --embedding --handle-request"
+
+    if [ $? -ne 0 ]; then
+        logW "nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换"
+        break
+    fi
+fi

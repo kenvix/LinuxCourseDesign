@@ -4567,4 +4567,1089 @@ usage: nc [-46CDdFhklNnrStUuvZz] [-I length] [-i interval] [-M ttl]
 ]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
 文档/Linux/CourseDesign# getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K./client.sh 
 塞尔达传说信息收集客户端
-当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附�
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:02:44] [DEBUG] 调试模式已启用
+[2021-05-13 22:02:44] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 22:02:44] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 22:02:44] [INFO] 连接成功
+[2021-05-13 22:02:44] [DEBUG] [SEND]: #%?\n
+[2021-05-13 22:02:44] [DEBUG] [SEND]: add
+[2021-05-13 22:02:44] [DEBUG] [SEND]: 1145141919
+[2021-05-13 22:02:44] [DEBUG] [SEND]: 2
+[2021-05-13 22:02:44] [DEBUG] [SEND-FILE]: 2021-05-13.csv
+[2021-05-13 22:02:44] [DEBUG] [SEND]: \0
+[2021-05-13 22:02:44] [DEBUG] [CLOSE] :
+[2021-05-13 22:02:44] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:02:52] [DEBUG] 调试模式已启用
+[2021-05-13 22:02:52] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 22:02:52] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 22:02:52] [INFO] 连接成功
+[2021-05-13 22:02:52] [DEBUG] [SEND]: #%?\n
+[2021-05-13 22:02:52] [DEBUG] [SEND]: add
+[2021-05-13 22:02:52] [DEBUG] [SEND]: 1145141919
+[2021-05-13 22:02:52] [DEBUG] [SEND]: 2
+[2021-05-13 22:02:52] [DEBUG] [SEND-FILE]: 2021-05-13.csv
+[2021-05-13 22:02:52] [DEBUG] [SEND]: \0
+[2021-05-13 22:02:52] [DEBUG] [CLOSE] :
+[2021-05-13 22:02:52] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# man nc
+[?1049h[22;0;0t[?1h=NC(1)                  BSD General Commands Manual                 NC(1)[m
+[m
+[1mNAME[0m[m
+     [1mnc[0m — arbitrary TCP and UDP connections and listens[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mnc[0m [[1m-46bCDdFhklNnrStUuvZz[0m] [[1m-I[0m [4mlength[24m] [[1m-i[0m [4minterval[24m] [[1m-M[0m [4mttl[24m][m
+        [[1m-m[0m [4mminttl[24m] [[1m-O[0m [4mlength[24m] [[1m-P[0m [4mproxy_username[24m] [[1m-p[0m [4msource_port[24m][m
+        [[1m-q[0m [4mseconds[24m] [[1m-s[0m [4msource[24m] [[1m-T[0m [4mkeyword[24m] [[1m-V[0m [4mrtable[24m] [[1m-W[0m [4mrecvlimit[24m][m
+        [[1m-w[0m [4mtimeout[24m] [[1m-X[0m [4mproxy_protocol[24m] [[1m-x[0m [4mproxy_address[24m[:[4mport[24m]][m
+[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K:[K77[K [KESCESC[K[[[K22[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K        [[4mdestination[24m] [[4mport[24m][m
+[m
+[1mDESCRIPTION[0m[m
+     The [1mnc[0m (or [1mnetcat[0m) utility is used for just about anything under[m
+     the sun involving TCP, UDP, or UNIX-domain sockets.  It can open[m
+     TCP connections, send UDP packets, listen on arbitrary TCP and UDP[m
+     ports, do port scanning, and deal with both IPv4 and IPv6.  Unlike[m
+     telnet(1), [1mnc[0m scripts nicely, and separates error messages onto[m
+     standard error instead of sending them to standard output, as[m
+     telnet(1) does with some.[m
+[7m Manual page nc(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     Common uses include:[m
+[m
+           [1m•[0m   simple TCP proxies[m
+           [1m•[0m   shell-script based HTTP clients and servers[m
+           [1m•[0m   network daemon testing[m
+           [1m•[0m   a SOCKS or HTTP ProxyCommand for ssh(1)[m
+           [1m•[0m   and much, much more[m
+[m
+     The options are as follows:[m
+[7m Manual page nc(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-4[0m      Use IPv4 addresses only.[m
+[m
+     [1m-6[0m      Use IPv6 addresses only.[m
+[m
+     [1m-b[0m      Allow broadcast.[m
+[m
+     [1m-C[0m      Send CRLF as line-ending.  Each line feed (LF) character[m
+             from the input data is translated into CR+LF before being[m
+             written to the socket.  Line feed characters that are al‐[m
+[7m Manual page nc(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             ready preceded with a carriage return (CR) are not trans‐[m
+             lated.  Received data is not affected.[m
+[m
+     [1m-D[0m      Enable debugging on the socket.[m
+[m
+     [1m-d[0m      Do not attempt to read from stdin.[m
+[m
+     [1m-F[0m      Pass the first connected socket using sendmsg(2) to stdout[m
+             and exit.  This is useful in conjunction with [1m-X[0m to have [1mnc[0m[m
+             perform connection setup with a proxy but then leave the[m
+[7m Manual page nc(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             rest of the connection to another program (e.g. ssh(1) us‐[m
+             ing the ssh_config(5) [1mProxyUseFdpass[0m option).  Cannot be[m
+             used with [1m-U[0m.[m
+[m
+     [1m-h[0m      Print out the [1mnc[0m help text and exit.[m
+[m
+     [1m-I[0m [4mlength[24m[m
+             Specify the size of the TCP receive buffer.[m
+[m
+     [1m-i[0m [4minterval[24m[m
+[7m Manual page nc(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             Sleep for [4minterval[24m seconds between lines of text sent and[m
+             received.  Also causes a delay time between connections to[m
+             multiple ports.[m
+[m
+     [1m-k[0m      When a connection is completed, listen for another one.[m
+             Requires [1m-l[0m.  When used together with the [1m-u[0m option, the[m
+             server socket is not connected and it can receive UDP data‐[m
+             grams from multiple hosts.[m
+[m
+     [1m-l[0m      Listen for an incoming connection rather than initiating a[m
+[7m Manual page nc(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             connection to a remote host.  The [4mdestination[24m and [4mport[24m to[m
+             listen on can be specified either as non-optional argu‐[m
+             ments, or with options [1m-s[0m and [1m-p[0m respectively.  Cannot be[m
+             used together with [1m-x[0m or [1m-z[0m.  Additionally, any timeouts[m
+             specified with the [1m-w[0m option are ignored.[m
+[m
+     [1m-M[0m [4mttl[24m  Set the TTL / hop limit of outgoing packets.[m
+[m
+     [1m-m[0m [4mminttl[24m[m
+             Ask the kernel to drop incoming packets whose TTL / hop[m
+[7m Manual page nc(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             limit is under [4mminttl[24m.[m
+[m
+     [1m-N[0m      shutdown(2) the network socket after EOF on the input.[m
+             Some servers require this to finish their work.[m
+[m
+     [1m-n[0m      Do not do any DNS or service lookups on any specified ad‐[m
+             dresses, hostnames or ports.[m
+[m
+     [1m-O[0m [4mlength[24m[m
+             Specify the size of the TCP send buffer.[m
+[7m Manual page nc(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-P[0m [4mproxy_username[24m[m
+             Specifies a username to present to a proxy server that re‐[m
+             quires authentication.  If no username is specified then[m
+             authentication will not be attempted.  Proxy authentication[m
+             is only supported for HTTP CONNECT proxies at present.[m
+[m
+     [1m-p[0m [4msource_port[24m[m
+             Specify the source port [1mnc[0m should use, subject to privilege[m
+             restrictions and availability.[m
+[7m Manual page nc(1) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-q[0m [4mseconds[24m[m
+             after EOF on stdin, wait the specified number of [4mseconds[24m[m
+             and then quit. If [4mseconds[24m is negative, wait forever (de‐[m
+             fault).  Specifying a non-negative [4mseconds[24m implies [1m-N[0m.[m
+[m
+     [1m-r[0m      Choose source and/or destination ports randomly instead of[m
+             sequentially within a range or in the order that the system[m
+             assigns them.[m
+[m
+[7m Manual page nc(1) line 101 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     [1m-S[0m      Enable the RFC 2385 TCP MD5 signature option.[m
+[m
+     [1m-s[0m [4msource[24m[m
+             Send packets from the interface with the [4msource[24m IP address.[m
+             For UNIX-domain datagram sockets, specifies the local tem‐[m
+             porary socket file to create and use so that datagrams can[m
+             be received.  Cannot be used together with [1m-x[0m.[m
+[m
+     [1m-T[0m [4mkeyword[24m[m
+             Change the IPv4 TOS/IPv6 traffic class value.  [4mkeyword[24m may[m
+[7m Manual page nc(1) line 111 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             be one of [1mcritical[0m, [1minetcontrol[0m, [1mlowcost[0m, [1mlowdelay[0m,[m
+             [1mnetcontrol[0m, [1mthroughput[0m, [1mreliability[0m, or one of the DiffServ[m
+             Code Points: [1mef[0m, [1maf11[0m ... [1maf43[0m, [1mcs0[0m ... [1mcs7[0m; or a number in[m
+             either hex or decimal.[m
+[m
+     [1m-t[0m      Send RFC 854 DON'T and WON'T responses to RFC 854 DO and[m
+             WILL requests.  This makes it possible to use [1mnc[0m to script[m
+             telnet sessions.[m
+[m
+     [1m-U[0m      Use UNIX-domain sockets.  Cannot be used together with [1m-F[0m[m
+[7m Manual page nc(1) line 121 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             or [1m-x[0m.[m
+[m
+     [1m-u[0m      Use UDP instead of TCP.  Cannot be used together with [1m-x[0m.[m
+             For UNIX-domain sockets, use a datagram socket instead of a[m
+             stream socket.  If a UNIX-domain socket is used, a tempo‐[m
+             rary receiving socket is created in [4m/tmp[24m unless the [1m-s[0m flag[m
+             is given.[m
+[m
+     [1m-V[0m [4mrtable[24m[m
+             Set the routing table to be used.[m
+[7m Manual page nc(1) line 131 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-v[0m      Produce more verbose output.[m
+[m
+     [1m-W[0m [4mrecvlimit[24m[m
+             Terminate after receiving [4mrecvlimit[24m packets from the net‐[m
+             work.[m
+[m
+     [1m-w[0m [4mtimeout[24m[m
+             Connections which cannot be established or are idle timeout[m
+             after [4mtimeout[24m seconds.  The [1m-w[0m flag has no effect on the [1m-l[0m[m
+[7m Manual page nc(1) line 141 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             option, i.e. [1mnc[0m will listen forever for a connection, with[m
+             or without the [1m-w[0m flag.  The default is no timeout.[m
+[m
+     [1m-X[0m [4mproxy_protocol[24m[m
+             Use [4mproxy_protocol[24m when talking to the proxy server.  Sup‐[m
+             ported protocols are [1m4[0m (SOCKS v.4), [1m5[0m (SOCKS v.5) and[m
+             [1mconnect[0m (HTTPS proxy).  If the protocol is not specified,[m
+             SOCKS version 5 is used.[m
+[m
+     [1m-x[0m [4mproxy_address[24m[:[4mport[24m][m
+[7m Manual page nc(1) line 151 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             Connect to [4mdestination[24m using a proxy at [4mproxy_address[24m and[m
+             [4mport[24m.  If [4mport[24m is not specified, the well-known port for[m
+             the proxy protocol is used (1080 for SOCKS, 3128 for[m
+             HTTPS).  An IPv6 address can be specified unambiguously by[m
+             enclosing [4mproxy_address[24m in square brackets.  A proxy cannot[m
+             be used with any of the options [1m-lsuU[0m.[m
+[m
+     [1m-Z[0m      DCCP mode.[m
+[m
+     [1m-z[0m      Only scan for listening daemons, without sending any data[m
+[7m Manual page nc(1) line 161 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             to them.  Cannot be used together with [1m-l[0m.[m
+[m
+     [4mdestination[24m can be a numerical IP address or a symbolic hostname[m
+     (unless the [1m-n[0m option is given).  In general, a destination must be[m
+     specified, unless the [1m-l[0m option is given (in which case the local[m
+     host is used).  For UNIX-domain sockets, a destination is required[m
+     and is the socket path to connect to (or listen on if the [1m-l[0m option[m
+     is given).[m
+[m
+     [4mport[24m can be specified as a numeric port number or as a service[m
+[7m Manual page nc(1) line 171 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     name.  Port ranges may be specified as numeric port numbers of the[m
+     form [4mnn[24m-[4mmm[24m.  In general, a destination port must be specified, un‐[m
+     less the [1m-U[0m option is given.[m
+[m
+[1mCLIENT/SERVER[0m [1mMODEL[0m[m
+     It is quite simple to build a very basic client/server model using[m
+     [1mnc[0m.  On one console, start [1mnc[0m listening on a specific port for a[m
+     connection.  For example:[m
+[m
+           $ nc -l 1234[m
+[7m Manual page nc(1) line 181 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     [4mport[24m can be specified as a numeric port number or as a service[m
+[HM[m
+[HM     is given).[m
+[HM     and is the socket path to connect to (or listen on if the [1m-l[0m option[m
+[HM     host is used).  For UNIX-domain sockets, a destination is required[m
+[HM     specified, unless the [1m-l[0m option is given (in which case the local[m
+[HM     (unless the [1m-n[0m option is given).  In general, a destination must be[m
+[HM     [4mdestination[24m can be a numerical IP address or a symbolic hostname[m
+[HM[m
+[HM             to them.  Cannot be used together with [1m-l[0m.[m
+[11;1H[K[7m Manual page nc(1) line 171 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     [1m-z[0m      Only scan for listening daemons, without sending any data[m
+[HM[m
+[HM     [1m-Z[0m      DCCP mode.[m
+[HM[m
+[HM             be used with any of the options [1m-lsuU[0m.[m
+[HM             enclosing [4mproxy_address[24m in square brackets.  A proxy cannot[m
+[HM             HTTPS).  An IPv6 address can be specified unambiguously by[m
+[HM             the proxy protocol is used (1080 for SOCKS, 3128 for[m
+[HM             [4mport[24m.  If [4mport[24m is not specified, the well-known port for[m
+[HM             Connect to [4mdestination[24m using a proxy at [4mproxy_address[24m and[m
+[11;1H[K[7m Manual page nc(1) line 161 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     [1m-x[0m [4mproxy_address[24m[:[4mport[24m][m
+[HM[m
+[HM             SOCKS version 5 is used.[m
+[HM             [1mconnect[0m (HTTPS proxy).  If the protocol is not specified,[m
+[HM             ported protocols are [1m4[0m (SOCKS v.4), [1m5[0m (SOCKS v.5) and[m
+[HM             Use [4mproxy_protocol[24m when talking to the proxy server.  Sup‐[m
+[HM     [1m-X[0m [4mproxy_protocol[24m[m
+[HM[m
+[HM             or without the [1m-w[0m flag.  The default is no timeout.[m
+[HM             option, i.e. [1mnc[0m will listen forever for a connection, with[m
+[11;1H[K[7m Manual page nc(1) line 151 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             after [4mtimeout[24m seconds.  The [1m-w[0m flag has no effect on the [1m-l[0m[m
+[HM             Connections which cannot be established or are idle timeout[m
+[HM     [1m-w[0m [4mtimeout[24m[m
+[HM[m
+[HM             work.[m
+[HM             Terminate after receiving [4mrecvlimit[24m packets from the net‐[m
+[HM     [1m-W[0m [4mrecvlimit[24m[m
+[HM[m
+[HM     [1m-v[0m      Produce more verbose output.[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 141 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             Set the routing table to be used.[m
+[HM     [1m-V[0m [4mrtable[24m[m
+[HM[m
+[HM             is given.[m
+[HM             rary receiving socket is created in [4m/tmp[24m unless the [1m-s[0m flag[m
+[HM             stream socket.  If a UNIX-domain socket is used, a tempo‐[m
+[HM             For UNIX-domain sockets, use a datagram socket instead of a[m
+[HM     [1m-u[0m      Use UDP instead of TCP.  Cannot be used together with [1m-x[0m.[m
+[HM[m
+[HM             or [1m-x[0m.[m
+[11;1H[K[7m Manual page nc(1) line 131 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     [1m-U[0m      Use UNIX-domain sockets.  Cannot be used together with [1m-F[0m[m
+[HM[m
+[HM             telnet sessions.[m
+[HM             WILL requests.  This makes it possible to use [1mnc[0m to script[m
+[HM     [1m-t[0m      Send RFC 854 DON'T and WON'T responses to RFC 854 DO and[m
+[HM[m
+[HM             either hex or decimal.[m
+[HM             Code Points: [1mef[0m, [1maf11[0m ... [1maf43[0m, [1mcs0[0m ... [1mcs7[0m; or a number in[m
+[HM             [1mnetcontrol[0m, [1mthroughput[0m, [1mreliability[0m, or one of the DiffServ[m
+[HM             be one of [1mcritical[0m, [1minetcontrol[0m, [1mlowcost[0m, [1mlowdelay[0m,[m
+[11;1H[K[7m Manual page nc(1) line 121 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             Change the IPv4 TOS/IPv6 traffic class value.  [4mkeyword[24m may[m
+[HM     [1m-T[0m [4mkeyword[24m[m
+[HM[m
+[HM             be received.  Cannot be used together with [1m-x[0m.[m
+[HM             porary socket file to create and use so that datagrams can[m
+[HM             For UNIX-domain datagram sockets, specifies the local tem‐[m
+[HM             Send packets from the interface with the [4msource[24m IP address.[m
+[HM     [1m-s[0m [4msource[24m[m
+[HM[m
+[HM     [1m-S[0m      Enable the RFC 2385 TCP MD5 signature option.[m
+[11;1H[K[7m Manual page nc(1) line 111 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM[m
+[HM             assigns them.[m
+[HM             sequentially within a range or in the order that the system[m
+[HM     [1m-r[0m      Choose source and/or destination ports randomly instead of[m
+[HM[m
+[HM             fault).  Specifying a non-negative [4mseconds[24m implies [1m-N[0m.[m
+[HM             and then quit. If [4mseconds[24m is negative, wait forever (de‐[m
+[HM             after EOF on stdin, wait the specified number of [4mseconds[24m[m
+[HM     [1m-q[0m [4mseconds[24m[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 101 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             restrictions and availability.[m
+[HM             Specify the source port [1mnc[0m should use, subject to privilege[m
+[HM     [1m-p[0m [4msource_port[24m[m
+[HM[m
+[HM             is only supported for HTTP CONNECT proxies at present.[m
+[HM             authentication will not be attempted.  Proxy authentication[m
+[HM             quires authentication.  If no username is specified then[m
+[HM             Specifies a username to present to a proxy server that re‐[m
+[HM     [1m-P[0m [4mproxy_username[24m[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             Specify the size of the TCP send buffer.[m
+[HM     [1m-O[0m [4mlength[24m[m
+[HM[m
+[HM             dresses, hostnames or ports.[m
+[HM     [1m-n[0m      Do not do any DNS or service lookups on any specified ad‐[m
+[HM[m
+[HM             Some servers require this to finish their work.[m
+[HM     [1m-N[0m      shutdown(2) the network socket after EOF on the input.[m
+[HM[m
+[HM             limit is under [4mminttl[24m.[m
+[11;1H[K[7m Manual page nc(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             Ask the kernel to drop incoming packets whose TTL / hop[m
+[HM     [1m-m[0m [4mminttl[24m[m
+[HM[m
+[HM     [1m-M[0m [4mttl[24m  Set the TTL / hop limit of outgoing packets.[m
+[HM[m
+[HM             specified with the [1m-w[0m option are ignored.[m
+[HM             used together with [1m-x[0m or [1m-z[0m.  Additionally, any timeouts[m
+[HM             ments, or with options [1m-s[0m and [1m-p[0m respectively.  Cannot be[m
+[HM             listen on can be specified either as non-optional argu‐[m
+[HM             connection to a remote host.  The [4mdestination[24m and [4mport[24m to[m
+[11;1H[K[7m Manual page nc(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     [1m-l[0m      Listen for an incoming connection rather than initiating a[m
+[HM[m
+[HM             grams from multiple hosts.[m
+[HM             server socket is not connected and it can receive UDP data‐[m
+[HM             Requires [1m-l[0m.  When used together with the [1m-u[0m option, the[m
+[HM     [1m-k[0m      When a connection is completed, listen for another one.[m
+[HM[m
+[HM             multiple ports.[m
+[HM             received.  Also causes a delay time between connections to[m
+[HM             Sleep for [4minterval[24m seconds between lines of text sent and[m
+[11;1H[K[7m Manual page nc(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     [1m-i[0m [4minterval[24m[m
+[HM[m
+[HM             Specify the size of the TCP receive buffer.[m
+[HM     [1m-I[0m [4mlength[24m[m
+[HM[m
+[HM     [1m-h[0m      Print out the [1mnc[0m help text and exit.[m
+[HM[m
+[HM             used with [1m-U[0m.[m
+[HM             ing the ssh_config(5) [1mProxyUseFdpass[0m option).  Cannot be[m
+[HM             rest of the connection to another program (e.g. ssh(1) us‐[m
+[11;1H[K[7m Manual page nc(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             perform connection setup with a proxy but then leave the[m
+[HM             and exit.  This is useful in conjunction with [1m-X[0m to have [1mnc[0m[m
+[HM     [1m-F[0m      Pass the first connected socket using sendmsg(2) to stdout[m
+[HM[m
+[HM     [1m-d[0m      Do not attempt to read from stdin.[m
+[HM[m
+[HM     [1m-D[0m      Enable debugging on the socket.[m
+[HM[m
+[HM             lated.  Received data is not affected.[m
+[HM             ready preceded with a carriage return (CR) are not trans‐[m
+[11;1H[K[7m Manual page nc(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM             written to the socket.  Line feed characters that are al‐[m
+[HM             from the input data is translated into CR+LF before being[m
+[HM     [1m-C[0m      Send CRLF as line-ending.  Each line feed (LF) character[m
+[HM[m
+[HM     [1m-b[0m      Allow broadcast.[m
+[HM[m
+[HM     [1m-6[0m      Use IPv6 addresses only.[m
+[HM[m
+[HM     [1m-4[0m      Use IPv4 addresses only.[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     The options are as follows:[m
+[HM[m
+[HM           [1m•[0m   and much, much more[m
+[HM           [1m•[0m   a SOCKS or HTTP ProxyCommand for ssh(1)[m
+[HM           [1m•[0m   network daemon testing[m
+[HM           [1m•[0m   shell-script based HTTP clients and servers[m
+[HM           [1m•[0m   simple TCP proxies[m
+[HM[m
+[HM     Common uses include:[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-4[0m      Use IPv4 addresses only.[m
+[m
+     [1m-6[0m      Use IPv6 addresses only.[m
+[m
+     [1m-b[0m      Allow broadcast.[m
+[m
+     [1m-C[0m      Send CRLF as line-ending.  Each line feed (LF) character[m
+             from the input data is translated into CR+LF before being[m
+             written to the socket.  Line feed characters that are al‐[m
+[7m Manual page nc(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     The options are as follows:[m
+[HM[m
+[HM           [1m•[0m   and much, much more[m
+[HM           [1m•[0m   a SOCKS or HTTP ProxyCommand for ssh(1)[m
+[HM           [1m•[0m   network daemon testing[m
+[HM           [1m•[0m   shell-script based HTTP clients and servers[m
+[HM           [1m•[0m   simple TCP proxies[m
+[HM[m
+[HM     Common uses include:[m
+[HM[m
+[11;1H[K[7m Manual page nc(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM     telnet(1) does with some.[m
+[HM     standard error instead of sending them to standard output, as[m
+[HM     telnet(1), [1mnc[0m scripts nicely, and separates error messages onto[m
+[HM     ports, do port scanning, and deal with both IPv4 and IPv6.  Unlike[m
+[HM     TCP connections, send UDP packets, listen on arbitrary TCP and UDP[m
+[HM     the sun involving TCP, UDP, or UNIX-domain sockets.  It can open[m
+[HM     The [1mnc[0m (or [1mnetcat[0m) utility is used for just about anything under[m
+[HM[1mDESCRIPTION[0m[m
+[HM[m
+[HM        [[4mdestination[24m] [[4mport[24m][m
+[11;1H[K[7m Manual page nc(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM        [[1m-w[0m [4mtimeout[24m] [[1m-X[0m [4mproxy_protocol[24m] [[1m-x[0m [4mproxy_address[24m[:[4mport[24m]][m
+[HM        [[1m-q[0m [4mseconds[24m] [[1m-s[0m [4msource[24m] [[1m-T[0m [4mkeyword[24m] [[1m-V[0m [4mrtable[24m] [[1m-W[0m [4mrecvlimit[24m][m
+[HM        [[1m-m[0m [4mminttl[24m] [[1m-O[0m [4mlength[24m] [[1m-P[0m [4mproxy_username[24m] [[1m-p[0m [4msource_port[24m][m
+[HM     [1mnc[0m [[1m-46bCDdFhklNnrStUuvZz[0m] [[1m-I[0m [4mlength[24m] [[1m-i[0m [4minterval[24m] [[1m-M[0m [4mttl[24m][m
+[HM[1mSYNOPSIS[0m[m
+[HM[m
+[HM     [1mnc[0m — arbitrary TCP and UDP connections and listens[m
+[HM[1mNAME[0m[m
+[HM[m
+[HMNC(1)                  BSD General Commands Manual                 NC(1)[m
+[11;1H[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        [[4mdestination[24m] [[4mport[24m][m
+[7m Manual page nc(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page nc(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[11;1H[K[7m Manual page nc(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HMNC(1)                  BSD General Commands Manual                 NC(1)[m
+[11;1H[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        [[4mdestination[24m] [[4mport[24m][m
+[7m Manual page nc(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page nc(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mDESCRIPTION[0m[m
+[7m Manual page nc(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K     The [1mnc[0m (or [1mnetcat[0m) utility is used for just about anything under[m
+[7m Manual page nc(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM     [1mnc[0m — arbitrary TCP and UDP connections and listens[m
+[11;1H[K[7m Manual page nc(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
+[11;1H[K[7m Manual page nc(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[11;1H[K[7m Manual page nc(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page nc(1) line 3 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# man nc[C[Cat
+No manual entry for ncat
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# man ncat[K[K[Ketcat
+[?1049h[22;0;0t[?1h=NC(1)                  BSD General Commands Manual                 NC(1)[m
+[m
+[1mNAME[0m[m
+     [1mnc[0m — arbitrary TCP and UDP connections and listens[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mnc[0m [[1m-46bCDdFhklNnrStUuvZz[0m] [[1m-I[0m [4mlength[24m] [[1m-i[0m [4minterval[24m] [[1m-M[0m [4mttl[24m][m
+        [[1m-m[0m [4mminttl[24m] [[1m-O[0m [4mlength[24m] [[1m-P[0m [4mproxy_username[24m] [[1m-p[0m [4msource_port[24m][m
+        [[1m-q[0m [4mseconds[24m] [[1m-s[0m [4msource[24m] [[1m-T[0m [4mkeyword[24m] [[1m-V[0m [4mrtable[24m] [[1m-W[0m [4mrecvlimit[24m][m
+        [[1m-w[0m [4mtimeout[24m] [[1m-X[0m [4mproxy_protocol[24m] [[1m-x[0m [4mproxy_address[24m[:[4mport[24m]][m
+[7m Manual page netcat(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        [[4mdestination[24m] [[4mport[24m][m
+[7m Manual page netcat(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page netcat(1) line 3 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# cat[K[K[Kbe[K[Knetcat -c ''x'x'
+netcat: invalid option -- 'c'
+usage: nc [-46CDdFhklNnrStUuvZz] [-I length] [-i interval] [-M ttl]
+	  [-m minttl] [-O length] [-P proxy_username] [-p source_port]
+	  [-q seconds] [-s source] [-T keyword] [-V rtable] [-W recvlimit] [-w timeout]
+	  [-X proxy_protocol] [-x proxy_address[:port]] 	  [destination] [port]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# apt install  netcat-traditional
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following NEW packages will be installed:
+  netcat-traditional
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 61.5 kB of archives.
+After this operation, 147 kB of additional disk space will be used.
+[33m0% [Working][0m[33m0% [Waiting for headers][0m                        Get:1 https://mirrors.tuna.tsinghua.edu.cn/ubuntu focal/universe amd64 netcat-traditional amd64 1.10-41.1ubuntu1 [61.5 kB]
+[33m0% [1 netcat-traditional 0 B/61.5 kB 0%][0m[33m                                        100% [Working][0m              Fetched 61.5 kB in 1s (68.8 kB/s)
+debconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend requires a screen at least 13 lines tall and 31 columns wide.)
+debconf: falling back to frontend: Readline
+
+7[0;10r8[1ASelecting previously unselected package netcat-traditional.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 32399 files and directories currently installed.)
+Preparing to unpack .../netcat-traditional_1.10-41.1ubuntu1_amd64.deb ...
+7[11;0f[42m[30mProgress: [  0%][49m[39m [....................................................] 87[11;0f[42m[30mProgress: [ 20%][49m[39m [##########..........................................] 8Unpacking netcat-traditional (1.10-41.1ubuntu1) ...
+7[11;0f[42m[30mProgress: [ 40%][49m[39m [####################................................] 8Setting up netcat-traditional (1.10-41.1ubuntu1) ...
+7[11;0f[42m[30mProgress: [ 60%][49m[39m [###############################.....................] 87[11;0f[42m[30mProgress: [ 80%][49m[39m [#########################################...........] 8Processing triggers for man-db (2.9.1-1) ...
+
+7[0;11r8[1A[J]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# which nc
+/usr/bin/nc
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc[K[Kman netcaT
+[?1049h[22;0;0t[?1h=NC(1)                  BSD General Commands Manual                 NC(1)[m
+[m
+[1mNAME[0m[m
+     [1mnc[0m — arbitrary TCP and UDP connections and listens[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mnc[0m [[1m-46bCDdFhklNnrStUuvZz[0m] [[1m-I[0m [4mlength[24m] [[1m-i[0m [4minterval[24m] [[1m-M[0m [4mttl[24m][m
+        [[1m-m[0m [4mminttl[24m] [[1m-O[0m [4mlength[24m] [[1m-P[0m [4mproxy_username[24m] [[1m-p[0m [4msource_port[24m][m
+        [[1m-q[0m [4mseconds[24m] [[1m-s[0m [4msource[24m] [[1m-T[0m [4mkeyword[24m] [[1m-V[0m [4mrtable[24m] [[1m-W[0m [4mrecvlimit[24m][m
+        [[1m-w[0m [4mtimeout[24m] [[1m-X[0m [4mproxy_protocol[24m] [[1m-x[0m [4mproxy_address[24m[:[4mport[24m]][m
+[7m Manual page netcat(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        [[4mdestination[24m] [[4mport[24m][m
+[7m Manual page netcat(1) line 2 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc
+nc              ncat.exe        ncpa.cpl        ncryptsslp.dll
+nc.openbsd      ncbservice.dll  ncprov.mof      ncsi.dll
+nc.traditional  nci.dll         ncrypt.dll      ncsi.mof
+ncal            ncobjapi.dll    ncryptprov.dll  ncuprov.dll
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc
+nc              ncat.exe        ncpa.cpl        ncryptsslp.dll
+nc.openbsd      ncbservice.dll  ncprov.mof      ncsi.dll
+nc.traditional  nci.dll         ncrypt.dll      ncsi.mof
+ncal            ncobjapi.dll    ncryptprov.dll  ncuprov.dll
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# ncnc.traditional
+ncnc.traditional: command not found
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# update-alternatives --config nc
+.There are 2 choices for the alternative nc (providing /bin/nc).
+
+  Selection    Path                 Priority   Status
+------------------------------------------------------------
+* 0            /bin/nc.openbsd       50        auto mode
+  1            /bin/nc.openbsd       50        manual mode
+  2            /bin/nc.traditional   10        manual mode
+
+Press <enter> to keep the current choice[*], or type selection number: 2
+There are 2 choices for the alternative nc (providing /bin/nc).
+
+  Selection    Path                 Priority   Status
+------------------------------------------------------------
+* 0            /bin/nc.openbsd       50        auto mode
+  1            /bin/nc.openbsd       50        manual mode
+  2            /bin/nc.traditional   10        manual mode
+
+Press <enter> to keep the current choice[*], or type selection number: 2
+update-alternatives: using /bin/nc.traditional to provide /bin/nc (nc) in manual mode
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# s [K[Kman nc
+[?1049h[22;0;0t[?1h=NC(1)                    General Commands Manual                   NC(1)[m
+[m
+[1mNAME[0m[m
+       nc - TCP/IP swiss army knife[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mnc[0m [4m[-options][24m [4mhostname[24m [4mport[s][24m [4m[ports][24m [4m...[24m[m
+       [1mnc[0m [4m-l[24m [4m-p[24m [4mport[24m [4m[-options][24m [4m[hostname][24m [4m[port][24m[m
+[m
+[1mDESCRIPTION[0m[m
+[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mnetcat[0m  is  a  simple  unix  utility  which reads and writes data[m
+[7m Manual page nc(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       across network connections, using TCP or UDP protocol. It is  de‐[m
+[7m Manual page nc(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       signed to be a reliable "back-end" tool that can be used directly[m
+[7m Manual page nc(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K       or easily driven by other programs  and  scripts.   At  the  same[m
+       time,  it  is  a  feature-rich  network debugging and exploration[m
+       tool, since it can create almost any kind of connection you would[m
+       need  and has several interesting built-in capabilities.  Netcat,[m
+       or "nc" as the actual program is named, should have been supplied[m
+       long ago as another one of those cryptic but standard Unix tools.[m
+[m
+       In the simplest usage, "nc host port" creates a TCP connection to[m
+       the given port on the given target host.  Your standard input  is[m
+       then  sent  to  the host, and anything that comes back across the[m
+[7m Manual page nc(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K       connection is sent to your standard output.  This  continues  in‐[m
+       definitely,  until the network side of the connection shuts down.[m
+       Note that this behavior is different from most other applications[m
+       which  shut  everything down and exit after an end-of-file on the[m
+       standard input.[m
+[m
+       Netcat can also function as a server, by  listening  for  inbound[m
+       connections  on  arbitrary  ports and then doing the same reading[m
+       and writing.  With minor limitations, netcat doesn't really  care[m
+       if  it runs in "client" or "server" mode -- it still shovels data[m
+[7m Manual page nc(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K       back and forth until there isn't any more left. In  either  mode,[m
+       shutdown can be forced after a configurable time of inactivity on[m
+       the network side.[m
+[m
+       And it can do this via UDP too, so netcat is  possibly  the  "udp[m
+       telnet-like"  application you always wanted for testing your UDP-[m
+       mode servers.  UDP, as the "U" implies, gives less reliable  data[m
+       transmission than TCP connections and some systems may have trou‐[m
+       ble sending large amounts of data that way, but it's still a use‐[m
+       ful capability to have.[m
+[7m Manual page nc(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+       You  may  be  asking "why not just use telnet to connect to arbi‐[m
+       trary ports?" Valid question, and here are some reasons.   Telnet[m
+       has  the "standard input EOF" problem, so one must introduce cal‐[m
+       culated delays in driving scripts to allow network output to fin‐[m
+       ish.   This  is  the  main  reason netcat stays running until the[m
+       *network* side closes.  Telnet also will not  transfer  arbitrary[m
+       binary data, because certain characters are interpreted as telnet[m
+       options and are thus removed from the data stream.   Telnet  also[m
+       emits  some  of its diagnostic messages to standard output, where[m
+[7m Manual page nc(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K       netcat keeps such things religiously separated from its  *output*[m
+       and  will never modify any of the real data in transit unless you[m
+       *really* want it to.  And of course telnet is incapable  of  lis‐[m
+       tening  for  inbound  connections,  or using UDP instead.  Netcat[m
+       doesn't have any of these limitations, is much smaller and faster[m
+       than telnet, and has many other advantages.[m
+[m
+[1mOPTIONS[0m[m
+       [4m-c[24m [4mstring[24m    specify  shell  commands  to exec after connect (use[m
+                    with caution).  The string is passed to  /bin/sh  -c[m
+[7m Manual page nc(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K                    for  execution.  See the [4m-e[24m option if you don't have[m
+                    a working /bin/sh (Note that POSIX-conformant system[m
+                    must have one).[m
+[m
+       [4m-e[24m [4mfilename[24m  specify  filename  to  exec  after connect (use with[m
+                    caution).  See the [4m-c[24m option for enhanced  function‐[m
+                    ality.[m
+[m
+       [4m-g[24m [4mgateway[24m   source-routing hop point[s], up to 8[m
+[m
+[7m Manual page nc(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM                    with caution).  The string is passed to  /bin/sh  -c[m
+[HM       [4m-c[24m [4mstring[24m    specify  shell  commands  to exec after connect (use[m
+[HM[1mOPTIONS[0m[m
+[HM[m
+[HM       than telnet, and has many other advantages.[m
+[HM       doesn't have any of these limitations, is much smaller and faster[m
+[HM       tening  for  inbound  connections,  or using UDP instead.  Netcat[m
+[HM       *really* want it to.  And of course telnet is incapable  of  lis‐[m
+[HM       and  will never modify any of the real data in transit unless you[m
+[HM       netcat keeps such things religiously separated from its  *output*[m
+[11;1H[K[7m Manual page nc(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K                    for  execution.  See the [4m-e[24m option if you don't have[m
+                    a working /bin/sh (Note that POSIX-conformant system[m
+                    must have one).[m
+[m
+       [4m-e[24m [4mfilename[24m  specify  filename  to  exec  after connect (use with[m
+                    caution).  See the [4m-c[24m option for enhanced  function‐[m
+                    ality.[m
+[m
+       [4m-g[24m [4mgateway[24m   source-routing hop point[s], up to 8[m
+[m
+[7m Manual page nc(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K55[K~~[K[HM                    with caution).  The string is passed to  /bin/sh  -c[m
+[HM       [4m-c[24m [4mstring[24m    specify  shell  commands  to exec after connect (use[m
+[HM[1mOPTIONS[0m[m
+[HM[m
+[HM       than telnet, and has many other advantages.[m
+[HM       doesn't have any of these limitations, is much smaller and faster[m
+[HM       tening  for  inbound  connections,  or using UDP instead.  Netcat[m
+[HM       *really* want it to.  And of course telnet is incapable  of  lis‐[m
+[HM       and  will never modify any of the real data in transit unless you[m
+[HM       netcat keeps such things religiously separated from its  *output*[m
+[11;1H[K[7m Manual page nc(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K                    for  execution.  See the [4m-e[24m option if you don't have[m
+                    a working /bin/sh (Note that POSIX-conformant system[m
+                    must have one).[m
+[m
+       [4m-e[24m [4mfilename[24m  specify  filename  to  exec  after connect (use with[m
+                    caution).  See the [4m-c[24m option for enhanced  function‐[m
+                    ality.[m
+[m
+       [4m-g[24m [4mgateway[24m   source-routing hop point[s], up to 8[m
+[m
+[7m Manual page nc(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K       [4m-G[24m [4mnum[24m       source-routing pointer: 4, 8, 12, ...[m
+[m
+       [4m-h[24m           display help[m
+[m
+       [4m-i[24m [4msecs[24m      delay interval for lines sent, ports scanned[m
+[m
+       [4m-l[24m           listen mode, for inbound connects[m
+[m
+       [4m-n[24m           numeric-only IP addresses, no DNS[m
+[m
+[7m Manual page nc(1) line 74 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# man nc[25@update-alternatives --config[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pncnc.traditional[6Pman netcaT[2Pwhich ncapt install  netcat-traditional[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pnetcat -c 'xx'[4Pman netcatnetcat -c 'xx'[4Pman netcat[2Pcat[K./client.sh getUserIdByStudentId 1145141919
+1
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman nc[K[25@update-alternatives --config[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pncnc.traditional[6Pman netcaT[2Pwhich ncapt install  netcat-traditional[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pnetcat -c 'xx'[4Pman netcat[2Pcat[K./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:17:07] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 22:17:07] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 22:17:07] [INFO] 连接成功
+[2021-05-13 22:17:07] [DEBUG] [SEND]: #%?\n
+[2021-05-13 22:17:07] [DEBUG] [SEND]: add
+[2021-05-13 22:17:07] [DEBUG] [SEND]: 1145141919
+[2021-05-13 22:17:07] [DEBUG] [SEND]: 2
+[2021-05-13 22:17:07] [DEBUG] [SEND-FILE]: 2021-05-13.csv
+[2021-05-13 22:17:07] [DEBUG] [SEND]: \0
+[2021-05-13 22:17:07] [DEBUG] [CLOSE] :
+[2021-05-13 22:17:08] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# ./client.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman nc[KgetUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman nc[KgetUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman nc[K[25@update-alternatives --config[C[C[C
+There are 2 choices for the alternative nc (providing /bin/nc).
+
+  Selection    Path                 Priority   Status
+------------------------------------------------------------
+  0            /bin/nc.openbsd       50        auto mode
+  1            /bin/nc.openbsd       50        manual mode
+* 2            /bin/nc.traditional   10        manual mode
+
+Press <enter> to keep the current choice[*], or type selection number: 0
+update-alternatives: using /bin/nc.openbsd to provide /bin/nc (nc) in auto mode
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# 0
+0: command not found
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# 0update-alternatives --config nc
+There are 2 choices for the alternative nc (providing /bin/nc).
+
+  Selection    Path                 Priority   Status
+------------------------------------------------------------
+* 0            /bin/nc.openbsd       50        auto mode
+  1            /bin/nc.openbsd       50        manual mode
+  2            /bin/nc.traditional   10        manual mode
+
+Press <enter> to keep the current choice[*], or type selection number: ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# ncupdate-alternatives --config nc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0[Kupdate-alternatives --config nc[K[Kjava
+update-alternatives: error: no alternatives for java
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# update-alternatives --config java^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# man m[Knc
+[?1049h[22;0;0t[?1h=NC(1)                  BSD General Commands Manual                 NC(1)[m
+[m
+[1mNAME[0m[m
+     [1mnc[0m — arbitrary TCP and UDP connections and listens[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mnc[0m [[1m-46bCDdFhklNnrStUuvZz[0m] [[1m-I[0m [4mlength[24m] [[1m-i[0m [4minterval[24m] [[1m-M[0m [4mttl[24m][m
+        [[1m-m[0m [4mminttl[24m] [[1m-O[0m [4mlength[24m] [[1m-P[0m [4mproxy_username[24m] [[1m-p[0m [4msource_port[24m][m
+        [[1m-q[0m [4mseconds[24m] [[1m-s[0m [4msource[24m] [[1m-T[0m [4mkeyword[24m] [[1m-V[0m [4mrtable[24m] [[1m-W[0m [4mrecvlimit[24m][m
+        [[1m-w[0m [4mtimeout[24m] [[1m-X[0m [4mproxy_protocol[24m] [[1m-x[0m [4mproxy_address[24m[:[4mport[24m]][m
+[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        [[4mdestination[24m] [[4mport[24m][m
+[7m Manual page nc(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page nc(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mDESCRIPTION[0m[m
+[7m Manual page nc(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K     The [1mnc[0m (or [1mnetcat[0m) utility is used for just about anything under[m
+[7m Manual page nc(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K     the sun involving TCP, UDP, or UNIX-domain sockets.  It can open[m
+[7m Manual page nc(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K     TCP connections, send UDP packets, listen on arbitrary TCP and UDP[m
+[7m Manual page nc(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K     ports, do port scanning, and deal with both IPv4 and IPv6.  Unlike[m
+[7m Manual page nc(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K     telnet(1), [1mnc[0m scripts nicely, and separates error messages onto[m
+[7m Manual page nc(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K     standard error instead of sending them to standard output, as[m
+[7m Manual page nc(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K     telnet(1) does with some.[m
+[7m Manual page nc(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM        [[1m-w[0m [4mtimeout[24m] [[1m-X[0m [4mproxy_protocol[24m] [[1m-x[0m [4mproxy_address[24m[:[4mport[24m]][m
+[11;1H[K[7m Manual page nc(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM        [[1m-q[0m [4mseconds[24m] [[1m-s[0m [4msource[24m] [[1m-T[0m [4mkeyword[24m] [[1m-V[0m [4mrtable[24m] [[1m-W[0m [4mrecvlimit[24m][m
+[11;1H[K[7m Manual page nc(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM        [[1m-m[0m [4mminttl[24m] [[1m-O[0m [4mlength[24m] [[1m-P[0m [4mproxy_username[24m] [[1m-p[0m [4msource_port[24m][m
+[11;1H[K[7m Manual page nc(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM     [1mnc[0m [[1m-46bCDdFhklNnrStUuvZz[0m] [[1m-I[0m [4mlength[24m] [[1m-i[0m [4minterval[24m] [[1m-M[0m [4mttl[24m][m
+[11;1H[K[7m Manual page nc(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
+[11;1H[K[7m Manual page nc(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[11;1H[K[7m Manual page nc(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     the sun involving TCP, UDP, or UNIX-domain sockets.  It can open[m
+     TCP connections, send UDP packets, listen on arbitrary TCP and UDP[m
+     ports, do port scanning, and deal with both IPv4 and IPv6.  Unlike[m
+     telnet(1), [1mnc[0m scripts nicely, and separates error messages onto[m
+     standard error instead of sending them to standard output, as[m
+     telnet(1) does with some.[m
+[m
+     Common uses include:[m
+[m
+           [1m•[0m   simple TCP proxies[m
+[7m Manual page nc(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K           [1m•[0m   shell-script based HTTP clients and servers[m
+           [1m•[0m   network daemon testing[m
+           [1m•[0m   a SOCKS or HTTP ProxyCommand for ssh(1)[m
+           [1m•[0m   and much, much more[m
+[m
+     The options are as follows:[m
+[m
+     [1m-4[0m      Use IPv4 addresses only.[m
+[m
+     [1m-6[0m      Use IPv6 addresses only.[m
+[7m Manual page nc(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-b[0m      Allow broadcast.[m
+[m
+     [1m-C[0m      Send CRLF as line-ending.  Each line feed (LF) character[m
+             from the input data is translated into CR+LF before being[m
+             written to the socket.  Line feed characters that are al‐[m
+             ready preceded with a carriage return (CR) are not trans‐[m
+             lated.  Received data is not affected.[m
+[m
+     [1m-D[0m      Enable debugging on the socket.[m
+[7m Manual page nc(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-d[0m      Do not attempt to read from stdin.[m
+[m
+     [1m-F[0m      Pass the first connected socket using sendmsg(2) to stdout[m
+             and exit.  This is useful in conjunction with [1m-X[0m to have [1mnc[0m[m
+             perform connection setup with a proxy but then leave the[m
+             rest of the connection to another program (e.g. ssh(1) us‐[m
+             ing the ssh_config(5) [1mProxyUseFdpass[0m option).  Cannot be[m
+             used with [1m-U[0m.[m
+[m
+[7m Manual page nc(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     [1m-h[0m      Print out the [1mnc[0m help text and exit.[m
+[m
+     [1m-I[0m [4mlength[24m[m
+             Specify the size of the TCP receive buffer.[m
+[m
+     [1m-i[0m [4minterval[24m[m
+             Sleep for [4minterval[24m seconds between lines of text sent and[m
+             received.  Also causes a delay time between connections to[m
+             multiple ports.[m
+[m
+[7m Manual page nc(1) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     [1m-k[0m      When a connection is completed, listen for another one.[m
+             Requires [1m-l[0m.  When used together with the [1m-u[0m option, the[m
+             server socket is not connected and it can receive UDP data‐[m
+             grams from multiple hosts.[m
+[m
+     [1m-l[0m      Listen for an incoming connection rather than initiating a[m
+             connection to a remote host.  The [4mdestination[24m and [4mport[24m to[m
+             listen on can be specified either as non-optional argu‐[m
+             ments, or with options [1m-s[0m and [1m-p[0m respectively.  Cannot be[m
+             used together with [1m-x[0m or [1m-z[0m.  Additionally, any timeouts[m
+[7m Manual page nc(1) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             specified with the [1m-w[0m option are ignored.[m
+[m
+     [1m-M[0m [4mttl[24m  Set the TTL / hop limit of outgoing packets.[m
+[m
+     [1m-m[0m [4mminttl[24m[m
+             Ask the kernel to drop incoming packets whose TTL / hop[m
+             limit is under [4mminttl[24m.[m
+[m
+     [1m-N[0m      shutdown(2) the network socket after EOF on the input.[m
+             Some servers require this to finish their work.[m
+[7m Manual page nc(1) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-n[0m      Do not do any DNS or service lookups on any specified ad‐[m
+             dresses, hostnames or ports.[m
+[m
+     [1m-O[0m [4mlength[24m[m
+             Specify the size of the TCP send buffer.[m
+[m
+     [1m-P[0m [4mproxy_username[24m[m
+             Specifies a username to present to a proxy server that re‐[m
+             quires authentication.  If no username is specified then[m
+[7m Manual page nc(1) line 85 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             authentication will not be attempted.  Proxy authentication[m
+             is only supported for HTTP CONNECT proxies at present.[m
+[m
+     [1m-p[0m [4msource_port[24m[m
+             Specify the source port [1mnc[0m should use, subject to privilege[m
+             restrictions and availability.[m
+[m
+     [1m-q[0m [4mseconds[24m[m
+             after EOF on stdin, wait the specified number of [4mseconds[24m[m
+             and then quit. If [4mseconds[24m is negative, wait forever (de‐[m
+[7m Manual page nc(1) line 95 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             fault).  Specifying a non-negative [4mseconds[24m implies [1m-N[0m.[m
+[m
+     [1m-r[0m      Choose source and/or destination ports randomly instead of[m
+             sequentially within a range or in the order that the system[m
+             assigns them.[m
+[m
+     [1m-S[0m      Enable the RFC 2385 TCP MD5 signature option.[m
+[m
+     [1m-s[0m [4msource[24m[m
+             Send packets from the interface with the [4msource[24m IP address.[m
+[7m Manual page nc(1) line 105 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             For UNIX-domain datagram sockets, specifies the local tem‐[m
+             porary socket file to create and use so that datagrams can[m
+             be received.  Cannot be used together with [1m-x[0m.[m
+[m
+     [1m-T[0m [4mkeyword[24m[m
+             Change the IPv4 TOS/IPv6 traffic class value.  [4mkeyword[24m may[m
+             be one of [1mcritical[0m, [1minetcontrol[0m, [1mlowcost[0m, [1mlowdelay[0m,[m
+             [1mnetcontrol[0m, [1mthroughput[0m, [1mreliability[0m, or one of the DiffServ[m
+             Code Points: [1mef[0m, [1maf11[0m ... [1maf43[0m, [1mcs0[0m ... [1mcs7[0m; or a number in[m
+             either hex or decimal.[m
+[7m Manual page nc(1) line 115 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[m
+     [1m-t[0m      Send RFC 854 DON'T and WON'T responses to RFC 854 DO and[m
+             WILL requests.  This makes it possible to use [1mnc[0m to script[m
+             telnet sessions.[m
+[m
+     [1m-U[0m      Use UNIX-domain sockets.  Cannot be used together with [1m-F[0m[m
+             or [1m-x[0m.[m
+[m
+     [1m-u[0m      Use UDP instead of TCP.  Cannot be used together with [1m-x[0m.[m
+             For UNIX-domain sockets, use a datagram socket instead of a[m
+[7m Manual page nc(1) line 125 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             stream socket.  If a UNIX-domain socket is used, a tempo‐[m
+             rary receiving socket is created in [4m/tmp[24m unless the [1m-s[0m flag[m
+             is given.[m
+[m
+     [1m-V[0m [4mrtable[24m[m
+             Set the routing table to be used.[m
+[m
+     [1m-v[0m      Produce more verbose output.[m
+[m
+     [1m-W[0m [4mrecvlimit[24m[m
+[7m Manual page nc(1) line 135 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             Terminate after receiving [4mrecvlimit[24m packets from the net‐[m
+             work.[m
+[m
+     [1m-w[0m [4mtimeout[24m[m
+             Connections which cannot be established or are idle timeout[m
+             after [4mtimeout[24m seconds.  The [1m-w[0m flag has no effect on the [1m-l[0m[m
+             option, i.e. [1mnc[0m will listen forever for a connection, with[m
+             or without the [1m-w[0m flag.  The default is no timeout.[m
+[m
+     [1m-X[0m [4mproxy_protocol[24m[m
+[7m Manual page nc(1) line 145 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             Use [4mproxy_protocol[24m when talking to the proxy server.  Sup‐[m
+             ported protocols are [1m4[0m (SOCKS v.4), [1m5[0m (SOCKS v.5) and[m
+             [1mconnect[0m (HTTPS proxy).  If the protocol is not specified,[m
+             SOCKS version 5 is used.[m
+[m
+     [1m-x[0m [4mproxy_address[24m[:[4mport[24m][m
+             Connect to [4mdestination[24m using a proxy at [4mproxy_address[24m and[m
+             [4mport[24m.  If [4mport[24m is not specified, the well-known port for[m
+             the proxy protocol is used (1080 for SOCKS, 3128 for[m
+             HTTPS).  An IPv6 address can be specified unambiguously by[m
+[7m Manual page nc(1) line 155 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K             enclosing [4mproxy_address[24m in square brackets.  A proxy cannot[m
+             be used with any of the options [1m-lsuU[0m.[m
+[m
+     [1m-Z[0m      DCCP mode.[m
+[m
+     [1m-z[0m      Only scan for listening daemons, without sending any data[m
+             to them.  Cannot be used together with [1m-l[0m.[m
+[m
+     [4mdestination[24m can be a numerical IP address or a symbolic hostname[m
+     (unless the [1m-n[0m option is given).  In general, a destination must be[m
+[7m Manual page nc(1) line 165 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K     specified, unless the [1m-l[0m option is given (in which case the local[m
+     host is used).  For UNIX-domain sockets, a destination is required[m
+     and is the socket path to connect to (or listen on if the [1m-l[0m option[m
+     is given).[m
+[m
+     [4mport[24m can be specified as a numeric port number or as a service[m
+     name.  Port ranges may be specified as numeric port numbers of the[m
+     form [4mnn[24m-[4mmm[24m.  In general, a destination port must be specified, un‐[m
+     less the [1m-U[0m option is given.[m
+[m
+[7m Manual page nc(1) line 175 (press h for help or q to quit)[27m[K[K [KESCESC[K[[[K66[K~~[K[1mCLIENT/SERVER[0m [1mMODEL[0m[m
+     It is quite simple to build a very basic client/server model using[m
+     [1mnc[0m.  On one console, start [1mnc[0m listening on a specific port for a[m
+     connection.  For example:[m
+[m
+           $ nc -l 1234[m
+[m
+     [1mnc[0m is now listening on port 1234 for a connection.  On a second[m
+     console (or a second machine), connect to the machine and port be‐[m
+     ing listened on:[m
+[7m Manual page nc(1) line 185 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# man nc
+[?1049h[22;0;0t[?1h=NC(1)                  BSD General Commands Manual                 NC(1)[m
+[m
+[1mNAME[0m[m
+     [1mnc[0m — arbitrary TCP and UDP connections and listens[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mnc[0m [[1m-46bCDdFhklNnrStUuvZz[0m] [[1m-I[0m [4mlength[24m] [[1m-i[0m [4minterval[24m] [[1m-M[0m [4mttl[24m][m
+        [[1m-m[0m [4mminttl[24m] [[1m-O[0m [4mlength[24m] [[1m-P[0m [4mproxy_username[24m] [[1m-p[0m [4msource_port[24m][m
+        [[1m-q[0m [4mseconds[24m] [[1m-s[0m [4msource[24m] [[1m-T[0m [4mkeyword[24m] [[1m-V[0m [4mrtable[24m] [[1m-W[0m [4mrecvlimit[24m][m
+        [[1m-w[0m [4mtimeout[24m] [[1m-X[0m [4mproxy_protocol[24m] [[1m-x[0m [4mproxy_address[24m[:[4mport[24m]][m
+[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page nc(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# man ncupdate-alternatives --config java[2Pnc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0[Kupdate-alternatives --config nc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19P./client.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19P./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:20:35] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 22:20:35] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 22:20:35] [INFO] 连接成功
+[2021-05-13 22:20:35] [DEBUG] [SEND]: #%?\n
+[2021-05-13 22:20:35] [DEBUG] [SEND]: add
+[2021-05-13 22:20:35] [DEBUG] [SEND]: 1145141919
+[2021-05-13 22:20:35] [DEBUG] [SEND]: 2
+[2021-05-13 22:20:35] [DEBUG] [SEND-FILE]: 2021-05-13.csv
+[2021-05-13 22:20:35] [DEBUG] [SEND]: \0
+[2021-05-13 22:20:35] [DEBUG] [CLOSE] :
+[2021-05-13 22:20:35] [INFO] 发送成功。
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc -e
+nc: invalid option -- 'e'
+usage: nc [-46CDdFhklNnrStUuvZz] [-I length] [-i interval] [-M ttl]
+	  [-m minttl] [-O length] [-P proxy_username] [-p source_port]
+	  [-q seconds] [-s source] [-T keyword] [-V rtable] [-W recvlimit] [-w timeout]
+	  [-X proxy_protocol] [-x proxy_address[:port]] 	  [destination] [port]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc -e "1"
+nc: invalid option -- 'e'
+usage: nc [-46CDdFhklNnrStUuvZz] [-I length] [-i interval] [-M ttl]
+	  [-m minttl] [-O length] [-P proxy_username] [-p source_port]
+	  [-q seconds] [-s source] [-T keyword] [-V rtable] [-W recvlimit] [-w timeout]
+	  [-X proxy_protocol] [-x proxy_address[:port]] 	  [destination] [port]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc -e "1"[K "1"[Knc -e "1"[K./client.sh [6Pman ncupdate-alternatives --config java[2Pnc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0[Kupdate-alternatives --config nc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19P./client.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman nc[K[25@update-alternatives --config[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pncnc.traditional[6Pman netcaT[2Pwhich ncapt install  netcat-traditional[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhich nc[Kman netcaTncnc.traditional[6Pman netcaT[2Pwhich ncapt install  netcat-traditional[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pnetcat -c 'xx'[4Pman netcat[2Pcat[K./client.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 8881145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh echo -n "${sql//[\']//\\\'}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csql=1[Kecho -n "${sql//[\']//\\\'}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919888[K[7P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P. ./functions.sh getUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19P./client.sh [6Pman ncatetcatnetcat -c 'xx'apt install  netcat-traditional[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhich nc[Kman netcaTncnc.traditionalupdate-alternatives --config nc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman nc[KgetUserIdByStudentId 1145141919[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19P./client.sh update-alternatives --config nc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0[Kupdate-alternatives --config ncjava[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman nc[K./client.sh [7Pnc -e "1"[Knc -e "1"[K./client.sh [6Pman ncupdate-alternatives --config java
+update-alternatives: error: no alternatives for java
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# update-alternatives --config java[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnc -e "1"[Kupdate-alternatives --config java[K[K[K[Knc
+There are 2 choices for the alternative nc (providing /bin/nc).
+
+  Selection    Path                 Priority   Status
+------------------------------------------------------------
+* 0            /bin/nc.openbsd       50        auto mode
+  1            /bin/nc.openbsd       50        manual mode
+  2            /bin/nc.traditional   10        manual mode
+
+Press <enter> to keep the current choice[*], or type selection number: 2
+update-alternatives: using /bin/nc.traditional to provide /bin/nc (nc) in manual mode
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# /bin/nc.traditional
+Cmd line: ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# /bin/nc.traditionalupdate-alternatives --config nc
+There are 2 choices for the alternative nc (providing /bin/nc).
+
+  Selection    Path                 Priority   Status
+------------------------------------------------------------
+  0            /bin/nc.openbsd       50        auto mode
+  1            /bin/nc.openbsd       50        manual mode
+* 2            /bin/nc.traditional   10        manual mode
+
+Press <enter> to keep the current choice[*], or type selection number: 0
+update-alternatives: using /bin/nc.openbsd to provide /bin/nc (nc) in auto mode
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# /bin/nc.traditional
+Cmd line: ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# /bin/nc.traditional[C[C[1Pnc.traditional[1Pc.traditional[1Pnc.traditional[1Pnc.traditional[1Pnc.traditional
+Cmd line: ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc.traditional --help
+nc.traditional: invalid option -- '-'
+nc -h for help
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc.traditional --help[K[K[K[K[Kh
+[v1.10-41.1ubuntu1]
+connect to somewhere:	nc [-options] hostname port[s] [ports] ... 
+listen for inbound:	nc -l -p port [-options] [hostname] [port]
+options:
+	-c shell commands	as `-e'; use /bin/sh to exec [dangerous!!]
+	-e filename		program to exec after connect [dangerous!!]
+	-b			allow broadcasts
+	-g gateway		source-routing hop point[s], up to 8
+	-G num			source-routing pointer: 4, 8, 12, ...
+	-h			this cruft
+	-i secs			delay interval for lines sent, ports scanned
+        -k                      set keepalive option on socket
+	-l			listen mode, for inbound connects
+	-n			numeric-only IP addresses, no DNS
+	-o file			hex dump of traffic
+	-p port			local port number
+	-r			randomize local and remote ports
+	-q secs			quit after EOF on stdin and delay of secs
+	-s addr			local source address
+	-T tos			set Type Of Service
+	-t			answer TELNET negotiation
+	-u			UDP mode
+	-v			verbose [use twice to be more verbose]
+	-w secs			timeout for connects and final net reads
+	-C			Send CRLF as line-ending
+	-z			zero-I/O mode [used for scanning]
+port numbers can be individual or ranges: lo-hi [inclusive];
+hyphens in port names must be backslash escaped (e.g. 'ftp\-data').
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# nc.traditional -h-helph[K[Kcommand -v nc.traditional
+/usr/bin/nc.traditional
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# command -v nc.traditional
+/usr/bin/nc.traditional
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# command -v nc.traditional
+/usr/bin/nc.traditional
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# command -v nc.traditional[8Pnc.traditional -h-help[K/bin/nc.traditionalupdate-alternatives --config nc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12P/bin/nc.traditionalupdate-alternatives --config ncjava[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnc -e "1"[K[K./client.sh [6Pman ncupdate-alternatives --config java[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman nc[K./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:26:11] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 22:26:11] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 22:26:11] [INFO] 连接成功
+[2021-05-13 22:26:11] [DEBUG] [SEND]: #%?\n
+[2021-05-13 22:26:11] [DEBUG] [SEND]: add
+[2021-05-13 22:26:11] [DEBUG] [SEND]: 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# echo $0
+bash
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# /[K/bin/bash echo $0
+/usr/bin/echo: /usr/bin/echo: cannot execute binary file
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# exit
+exit
+
+Script done on 2021-05-13 22:27:20+08:00 [COMMAND_EXIT_CODE="126"]
+Script started on 2021-05-13 22:27:33+08:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="74" LINES="11"]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# s [K[Ks[K/bin/bas[K[K[Ksh -c ''e'c'[1P'[1P'c'[1P'e'c'h'o' '$'0'
+/bin/sh
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# /bin/sh -c 'echo $0'
+/bin/sh
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# /bin/sh -c 'echo $0'exit[K/bin/bash echo $0[10P[C[C[C[C[C[C[C./client.sh command -v nc.traditional[8Pnc.traditional -h-help[K/bin/nc.traditionalupdate-alternatives --config nc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12P/bin/nc.traditionalupdate-alternatives --config ncjava[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnc -e "1"[K^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:29:08] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-13 22:29:08] [DEBUG] [CONNECT] localhost:45123
+[2021-05-13 22:29:08] [INFO] 连接成功
+[2021-05-13 22:29:08] [DEBUG] [SEND]: #%?\n
+[2021-05-13 22:29:08] [DEBUG] [SEND]: add
+[2021-05-13 22:29:08] [DEBUG] [SEND]: 1145141919
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# getopt -a -o  --long embedding::,handle-request:: -- "$@"
+ 'embedding::,handle-request::' --
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# getopt -a -o  --long embedding::,handle-request:: -- "$@"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C--long embedding::,handle-request:: -[C[1P "$@"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C --long embedding::,handle-request:: --[1P "$@"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C --long embedding::,handle-request:: -- [1P"$@"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C--long embedding::,handle-request:: -- "[1P$@"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+getopt: missing optstring argument
+Try 'getopt --help' for more information.
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+文档/Linux/CourseDesign# getopt -a --long embedding::,handle-request:: -- "$@"[A[C

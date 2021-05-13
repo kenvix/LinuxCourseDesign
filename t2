@@ -1896,4 +1896,281 @@ Connection received on localhost 22172
 sign# ./server.sh 
 塞尔达传说信息收集服务器
 当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
-[2021-05-13 22:02:37] [DEBUG] 调试模式�
+[2021-05-13 22:02:37] [DEBUG] 调试模式已启用
+[2021-05-13 22:02:37] [INFO] 版本 3  正在监听端口 45123
+Listening on tonec.com 45123
+Connection received on localhost 22441
+[2021-05-13 22:02:44] [DEBUG] --- Begin Packet ---
+[2021-05-13 22:02:44] [DEBUG] [RECV TYPE]: add
+[2021-05-13 22:02:44] [INFO] 接收到来自 1145141919 的请求
+[2021-05-13 22:02:44] [DEBUG] 开始处理 1 (1145141919)，共 2 个
+[2021-05-13 22:02:44] [DEBUG] 开始处理 1/2
+[2021-05-13 22:02:44] [DEBUG] Skipping header
+[2021-05-13 22:02:44] [DEBUG] 开始处理 2/2
+[2021-05-13 22:02:44] [INFO] 正在处理：a b c d e
+[2021-05-13 22:02:44] [DEBUG] 处理成功
+[2021-05-13 22:02:44] [DEBUG] 处理结束
+[2021-05-13 22:02:44] [DEBUG] --- End Packet ---
+Connection received on localhost 22444
+[2021-05-13 22:02:52] [DEBUG] --- Begin Packet ---
+[2021-05-13 22:02:52] [DEBUG] [RECV TYPE]: add
+[2021-05-13 22:02:52] [INFO] 接收到来自 1145141919 的请求
+[2021-05-13 22:02:52] [DEBUG] 开始处理 1 (1145141919)，共 2 个
+[2021-05-13 22:02:52] [DEBUG] 开始处理 1/2
+[2021-05-13 22:02:52] [DEBUG] Skipping header
+[2021-05-13 22:02:52] [DEBUG] 开始处理 2/2
+[2021-05-13 22:02:52] [INFO] 正在处理：a b c d e
+[2021-05-13 22:02:52] [DEBUG] 处理成功
+[2021-05-13 22:02:52] [DEBUG] 处理结束
+[2021-05-13 22:02:52] [DEBUG] --- End Packet ---
+^[[A
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:07:16] [DEBUG] 调试模式已启用
+[2021-05-13 22:07:16] [INFO] 版本 3  正在监听端口 45123
+./server.sh: line 28: syntax error near unexpected token `|'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:07:21] [DEBUG] 调试模式已启用
+[2021-05-13 22:07:21] [INFO] 版本 3  正在监听端口 45123
+./server.sh: line 28: exec: -o: invalid option
+exec: usage: exec [-cl] [-a name] [command [arguments ...]] [redirection ...]
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:15:03] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:16:11] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:17:01] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+connect to [127.0.0.1] from localhost [127.0.0.1] 22828
+ sent 0, rcvd 125
+[2021-05-13 22:17:08] [DEBUG] --- Begin Packet ---
+[2021-05-13 22:17:08] [DEBUG] [RECV TYPE]: add
+[2021-05-13 22:17:08] [INFO] 接收到来自 1145141919 的请求
+[2021-05-13 22:17:08] [DEBUG] 开始处理 1 (1145141919)，共 2 个
+[2021-05-13 22:17:08] [DEBUG] 开始处理 1/2
+[2021-05-13 22:17:08] [DEBUG] Skipping header
+[2021-05-13 22:17:08] [DEBUG] 开始处理 2/2
+[2021-05-13 22:17:08] [INFO] 正在处理：a b c d e
+[2021-05-13 22:17:08] [DEBUG] 处理成功
+[2021-05-13 22:17:08] [DEBUG] 处理结束
+[2021-05-13 22:17:08] [DEBUG] --- End Packet ---
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:20:29] [INFO] 版本 3  正在监听端口 45123
+Listening on tonec.com 45123
+Connection received on localhost 22901
+[2021-05-13 22:20:35] [DEBUG] --- Begin Packet ---
+[2021-05-13 22:20:35] [DEBUG] [RECV TYPE]: add
+[2021-05-13 22:20:35] [INFO] 接收到来自 1145141919 的请求
+[2021-05-13 22:20:35] [DEBUG] 开始处理 1 (1145141919)，共 2 个
+[2021-05-13 22:20:35] [DEBUG] 开始处理 1/2
+[2021-05-13 22:20:35] [DEBUG] Skipping header
+[2021-05-13 22:20:35] [DEBUG] 开始处理 2/2
+[2021-05-13 22:20:35] [INFO] 正在处理：a b c d e
+[2021-05-13 22:20:35] [DEBUG] 处理成功
+[2021-05-13 22:20:35] [DEBUG] 处理结束
+[2021-05-13 22:20:35] [DEBUG] --- End Packet ---
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:24:57] [INFO] 版本 3  正在监听端口 45123
+Listening on tonec.com 45123
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# command -v nc.traditional
+/usr/bin/nc.traditional
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# echo $?
+0
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:25:14] [INFO] 版本 3  正在监听端口 45123
+Listening on tonec.com 45123
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:25:29] [INFO] 版本 3  正在监听端口 45123
+Listening on tonec.com 45123
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:25:45] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:25:45] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+./server.sh: line 99: syntax error near unexpected token `then'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:26:05] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:26:05] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+connect to [127.0.0.1] from localhost [127.0.0.1] 23047
+sh: 1: handleRequest: not found
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:28:58] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:28:58] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+connect to [127.0.0.1] from localhost [127.0.0.1] 23107
+sh: 1: /mnt/c/Synced/OneDrive: not found
+[2021-05-13 22:29:08] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 106: break: only meaningful in a `for', `while', or `until' loop
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+getopt: missing optstring argument
+Try 'getopt --help' for more information.
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:32:55] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:32:55] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:32:56] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 107: break: only meaningful in a `for', `while', or `until' loop
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+getopt: missing optstring argument
+Try 'getopt --help' for more information.
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:32:59] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:32:59] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:33:03] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 107: break: only meaningful in a `for', `while', or `until' loop
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+getopt: missing optstring argument
+Try 'getopt --help' for more information.
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:39:56] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:39:56] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:39:58] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 107: break: only meaningful in a `for', `while', or `until' loop
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:40:04] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:40:04] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:40:09] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 107: break: only meaningful in a `for', `while', or `until' loop
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+'embedding,handle-request' is not option
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:41:48] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:41:48] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:41:49] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 125: break: only meaningful in a `for', `while', or `until' loop
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh  --embedding
+'embedding,handle-request' is not option
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:42:40] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:42:40] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:42:41] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 124: break: only meaningful in a `for', `while', or `until' loop
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh  --embedding
+getopt: unrecognized option '--embedding'
+Try 'getopt --help' for more information.
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:43:05] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:43:05] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:44:08] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 124: break: only meaningful in a `for', `while', or `until' loop
+./server.sh: line 127: i: command not found
+./server.sh: line 128: syntax error near unexpected token `fi'
+./server.sh: line 128: `fi'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh  --embedding
+getopt: unrecognized option '--embedding'
+Try 'getopt --help' for more information.
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:44:08] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:44:08] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:44:10] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 124: break: only meaningful in a `for', `while', or `until' loop
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh  --embedding
+getopt: unrecognized option '--embedding'
+Try 'getopt --help' for more information.
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:44:11] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:44:11] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:44:12] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 124: break: only meaningful in a `for', `while', or `until' loop
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh  --embedding
+getopt: unrecognized option '--embedding'
+Try 'getopt --help' for more information.
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:44:29] [DEBUG] Found Debian traditional netcat
+[2021-05-13 22:44:29] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-13 22:46:01] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+./server.sh: line 124: break: only meaningful in a `for', `while', or `until' loop
+./server.sh: line 128: syntax error near unexpected token `fi'
+./server.sh: line 128: `fi'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh  --embedding
+
+^C
+]0;root@E
