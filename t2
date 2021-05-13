@@ -1831,4 +1831,69 @@ Connection received on localhost 22141
 [2021-05-13 21:51:39] [DEBUG] 开始处理，共 2 个
 [2021-05-13 21:51:39] [DEBUG] 开始处理 1/2
 [2021-05-13 21:51:39] [DEBUG] Skipping header
-[2021-05-
+[2021-05-13 21:51:39] [DEBUG] 开始处理 2/2
+[2021-05-13 21:51:39] [INFO] 正在处理：a b c  d e
+[2021-05-13 21:51:39] [ERROR] Illegal function call, at least 6 param required, 5 given.
+^[[A^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:52:05] [DEBUG] 调试模式已启用
+[2021-05-13 21:52:05] [INFO] 版本 3  正在监听端口 45123
+Listening on tonec.com 45123
+Connection received on localhost 22153
+[2021-05-13 21:52:06] [DEBUG] --- Begin Packet ---
+[2021-05-13 21:52:06] [DEBUG] [RECV TYPE]: add
+[2021-05-13 21:52:06] [INFO] 接收到来自 1145141919 的请求
+[2021-05-13 21:52:06] [DEBUG] 开始处理，共 2 个
+[2021-05-13 21:52:06] [DEBUG] 开始处理 1/2
+[2021-05-13 21:52:06] [DEBUG] Skipping header
+[2021-05-13 21:52:06] [DEBUG] 开始处理 2/2
+[2021-05-13 21:52:06] [INFO] 正在处理：a b c d e
+[2021-05-13 21:52:06] [ERROR] Illegal function call, at least 6 param required, 5 given.
+^[[A
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:52:39] [DEBUG] 调试模式已启用
+[2021-05-13 21:52:39] [INFO] 版本 3  正在监听端口 45123
+Listening on tonec.com 45123
+Connection received on localhost 22161
+[2021-05-13 21:52:40] [DEBUG] --- Begin Packet ---
+[2021-05-13 21:52:40] [DEBUG] [RECV TYPE]: add
+[2021-05-13 21:52:40] [INFO] 接收到来自 1145141919 的请求
+[2021-05-13 21:52:40] [DEBUG] 开始处理  (1145141919)，共 2 个
+[2021-05-13 21:52:40] [DEBUG] 开始处理 1/2
+[2021-05-13 21:52:40] [DEBUG] Skipping header
+[2021-05-13 21:52:40] [DEBUG] 开始处理 2/2
+[2021-05-13 21:52:40] [INFO] 正在处理：a b c d e
+[2021-05-13 21:52:40] [ERROR] Illegal function call, at least 6 param required, 5 given.
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux
+/CourseDesign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 21:53:07] [DEBUG] 调试模式已启用
+[2021-05-13 21:53:07] [INFO] 版本 3  正在监听端口 45123
+Listening on tonec.com 45123
+Connection received on localhost 22171
+[2021-05-13 21:53:08] [DEBUG] --- Begin Packet ---
+[2021-05-13 21:53:08] [DEBUG] [RECV TYPE]: add
+[2021-05-13 21:53:08] [INFO] 接收到来自 1145141919 的请求
+[2021-05-13 21:53:08] [WARN] 无此用户 1145141919
+[2021-05-13 21:53:08] [DEBUG] --- End Packet ---
+Connection received on localhost 22172
+[2021-05-13 21:53:10] [DEBUG] --- Begin Packet ---
+[2021-05-13 21:53:10] [DEBUG] [RECV TYPE]: add
+[2021-05-13 21:53:10] [INFO] 接收到来自 1145141919 的请求
+[2021-05-13 21:53:10] [WARN] 无此用户 1145141919
+[2021-05-13 21:53:10] [DEBUG] --- End Packet ---
+^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDe
+sign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-13 22:02:37] [DEBUG] 调试模式�

@@ -101,14 +101,12 @@ function execSQLRO {
 }
 
 function sqlAdds {
-    echo -n "${sql//[\']//\\\'}"
+    echo -n "${1//[\']//\\\'}"
 }
 
 function getUserIdByStudentId {
     checkParamNum 1 $*
-    echo $1
     local studentId=`sqlAdds "$1"`
-    echo $studentId
     execSQLRO "SELECT userid FROM users WHERE studentid = '$studentId';"
 }
 
@@ -318,5 +316,3 @@ function connectAndSendCSV {
     disconnectServer || return 1
     return 0
 }
-
-logD "调试模式已启用"
