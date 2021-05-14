@@ -222,7 +222,6 @@ function exportDailyRank {
     echo "$elements" | {
         while IFS= read -t 0.1 -r line; do
             IFS='|' read -r -a line <<< "$line"
-            echo "${line[@]}"
             echo "ctx.fillText('${line[5]}', ${line[2]}, ${line[3]});" >&9
         done
     } 
@@ -241,7 +240,7 @@ function exportDailyRank {
     echo "</table>" >&9
 
 
-    echo "<h1>$(getDate) 的排行榜</h1>" >&9 
+    echo "<h1>$date 的排行榜</h1>" >&9 
 
     echo "<h2>神庙高手排行榜</h2>" >&9
     echo "<table>" >&9
@@ -249,7 +248,7 @@ function exportDailyRank {
     
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE type LIKE '神庙' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '神庙' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
@@ -261,7 +260,7 @@ function exportDailyRank {
     
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE subtype LIKE '岩石巨人' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '岩石巨人' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
@@ -272,7 +271,7 @@ function exportDailyRank {
     
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE subtype LIKE '独眼巨人西诺克斯' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '独眼巨人西诺克斯' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
@@ -283,7 +282,7 @@ function exportDailyRank {
     
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE subtype LIKE '半人马莱尼尔' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '半人马莱尼尔' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
@@ -294,7 +293,7 @@ function exportDailyRank {
     
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE subtype LIKE '莫尔德拉吉克' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '莫尔德拉吉克' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
@@ -305,7 +304,7 @@ function exportDailyRank {
     
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE type LIKE '克洛格种子' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '克洛格种子' LIMIT 10;" >&9
 
     echo "</table>" >&9
 

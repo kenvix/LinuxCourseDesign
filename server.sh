@@ -114,6 +114,7 @@ else
 
     if [ ! -f "$SERVER_DATABASE" ]; then
         logInline "正在初始化数据库..."
+        cp "template.sqlite3" "$SERVER_DATABASE"
         log "完成"
     fi
 

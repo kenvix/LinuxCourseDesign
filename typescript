@@ -6877,4 +6877,145 @@ apt install sqlite
 
 ]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# sqlite --version[C3 --version
 3.31.1 2020-01-27 19:55:54 3bfa9cc97da10598521b342961df8f5f68c7388fa117345eeb516eaa837balt1
-]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# bash -v[K-version
+GNU bash, version 5.0.17(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2019 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ghe[K[Ketopt --version
+getopt from util-linux 2.34
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# getopt --version[Kls
+[0m[01;32m1.html[0m               [01;32m2021-05-12.csv[0m  [01;32mclient.sh[0m  [01;32me.html[0m        [01;32mmain.sqlite3[0m      [01;32mstat-2021-05-12.html[0m  [01;32mt2[0m            [01;32mtest.sh[0m     [01;32mw122.csv[0m
+[01;32m2021-05-03.csv[0m       [01;32m2021-05-13.csv[0m  [01;32mconfig.sh[0m  [01;32medit.sh[0m       [01;32mmain.sqlite3.bak[0m  [01;32mstat-2021-05-14.html[0m  [01;32mtemplate.csv[0m  [01;32mtypescript[0m
+[01;32m2021-05-03.csv.save[0m  [01;32m2021-05-14.csv[0m  [34;42mdata[0m       [01;32mfunctions.sh[0m  [01;32mserver.sh[0m         [01;32mstdbuf[0m                [01;32mtest.csv[0m      [01;32mutils.sh[0m
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# mv typescript [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[K./s [K[K[K[Kls
+[0m[01;32m1.html[0m               [01;32m2021-05-12.csv[0m  [01;32mclient.sh[0m  [01;32me.html[0m        [01;32mmain.sqlite3[0m      [01;32mstat-2021-05-12.html[0m  [01;32mt2[0m            [01;32mtest.sh[0m     [01;32mw122.csv[0m
+[01;32m2021-05-03.csv[0m       [01;32m2021-05-13.csv[0m  [01;32mconfig.sh[0m  [01;32medit.sh[0m       [01;32mmain.sqlite3.bak[0m  [01;32mstat-2021-05-14.html[0m  [01;32mtemplate.csv[0m  [01;32mtypescript[0m
+[01;32m2021-05-03.csv.save[0m  [01;32m2021-05-14.csv[0m  [34;42mdata[0m       [01;32mfunctions.sh[0m  [01;32mserver.sh[0m         [01;32mstdbuf[0m                [01;32mtest.csv[0m      [01;32mutils.sh[0m
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[K./uti^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./utils.sh exportDailyRank 
+[2021-05-14 19:53:41] [INFO] 导出 2021-05-14 的数据，并存储到：stat-2021-05-14.html
+巨型怪兽 独眼巨人西诺克斯 12.0 32.0 独眼巨人西诺克斯 👽
+巨型怪兽 岩石巨人 4.0 70.0 岩石巨人 🗿
+巨型怪兽 独眼巨人西诺克斯 8.0 20.0 独眼巨人西诺克斯 👽
+巨型怪兽 岩石巨人 22.0 50.0 岩石巨人 🗿
+神庙  1.0 40.0 神庙 🏯
+神庙  88.0 70.0 神庙 🏯
+巨型怪兽 岩石巨人 44.0 1.0 岩石巨人 🗿
+巨型怪兽 独眼巨人西诺克斯 10.0 11.0 独眼巨人西诺克斯 👽
+克洛格种子  44.0 445.0 克洛格种子 🌱
+克洛格种子  78.0 70.0 克洛格种子 🌱
+克洛格种子  74.0 111.0 克洛格种子 🌱
+巨型怪兽 岩石巨人 44.0 555.0 岩石巨人 🗿
+巨型怪兽 岩石巨人 84.1 24.1 岩石巨人 🗿
+神庙  1.81 25.1 神庙 🏯
+克洛格种子  48.2 12.0 克洛格种子 🌱
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./utils.sh exportDailyRank 
+[2021-05-14 19:53:54] [INFO] 导出 2021-05-14 的数据，并存储到：stat-2021-05-14.html
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./utils.sh exportDailyRank 
+[2021-05-14 19:53:57] [INFO] 导出 2021-05-14 的数据，并存储到：stat-2021-05-14.html
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./utils.sh exportDailyRank 
+[2021-05-14 19:54:44] [INFO] 导出 2021-05-14 的数据，并存储到：stat-2021-05-14.html
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./utils.sh exportDailyRank 
+[2021-05-14 19:54:53] [INFO] 导出 2021-05-14 的数据，并存储到：stat-2021-05-14.html
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[Kls
+[0m[01;32m1.html[0m               [01;32m2021-05-12.csv[0m  [01;32mclient.sh[0m  [01;32me.html[0m        [01;32mmain.sqlite3[0m      [01;32mstat-2021-05-12.html[0m  [01;32mt2[0m            [01;32mtest.sh[0m     [01;32mw122.csv[0m
+[01;32m2021-05-03.csv[0m       [01;32m2021-05-13.csv[0m  [01;32mconfig.sh[0m  [01;32medit.sh[0m       [01;32mmain.sqlite3.bak[0m  [01;32mstat-2021-05-14.html[0m  [01;32mtemplate.csv[0m  [01;32mtypescript[0m
+[01;32m2021-05-03.csv.save[0m  [01;32m2021-05-14.csv[0m  [34;42mdata[0m       [01;32mfunctions.sh[0m  [01;32mserver.sh[0m         [01;32mstdbuf[0m                [01;32mtest.csv[0m      [01;32mutils.sh[0m
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[Ks [K[Ks [K[Ks [K[Knano [K[K[K[K[K./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 21:14:18] [INFO] 正在编辑文件: 2021-05-14.csv
+[?2004h[?1049h[22;0;0t[1;18r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[16;84H(B[0;7m[ Reading... ](B[m[16;69H(B[0;7m[ Read 5 lines (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                                       2021-05-14.csv                                                                                  [1;180H(B[m[17d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[17;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[18d(B[0;7m^X(B[m Exit[18;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[18;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[18;161H(B[0;7m^F(B[m Forward[16d[2d[39;49m(B[m种类（大类）    子类（可选）    特点（可选）    经度（X）[65G纬度（Y）[3da[3;17Hb[3;33Hc[3;49Hd[3;65He[4d神庙[4;17H-[4;33H力之试炼[4;49H1.81[4;65H25.1[5d巨型怪兽[5;17H岩石巨人[5;33H熔岩[5;49H84.1[5;65H24.1[6d克洛格种子[17G-[6;33H弥补[6;49H48.2[6;65H12[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[3;66H[?12l[?25h[?25l[1;172H(B[0;7mModified(B[m[3;65H [?12l[?25h[?25l[3;57H[?12l[?25h[?25l[50G[?12l[?25h[?25l [?12l[?25h[?25l[3;41H[?12l[?25h[?25l[34G[?12l[?25h[?25l [?12l[?25h[?25l[3;25H[?12l[?25h[?25l[18G[?12l[?25h[?25l [?12l[?25h[?25l[3;9H[?12l[?25h[?25la[?12l[?25h[?25l[K[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l[K[?12l[?25h[?25l巨型怪兽[16d[K[3;9H[?12l[?25h[?25l[3;17H[?12l[?25h[?25l独眼巨人西诺克斯[?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l[3;41H[?12l[?25h[?25l蓝色[?12l[?25h[?25l    [?12l[?25h[?25l8[?12l[?25h[?25l8[?12l[?25h[?25l4[?12l[?25h[?25l[57G[?12l[?25h[?25l[3;65H[?12l[?25h[?25l1[?12l[?25h[?25l1[?12l[?25h[?25l7[4;16r8[4dM[1;18r[4;1H[?12l[?25h[?25l巨型怪兽[?12l[?25h[?25l[4;17H[?12l[?25h[?25l半人马莱尼尔[?12l[?25h[?25l    [?12l[?25h[?25l白鬃[?12l[?25h[?25l    [?12l[?25h[?25l[4;49H[?12l[?25h[?25l1[?12l[?25h[?25l1[?12l[?25h[?25l2[?12l[?25h[?25l[57G[?12l[?25h[?25l1[?12l[?25h[?25l[65G[?12l[?25h[?25l[58G[?12l[?25h[?25l [?12l[?25h[?25l[4;65H[?12l[?25h[?25l[4;73H[?12l[?25h[?25l[4;65H[?12l[?25h[?25l1[?12l[?25h[?25l2[?12l[?25h[?25l0[?12l[?25h[?25l7[5;16r8[5dM[1;18r[5;1H[?12l[?25h[?25l克洛格种子[?12l[?25h[?25l[17G[?12l[?25h[?25l-[?12l[?25h[?25l[25G[?12l[?25h[?25l[5;33H[?12l[?25h[?25l-[?12l[?25h[?25l[41G[?12l[?25h[?25l[5;49H[?12l[?25h[?25l5[?12l[?25h[?25l[57G[?12l[?25h[?25l[5;65H[?12l[?25h[?25l[5;73H[?12l[?25h[?25l[5;65H[?12l[?25h[?25l4[?12l[?25h[?25l4[?12l[?25h[?25l1[?12l[?25h[?25l[16d(B[0;7mSave modified buffer?                                                                                                                                                                [17;1H Y(B[m Yes[K[18d(B[0;7m N(B[m No  [18;18H(B[0;7mC(B[m Cancel[K[16;23H[?12l[?25h[?25l[17d(B[0;7m^G(B[m Get Help[17;46H(B[0;7mM-D(B[m DOS Format[17;91H(B[0;7mM-A(B[m Append[17;136H(B[0;7mM-B(B[m Backup File[18d(B[0;7m^C(B[m Cancel[17G         [18;46H(B[0;7mM-M(B[m Mac Format[18;91H(B[0;7mM-P(B[m Prepend[18;136H(B[0;7m^T(B[m To Files[16d(B[0;7mFile Name to Write [DOS Format]: 2021-05-14.csv(B[m[16;48H[?12l[?25h[?25l[16;83H[1K (B[0;7m[ Writing... ](B[m[K[1;172H(B[0;7m        (B[m[16;83H(B[0;7m[ Wrote 7 lines ](B[m[J[18d[?12l[?25h[18;1H[?1049l[23;0;0t[?1l>[?2004l[2021-05-14 21:15:23] [DEBUG] Skipping header
+是否立刻发送此文件？n
+[2021-05-14 21:15:25] [INFO] 将不会自动发送报告文件，你稍后可自行运行 ./client "2021-05-14.csv" 来发送文件
+是否立刻发送此文件？n
+[2021-05-14 21:15:28] [INFO] 将不会自动发送报告文件，你稍后可自行运行 ./client "2021-05-14.csv" 来发送文件
+是否立刻发送此文件？^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 21:15:39] [INFO] 正在编辑文件: 2021-05-14.csv
+[?2004h[?1049h[22;0;0t[1;18r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[16;84H(B[0;7m[ Reading... ](B[m[16;69H(B[0;7m[ Read 7 lines (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                                       2021-05-14.csv                                                                                  [1;180H(B[m[17d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[17;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[18d(B[0;7m^X(B[m Exit[18;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[18;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[18;161H(B[0;7m^F(B[m Forward[16d[2d[39;49m(B[m种类（大类）    子类（可选）    特点（可选）    经度（X）[65G纬度（Y）[3d巨型怪兽[3;17H独眼巨人西诺克斯[3;41H蓝色    884[3;65H11[4d巨型怪兽[4;17H半人马莱尼尔    白鬃[4;49H112[4;65H120[5d克洛格种子[17G-[5;33H-[5;49H5[5;65H441[6d神庙[6;17H-[6;33H力之试炼[6;49H1.81[6;65H25.1[7d巨型怪兽[7;17H岩石巨人[7;33H熔岩[7;49H84.1[7;65H24.1[8d克洛格种子[17G-[8;33H弥补[8;49H48.2[8;65H12[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[8d[?12l[?25h[?25l[9d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;172H(B[0;7mModified(B[m[9d神庙[?12l[?25h[?25l    [?12l[?25h[?25l[9;17H[?12l[?25h[?25l-[?12l[?25h[?25l[25G[?12l[?25h[?25l[9;33H[?12l[?25h[?25l智之试炼[16d[K[9;41H[?12l[?25h[?25l[9;49H[?12l[?25h[?25l[9;57H[?12l[?25h[?25l[9;49H[?12l[?25h[?25l9[?12l[?25h[?25l8[?12l[?25h[?25l[57G[?12l[?25h[?25l[9;65H[?12l[?25h[?25l1[?12l[?25h[?25l1[?12l[?25h[?25l0[?12l[?25h[?25l[16d(B[0;7mSave modified buffer?                                                                                                                                                                [17;1H Y(B[m Yes[K[18d(B[0;7m N(B[m No  [18;18H(B[0;7mC(B[m Cancel[K[16;23H[?12l[?25h[?25l[17d(B[0;7m^G(B[m Get Help[17;46H(B[0;7mM-D(B[m DOS Format[17;91H(B[0;7mM-A(B[m Append[17;136H(B[0;7mM-B(B[m Backup File[18d(B[0;7m^C(B[m Cancel[17G         [18;46H(B[0;7mM-M(B[m Mac Format[18;91H(B[0;7mM-P(B[m Prepend[18;136H(B[0;7m^T(B[m To Files[16d(B[0;7mFile Name to Write [DOS Format]: 2021-05-14.csv(B[m[16;48H[?12l[?25h[?25l[16;83H[1K (B[0;7m[ Writing... ](B[m[K[1;172H(B[0;7m        (B[m[16;83H(B[0;7m[ Wrote 8 lines ](B[m[J[18d[?12l[?25h[18;1H[?1049l[23;0;0t[?1l>[?2004l[2021-05-14 21:15:52] [DEBUG] Skipping header
+是否立刻发送此文件？y
+[2021-05-14 21:15:53] [DEBUG] Calling client
+./client.sh: line 5: $'\r': command not found
+./client.sh: line 6: cd: $'.\r': No such file or directory
+./client.sh: line 7: $'pwd\r': command not found
+./client.sh: line 7: cd: $'\r\r': No such file or directory
+./client.sh: line 8: $'\r': command not found
+./client.sh: line 11: $'\r': command not found
+./client.sh: line 26: syntax error near unexpected token `$'{\r''
+./client.sh: line 26: `function sendFileNow {'
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 21:16:13] [DEBUG] Found Debian traditional netcat
+[2021-05-14 21:16:13] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-14 21:16:15] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ps f
+  PID TTY      STAT   TIME COMMAND
+ 5460 tty2     Ss     0:00 /init
+ 5461 tty2     S      0:00  \_ -bash
+    7 tty1     Ss     0:00 /init
+    8 tty1     S      0:00  \_ -bash
+  106 tty1     S      0:00      \_ script -a
+  107 pts/0    Ss     0:01          \_ bash -i
+ 5668 pts/0    R      0:00              \_ ps f
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# [K]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# p
+s f^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 21:16:30] [INFO] 正在编辑文件: 2021-05-14.csv
+[?2004h[?1049h[22;0;0t[1;18r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[16;38H(B[0;7m[ Reading... ](B[m[16;23H(B[0;7m[ Read 8 lines (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                         2021-05-14.csv                                   [1;87H(B[m[17d(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos[18d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line[16d[2d[39;49m(B[m种类（大类）    子类（可选）    特点（可选）    经度（X）[65G纬度（Y）[3d巨型怪兽[3;17H独眼巨人西诺克斯[3;41H蓝色    884[3;65H11[4d巨型怪兽[4;17H半人马莱尼尔    白鬃[4;49H112[4;65H120[5d克洛格种子[17G-[5;33H-[5;49H5[5;65H441[6d神庙[6;17H-[6;33H力之试炼[6;49H1.81[6;65H25.1[7d巨型怪兽[7;17H岩石巨人[7;33H熔岩[7;49H84.1[7;65H24.1[8d克洛格种子[17G-[8;33H弥补[8;49H48.2[8;65H12[9d神庙[9;17H-[9;33H智之试炼[9;49H98[9;65H110[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[8d[?12l[?25h[?25l[9d[?12l[?25h[?25l[10d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[16d[J[18d[?12l[?25h[18;1H[?1049l[23;0;0t[?1l>[?2004l[2021-05-14 21:16:32] [DEBUG] Skipping header
+是否立刻发送此文件？y
+[2021-05-14 21:16:33] [DEBUG] Calling client
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 21:16:33] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-14 21:16:33] [DEBUG] [CONNECT] localhost:45123
+[2021-05-14 21:16:33] [INFO] 连接成功
+[2021-05-14 21:16:33] [DEBUG] [SEND]: #%?\n
+[2021-05-14 21:16:33] [DEBUG] [SEND]: add
+[2021-05-14 21:16:33] [DEBUG] [SEND]: 1145141919
+[2021-05-14 21:16:33] [DEBUG] [SEND]: 8
+[2021-05-14 21:16:33] [DEBUG] [SEND-CSV]: 2021-05-14.csv
+[2021-05-14 21:16:33] [DEBUG] [SEND]: \0
+[2021-05-14 21:16:33] [DEBUG] [CLOSE] :
+[2021-05-14 21:16:33] [INFO] 发送结束
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./edit.sh [K./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 21:16:57] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-14 21:16:57] [DEBUG] [CONNECT] localhost:45123
+[2021-05-14 21:16:57] [INFO] 连接成功
+[2021-05-14 21:16:58] [DEBUG] [SEND]: #%?\n
+[2021-05-14 21:16:58] [DEBUG] [SEND]: add
+[2021-05-14 21:16:58] [DEBUG] [SEND]: 1145141919
+[2021-05-14 21:16:58] [DEBUG] [SEND]: 8
+[2021-05-14 21:16:58] [DEBUG] [SEND-CSV]: 2021-05-14.csv
+[2021-05-14 21:16:58] [DEBUG] [SEND]: \0
+[2021-05-14 21:16:58] [DEBUG] [CLOSE] :
+[2021-05-14 21:16:58] [INFO] 发送结束
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./[K[K./ui[Ktoi;[K[K[Kiol[K[Ks.sh ^C
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./utils.sh 
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./utils.sh exportDailyRank 
+[2021-05-14 21:17:46] [INFO] 导出 2021-05-14 的数据，并存储到：stat-2021-05-14.html
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附

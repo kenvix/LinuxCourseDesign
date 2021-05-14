@@ -62,6 +62,7 @@ while true; do
         ;;
         [Nn]* ) 
             log "将不会自动发送报告文件，你稍后可自行运行 ./client \"$filePath\" 来发送文件"
+            exit 0
         ;;
         * ) echo "Yes or no.";;
     esac
