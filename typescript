@@ -7018,4 +7018,53 @@ listening on [any] 45123 ...
 [2021-05-14 21:17:46] [INFO] 导出 2021-05-14 的数据，并存储到：stat-2021-05-14.html
 ]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
 seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
-seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附
+seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./utils.sh a[KaddUser s [K[K是[K党明 12[K[K1896874859
+Error: near "users": syntax error
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./utils.sh addUser 党明 1896874859[C[C[C[C[C[C[C[C[C[C[K./utils.sh addUser 党明 1896874859[C[C[C[C[C[C[C[C[C[C[K./utils.sh addUser 党明 1896874859
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./utils.sh addUser 党明 1896874859
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./utils.sh addUser 党明 1896874859[K[K[K[K[K[K[K[K[K[K[K
+[2021-05-14 21:24:19] [ERROR] Illegal function call, at least 2 param required, 1 given.
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# wsl[K[K[Ks[Klsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.2 LTS
+Release:	20.04
+Codename:	focal
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# cat /etc/ve[K[K[K[K[K[Kproc/version
+Linux version 4.4.0-19041-Microsoft (Microsoft@Microsoft.com) (gcc version 5.4.0 (GCC) ) #488-Microsoft Mon Sep 01 13:43:00 PST 2020
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# [K[A]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# cat /proc/version[C[C[C[C[C[C[C[C[C[C[3Plsb_release -a[C[C[C[C[C[C[C[C[C[C./utils.sh addUser 党明 1896874859[K 1896874859[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7PexportDailyRank [K[1@client[C[C[C[C[2Pedi[C[C[C[C[C[2@clien[C[C[C[C[C
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:16:06] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-14 22:16:06] [DEBUG] [CONNECT] localhost:45123
+[2021-05-14 22:16:06] [INFO] 连接成功
+[2021-05-14 22:16:06] [DEBUG] [SEND]: #%?\n
+[2021-05-14 22:16:06] [DEBUG] [SEND]: add
+[2021-05-14 22:16:06] [DEBUG] [SEND]: 1145141919
+[2021-05-14 22:16:06] [DEBUG] [SEND]: 8
+[2021-05-14 22:16:06] [DEBUG] [SEND-CSV]: 2021-05-14.csv
+[2021-05-14 22:16:06] [DEBUG] [SEND]: \0
+[2021-05-14 22:16:06] [DEBUG] [CLOSE] :
+[2021-05-14 22:16:06] [INFO] 发送结束
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# nan[K[K[K./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:16:33] [INFO] 正在编辑文件: 2021-05-14.csv
+[?2004h[?1049h[22;0;0t[1;12r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[10;38H(B[0;7m[ Reading... ](B[m[10;23H(B[0;7m[ Read 8 lines (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                         2021-05-14.csv                                   [1;87H(B[m[11d(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos[12d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line[10d[2d[39;49m(B[m种类（大类）    子类（可选）    特点（可选）    经度（X）[65G纬度（Y）[3d巨型怪兽[3;17H独眼巨人西诺克斯[3;41H蓝色    884[3;65H11[4d巨型怪兽[4;17H半人马莱尼尔    白鬃[4;49H112[4;65H120[5d克洛格种子[17G-[5;33H-[5;49H5[5;65H441[6d神庙[6;17H-[6;33H力之试炼[6;49H1.81[6;65H25.1[7d巨型怪兽[7;17H岩石巨人[7;33H熔岩[7;49H84.1[7;65H24.1[8d克洛格种子[17G-[8;33H弥补[8;49H48.2[8;65H12[9d神庙[9;17H-[9;33H智之试炼[9;49H98[9;65H110[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[8d[?12l[?25h[?25l[9d[?12l[?25h[?25l7[2;9r8
+[1;12r[9;1H[?12l[?25h[?25l[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[3G[?12l[?25h[?25l[5G[?12l[?25h[?25l[7G[?12l[?25h[?25l[9G[?12l[?25h[?25l[11G[?12l[?25h[?25l[17G[?12l[?25h[?25l-[?12l[?25h[?25l[25G[?12l[?25h[?25l[7;33H[?12l[?25h[?25l[35G[?12l[?25h[?25l[37G[?12l[?25h[?25l    [?12l[?25h[?25l[7;49H[?12l[?25h[?25l4[?12l[?25h[?25l[10d[K[7;49H[?12l[?25h[?25l[7;41H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l-[?12l[?25h[?25l[1;79H(B[0;7mModified(B[m[4;33H [?12l[?25h[?25l搬石头[?12l[?25h[?25l[10d(B[0;7mSave modified buffer?                                                                   [11;1H Y(B[m Yes[K[12d(B[0;7m N(B[m No  [15G  (B[0;7m^C(B[m Cancel[K[10;23H[?12l[?25h[?25l[11d(B[0;7m^G(B[m Get Help[11;23H(B[0;7mM-D(B[m DOS Format[11;45H(B[0;7mM-A(B[m Append[11;67H(B[0;7mM-B(B[m Backup File[12d(B[0;7m^C(B[m Cancel[17G      (B[0;7mM-M(B[m Mac Format[12;45H(B[0;7mM-P(B[m Prepend[12;67H(B[0;7m^T(B[m To Files[10d(B[0;7mFile Name to Write [DOS Format]: 2021-05-14.csv(B[m[10;48H[?12l[?25h[?25l[10;37H[1K (B[0;7m[ Writing... ](B[m[K[1;79H(B[0;7m        (B[m[10;36H(B[0;7m[ Wrote 8 lines ](B[m[J[12d[?12l[?25h[12;1H[?1049l[23;0;0t[?1l>[?2004l[2021-05-14 22:16:51] [DEBUG] Skipping header
+是否立刻发送此文件？^[[A
+Yes or no.
+是否立刻发送此�
