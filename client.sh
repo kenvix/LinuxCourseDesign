@@ -1,5 +1,8 @@
 #!/bin/bash
-SHELL_FOLDER=$(cd "$(dirname "$0")";pwd)
+SHELL_FOLDER=$(
+    cd "$(dirname "$0")"
+    pwd
+)
 CONFIG_FILE="config.sh"
 cd "$SHELL_FOLDER"
 
@@ -20,7 +23,6 @@ if [ ! -f "$filePath" ]; then
     exit 3
 fi
 
-
 function sendFileNow {
     log "正在与服务器建立连接并发送文件"
     connectAndSendCSV "$USER_STUDENT_ID" "${filePath}" "${2-"$SERVER_ADDRESS"}" "${3-"$SERVER_PORT"}"
@@ -31,16 +33,16 @@ senderExitCode=$?
 while ((senderExitCode != 0)); do
     read -p "发送文件失败失败，是否重试？[y/n] " yn
     case $yn in
-        [Yy]* ) 
-            sendFileNow
-            senderExitCode=$?
+    [Yy]*)
+        sendFileNow
+        senderExitCode=$?
         ;;
-        [Nn]* ) 
-            log "未发送报告文件，你稍后可自行运行 ./client \"$filePath\" 来发送文件"
-            exit 1
+    [Nn]*)
+        log "未发送报告文件，你稍后可自行运行 ./client \"$filePath\" 来发送文件"
+        exit 1
         ;;
-        * ) echo "Yes or no.";;
+    *) echo "Yes or no." ;;
     esac
 done
 
-log "发送成功。"
+log "发送结束"

@@ -3,6 +3,7 @@
 
 export SQL_FILE=${SQL_FILE-"main.sqlite3"}
 export VERSION=3
+ALTERNATIVE_LOG_OUTPUT_DESCRIPTOR=0
 
 function checkParamNum {
     if (($# < 1)); then 
@@ -28,7 +29,7 @@ function getDateTime {
 
 function log {
     local level=${2-"INFO"}
-    echo -n "[$(getDateTime)] [$level] "
+    echo -n "[$(getDateTime)] [$level] " >&2
     echo "$1" >&2
 }
 
@@ -88,6 +89,12 @@ function sendFile {
     cat "$1" >&4
 }
 
+function sendCSV {
+    logD "[SEND-CSV]: $1"
+    local csv=`cat "$1"`
+    echo -e -n "${csv//[,]/\t}" >&4
+}
+
 function sendType {
     sendLine "$1"
 }
@@ -101,7 +108,7 @@ function execSQLRO {
 }
 
 function sqlAdds {
-    echo -n "${1//[\']//\\\'}"
+    echo -n "${1//[\']/\\\'}"
 }
 
 function getUserIdByStudentId {
@@ -115,29 +122,34 @@ function addElementOrIncKillNumByTypeName {
     local type=$(sqlAdds "$1")
     local subtype=$(sqlAdds "$2")
     local sku=$(sqlAdds "$3")
-    local userid=$(sqlAdds "$1")
-    local x=$(sqlAdds "$2")
-    local y=$(sqlAdds "$3")
+    local userid=$(sqlAdds "$4")
+    local x=$(sqlAdds "$5")
+    local y=$(sqlAdds "$6")
     local today=$(getDate)
+
+    subtype="${subtype//[-]/}"
+    sku="${sku//[-]/}"
     
-    local existOne=$(execSQL "SELECT date,killnum FROM elements WHERE x = '$x' AND y = '$y'" | tr '|' ' ')
-    if ((${#existOne[@]} > 0)); then
-        if [[ ${existOne[0]} == "$today" ]]; then
+    local existOne=$(execSQLRO "SELECT date,killnum,id FROM elements WHERE x = '$x' AND y = '$y'")
+    IFS='|' read -r -a existOne <<< "$existOne"
+    if ((${#existOne[@]} == 3)); then
+        if [[ "${existOne[0]}" == "$today" ]]; then
             log "检测到同日重复，将忽略: $*"
+            return 2
         else
-            execSQL "UPDATE elements SET date = '$today', killnum = ${existOne[1]} + 1;"
+            logD "更新已存在的数据: ${existOne}"
+            execSQL "UPDATE elements SET date = '$today', killnum = ${existOne[1]} + 1 WHERE id = ${existOne[2]};"
         fi
     else
-        execSQL "INSERT INTO elements
-            (userid, typeid, x, y, date)
-            VALUES 
-            (
-                '$userid'
-                (SELECT typeid FROM types WHERE types.type LIKE '$type' AND types.subtype LIKE '$subtype' AND types.sku LIKE '$sku'),
-                '$x',
-                '$y',
-                DATE()
-            )"  
+
+        local typeid=`execSQLRO "SELECT typeid FROM types WHERE types.type LIKE '$type' AND types.subtype LIKE '$subtype' AND types.sku LIKE '$sku'"`
+        if [[ "$typeid" == "" ]]; then
+            logW "无法找到这样的类型，请核查：$type $subtype $sku"
+            return 3
+        fi
+
+        logD "TypeID: $typeid"
+        execSQL "INSERT INTO elements (userid, typeid, x, y, date) VALUES ( '$userid', '$typeid', '$x', '$y', DATE() )"  
     fi
 }
 
@@ -310,7 +322,7 @@ function connectAndSendCSV {
     sendType "add" || return 1
     sendLine "$studentId" || return 1
     sendLine "$(wc -l <  "$file")" || return 1
-    sendFile "$file" || return 1
+    sendCSV "$file" || return 1
     sendFooter || return 1
 
     disconnectServer || return 1

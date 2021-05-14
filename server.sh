@@ -73,7 +73,12 @@ function handleRequest {
                                     logW "第 $currentLine 行有错误，每行数据必须有 5 列"
                                 else
                                     addElementOrIncKillNumByTypeName "$mainType" "$subType" "$sku" "$userId" "$x" "$y"
-                                    logD "处理成功"
+                                    exitCode=$?
+                                    if (($exitCode == 0)); then
+                                        logD "处理成功"
+                                    else 
+                                        logD "处理出错：$exitCode"
+                                    fi
                                 fi
                             fi
                         done
@@ -95,6 +100,7 @@ function handleRequest {
 
         # echo "RECV PACKET: $recv"
     done
+    exit 0
 }
 
 if [ $EMBEDDING_MODE -ne 0 ]; then
@@ -119,10 +125,12 @@ else
     fi
 
     log "版本 $VERSION  正在监听端口 $SERVER_PORT"
-    $netcat -vv -lkp $SERVER_PORT -c "$SHELL_FOLDER/server.sh --embedding --handle-request"
+    while true; do
+        $netcat -vv -lkp $SERVER_PORT -c "./server.sh --embedding --handle-request"
 
-    if [ $? -ne 0 ]; then
-        logW "nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换"
-        break
-    fi
+        if [ $? -ne 0 ]; then
+            logW "nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换"
+            break
+        fi
+    done
 fi
