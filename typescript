@@ -7067,4 +7067,67 @@ Linux version 4.4.0-19041-Microsoft (Microsoft@Microsoft.com) (gcc version 5.4.0
 [1;12r[9;1H[?12l[?25h[?25l[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[3G[?12l[?25h[?25l[5G[?12l[?25h[?25l[7G[?12l[?25h[?25l[9G[?12l[?25h[?25l[11G[?12l[?25h[?25l[17G[?12l[?25h[?25l-[?12l[?25h[?25l[25G[?12l[?25h[?25l[7;33H[?12l[?25h[?25l[35G[?12l[?25h[?25l[37G[?12l[?25h[?25l    [?12l[?25h[?25l[7;49H[?12l[?25h[?25l4[?12l[?25h[?25l[10d[K[7;49H[?12l[?25h[?25l[7;41H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l-[?12l[?25h[?25l[1;79H(B[0;7mModified(B[m[4;33H [?12l[?25h[?25l搬石头[?12l[?25h[?25l[10d(B[0;7mSave modified buffer?                                                                   [11;1H Y(B[m Yes[K[12d(B[0;7m N(B[m No  [15G  (B[0;7m^C(B[m Cancel[K[10;23H[?12l[?25h[?25l[11d(B[0;7m^G(B[m Get Help[11;23H(B[0;7mM-D(B[m DOS Format[11;45H(B[0;7mM-A(B[m Append[11;67H(B[0;7mM-B(B[m Backup File[12d(B[0;7m^C(B[m Cancel[17G      (B[0;7mM-M(B[m Mac Format[12;45H(B[0;7mM-P(B[m Prepend[12;67H(B[0;7m^T(B[m To Files[10d(B[0;7mFile Name to Write [DOS Format]: 2021-05-14.csv(B[m[10;48H[?12l[?25h[?25l[10;37H[1K (B[0;7m[ Writing... ](B[m[K[1;79H(B[0;7m        (B[m[10;36H(B[0;7m[ Wrote 8 lines ](B[m[J[12d[?12l[?25h[12;1H[?1049l[23;0;0t[?1l>[?2004l[2021-05-14 22:16:51] [DEBUG] Skipping header
 是否立刻发送此文件？^[[A
 Yes or no.
-是否立刻发送此�
+是否立刻发送此文件？y
+[2021-05-14 22:16:53] [DEBUG] Calling client
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:16:53] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-14 22:16:53] [DEBUG] [CONNECT] localhost:45123
+[2021-05-14 22:16:53] [INFO] 连接成功
+[2021-05-14 22:16:53] [DEBUG] [SEND]: #%?\n
+[2021-05-14 22:16:53] [DEBUG] [SEND]: add
+[2021-05-14 22:16:53] [DEBUG] [SEND]: 1145141919
+[2021-05-14 22:16:53] [DEBUG] [SEND]: 8
+[2021-05-14 22:16:53] [DEBUG] [SEND-CSV]: 2021-05-14.csv
+[2021-05-14 22:16:53] [DEBUG] [SEND]: \0
+[2021-05-14 22:16:53] [DEBUG] [CLOSE] :
+[2021-05-14 22:16:53] [INFO] 发送结束
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./edit.sh [2@clien[C[C[C[C[C[2Pedi[C[C[C[C[C[2@clien[C[C[C[C[C
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:31:37] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-14 22:31:37] [DEBUG] [CONNECT] localhost:45123
+[2021-05-14 22:31:37] [INFO] 连接成功
+[2021-05-14 22:31:37] [DEBUG] [SEND]: #%?\n
+[2021-05-14 22:31:37] [DEBUG] [SEND]: add
+[2021-05-14 22:31:37] [DEBUG] [SEND]: 1145141919
+[2021-05-14 22:31:37] [DEBUG] [SEND]: 8
+[2021-05-14 22:31:37] [DEBUG] [SEND-CSV]: 2021-05-14.csv
+[2021-05-14 22:31:37] [DEBUG] [SEND]: \0
+[2021-05-14 22:31:37] [DEBUG] [CLOSE] :
+[2021-05-14 22:31:37] [INFO] 发送结束
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:32:34] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-14 22:32:34] [DEBUG] [CONNECT] localhost:45123
+[2021-05-14 22:32:34] [INFO] 连接成功
+[2021-05-14 22:32:34] [DEBUG] [SEND]: #%?\n
+[2021-05-14 22:32:34] [DEBUG] [SEND]: add
+[2021-05-14 22:32:34] [DEBUG] [SEND]: 1145141919
+[2021-05-14 22:32:34] [DEBUG] [SEND]: 8
+[2021-05-14 22:32:34] [DEBUG] [SEND-CSV]: 2021-05-14.csv
+[2021-05-14 22:32:34] [DEBUG] [SEND]: \0
+[2021-05-14 22:32:34] [DEBUG] [CLOSE] :
+[2021-05-14 22:32:34] [INFO] 发送结束
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:33:20] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-14 22:33:20] [DEBUG] [CONNECT] localhost:45123
+[2021-05-14 22:33:20] [INFO] 连接成功
+[2021-05-14 22:33:20] [DEBUG] [SEND]: #%?\n
+[2021-05-14 22:33:20] [DEBUG] [SEND]: add
+[2021-05-14 22:33:20] [DEBUG] [SEND]: 1145141919
+[2021-05-14 22:33:20] [DEBUG] [SEND]: 8
+[2021-05-14 22:33:20] [DEBUG] [SEND-CSV]: 2021-05-14.csv
+[2021-05-14 22:33:20] [DEBUG] [SEND]: \0
+[2021-05-14 22:33:20] [DEBUG] [CLOSE] :
+[2021-05-14 22:33:20] [INFO] 发送结束
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./client.sh 
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加

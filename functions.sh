@@ -129,7 +129,7 @@ function addElementOrIncKillNumByTypeName {
     subtype="${subtype//[-]/}"
     sku="${sku//[-]/}"
 
-    local existOne=$(execSQLRO "SELECT date,killnum,id FROM elements WHERE x = '$x' AND y = '$y'")
+    local existOne=$(execSQLRO "SELECT date,id FROM elements WHERE x = '$x' AND y = '$y' AND userid = '$userid'")
     IFS='|' read -r -a existOne <<<"$existOne"
 
     local typeid=$(execSQLRO "SELECT typeid FROM types WHERE types.type LIKE '$type' AND types.subtype LIKE '$subtype' AND types.sku LIKE '$sku'")
@@ -138,16 +138,12 @@ function addElementOrIncKillNumByTypeName {
         return 3
     fi
 
-    if ((${#existOne[@]} == 3)); then
+    if ((${#existOne[@]} == 2)); then
         if [[ "${existOne[0]}" == "$today" ]]; then
-            log "检测到同日重复，将忽略: $*"
+            log "检测到同人-同日重复，将忽略: $*"
             return 2
-        else
-            logD "更新已存在的数据: ${existOne}"
-            execSQL "UPDATE elements SET typeid = '$typeid', date = '$today', killnum = ${existOne[1]} + 1 WHERE id = ${existOne[2]};"
         fi
     else
-
         logD "TypeID: $typeid"
         execSQL "INSERT INTO elements (userid, typeid, x, y, date) VALUES ( '$userid', '$typeid', '$x', '$y', DATE() )"
     fi
@@ -217,7 +213,7 @@ function exportDailyRank {
 		WHEN '克洛格种子' THEN '🌱'
 		ELSE '❓'
 	END
-) AS emoji FROM everything;")
+) AS emoji FROM everything GROUP BY x, y ;")
 
     echo "$elements" | {
         while IFS= read -t 0.1 -r line; do
@@ -231,11 +227,11 @@ function exportDailyRank {
     echo "<h1>目前的全部数据</h1>" >&9
 
     echo "<table>" >&9
-    echo "<tr> <th>ID</th> <th>类型</th> <th>子类</th> <th>特点</th> <th>X</th>  <th>Y</th> <th>击杀次数</th> <th>提交人姓名</th> <th>学号</th> <th>时间</th> </tr>" >&9
+    echo "<tr> <th>ID</th> <th>类型</th> <th>子类</th> <th>特点</th> <th>X</th>  <th>Y</th> <th>提交人姓名</th> <th>学号</th> <th>时间</th> <th>总击杀次数</th></tr>" >&9
 
     execSQLRO '.mode html' \
         '.output stdout' \
-        'SELECT `id`, `type`, `subtype`, `sku`, `x`, `y`,`killnum` , `name`, `studentid`, `date` FROM everything ORDER BY datetime(`date`) DESC;' >&9
+        'SELECT `id`, `type`, `subtype`, `sku`, `x`, `y`, `name`, `studentid`, `date` FROM everything ORDER BY datetime(`date`) DESC;' >&9
 
     echo "</table>" >&9
 
@@ -243,61 +239,61 @@ function exportDailyRank {
 
     echo "<h2>神庙高手排行榜</h2>" >&9
     echo "<table>" >&9
-    echo "<tr>  <th>姓名</th>  <th>学号</th> <th>类目数</th> <th>击杀总数</th></tr>" >&9
+    echo "<tr>  <th>姓名</th>  <th>学号</th> <th>总数</th></tr>" >&9
 
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '神庙' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '神庙' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
     echo "<h2>岩石巨人杀手排行榜</h2>" >&9
     echo "<table>" >&9
-    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>类目数</th> <th>击杀总数</th></tr>" >&9
+    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
 
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '岩石巨人' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '岩石巨人' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
     echo "<h2>西诺克斯杀手排行榜</h2>" >&9
     echo "<table>" >&9
-    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>类目数</th> <th>击杀总数</th></tr>" >&9
+    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
 
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '独眼巨人西诺克斯' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '独眼巨人西诺克斯' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
     echo "<h2>莱尼尔杀手排行榜</h2>" >&9
     echo "<table>" >&9
-    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>类目数</th> <th>击杀总数</th></tr>" >&9
+    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
 
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '半人马莱尼尔' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '半人马莱尼尔' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
     echo "<h2>莫尔德拉吉克杀手排行榜</h2>" >&9
     echo "<table>" >&9
-    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>类目数</th> <th>击杀总数</th></tr>" >&9
+    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
 
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '莫尔德拉吉克' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '莫尔德拉吉克' LIMIT 10;" >&9
 
     echo "</table>" >&9
 
     echo "<h2>克洛格排行榜</h2>" >&9
     echo "<table>" >&9
-    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>类目数</th> <th>击杀总数</th></tr>" >&9
+    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
 
     execSQLRO ".mode html" \
         ".output stdout" \
-        "SELECT name, studentid, subtype_count, kill_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '克洛格种子' LIMIT 10;" >&9
+        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '克洛格种子' LIMIT 10;" >&9
 
     echo "</table>" >&9
 

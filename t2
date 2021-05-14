@@ -3341,4 +3341,316 @@ connect to [127.0.0.1] from localhost [127.0.0.1] 47773
 [2021-05-14 22:16:53] [DEBUG] --- Begin Packet ---
 [2021-05-14 22:16:53] [DEBUG] [RECV TYPE]: add
 [2021-05-14 22:16:53] [INFO] 接收到来自 1145141919 的请求
-[2021-05-14 22:16:53] [DEBUG] 开始处�
+[2021-05-14 22:16:53] [DEBUG] 开始处理 1 (1145141919)，共 8 个
+[2021-05-14 22:16:53] [DEBUG] 开始处理 1/8
+[2021-05-14 22:16:53] [DEBUG] Skipping header
+[2021-05-14 22:16:53] [DEBUG] 开始处理 2/8
+[2021-05-14 22:16:53] [INFO] 正在处理：巨型怪兽 独眼巨人西诺克斯 蓝色 884 11
+[2021-05-14 22:16:54] [INFO] 检测到同日重复，将忽略: 巨型怪兽 独眼巨人西诺克斯 蓝色 1 884 11
+[2021-05-14 22:16:54] [DEBUG] 处理出错：2
+[2021-05-14 22:16:54] [DEBUG] 开始处理 3/8
+[2021-05-14 22:16:54] [INFO] 正在处理：巨型怪兽 半人马莱尼尔 白鬃 112 120
+[2021-05-14 22:16:54] [INFO] 检测到同日重复，将忽略: 巨型怪兽 半人马莱尼尔 白鬃 1 112 120
+[2021-05-14 22:16:54] [DEBUG] 处理出错：2
+[2021-05-14 22:16:54] [DEBUG] 开始处理 4/8
+[2021-05-14 22:16:54] [INFO] 正在处理：克洛格种子 - 搬石头 5 441
+[2021-05-14 22:16:54] [DEBUG] TypeID: 19
+[2021-05-14 22:16:54] [DEBUG] 处理成功
+[2021-05-14 22:16:54] [DEBUG] 开始处理 5/8
+[2021-05-14 22:16:54] [INFO] 正在处理：神庙 - 力之试炼 1.81 25.1
+[2021-05-14 22:16:54] [INFO] 检测到同日重复，将忽略: 神庙 - 力之试炼 1 1.81 25.1
+[2021-05-14 22:16:54] [DEBUG] 处理出错：2
+[2021-05-14 22:16:54] [DEBUG] 开始处理 6/8
+[2021-05-14 22:16:54] [INFO] 正在处理：巨型怪兽 岩石巨人 熔岩 84.1 24.1	
+[2021-05-14 22:16:54] [INFO] 检测到同日重复，将忽略: 巨型怪兽 岩石巨人 熔岩 1 84.1 24.1	
+[2021-05-14 22:16:54] [DEBUG] 处理出错：2
+[2021-05-14 22:16:54] [DEBUG] 开始处理 7/8
+[2021-05-14 22:16:54] [INFO] 正在处理：克洛格种子 - 弥补 48.2 12
+[2021-05-14 22:16:55] [INFO] 检测到同日重复，将忽略: 克洛格种子 - 弥补 1 48.2 12
+[2021-05-14 22:16:55] [DEBUG] 处理出错：2
+[2021-05-14 22:16:55] [DEBUG] 开始处理 8/8
+[2021-05-14 22:16:55] [INFO] 正在处理：神庙 - 智之试炼 98 110
+[2021-05-14 22:16:55] [INFO] 检测到同日重复，将忽略: 神庙 - 智之试炼 1 98 110
+[2021-05-14 22:16:55] [DEBUG] 处理出错：2
+[2021-05-14 22:16:55] [DEBUG] 处理结束
+[2021-05-14 22:16:55] [DEBUG] --- End Packet ---
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-14 22:31:35] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:31:36] [DEBUG] Found Debian traditional netcat
+[2021-05-14 22:31:36] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+connect to [127.0.0.1] from localhost [127.0.0.1] 48046
+[2021-05-14 22:31:37] [DEBUG] --- Begin Packet ---
+[2021-05-14 22:31:37] [DEBUG] [RECV TYPE]: add
+[2021-05-14 22:31:37] [INFO] 接收到来自 1145141919 的请求
+[2021-05-14 22:31:37] [DEBUG] 开始处理 1 (1145141919)，共 8 个
+[2021-05-14 22:31:37] [DEBUG] 开始处理 1/8
+[2021-05-14 22:31:37] [DEBUG] Skipping header
+[2021-05-14 22:31:37] [DEBUG] 开始处理 2/8
+[2021-05-14 22:31:38] [INFO] 正在处理：巨型怪兽 独眼巨人西诺克斯 蓝色 884 11
+Error: no such column: killnum
+[2021-05-14 22:31:38] [DEBUG] TypeID: 8
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:31:38] [DEBUG] 处理出错：19
+[2021-05-14 22:31:38] [DEBUG] 开始处理 3/8
+[2021-05-14 22:31:38] [INFO] 正在处理：巨型怪兽 半人马莱尼尔 白鬃 112 120
+Error: no such column: killnum
+[2021-05-14 22:31:38] [DEBUG] TypeID: 12
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:31:38] [DEBUG] 处理出错：19
+[2021-05-14 22:31:38] [DEBUG] 开始处理 4/8
+[2021-05-14 22:31:38] [INFO] 正在处理：克洛格种子 - 搬石头 5 441
+Error: no such column: killnum
+[2021-05-14 22:31:38] [DEBUG] TypeID: 19
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:31:38] [DEBUG] 处理出错：19
+[2021-05-14 22:31:38] [DEBUG] 开始处理 5/8
+[2021-05-14 22:31:38] [INFO] 正在处理：神庙 - 力之试炼 1.81 25.1
+Error: no such column: killnum
+[2021-05-14 22:31:38] [DEBUG] TypeID: 1
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:31:38] [DEBUG] 处理出错：19
+[2021-05-14 22:31:38] [DEBUG] 开始处理 6/8
+[2021-05-14 22:31:38] [INFO] 正在处理：巨型怪兽 岩石巨人 熔岩 84.1 24.1	
+Error: no such column: killnum
+[2021-05-14 22:31:39] [DEBUG] TypeID: 6
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:31:39] [DEBUG] 处理出错：19
+[2021-05-14 22:31:39] [DEBUG] 开始处理 7/8
+[2021-05-14 22:31:39] [INFO] 正在处理：克洛格种子 - 弥补 48.2 12
+Error: no such column: killnum
+[2021-05-14 22:31:39] [DEBUG] TypeID: 23
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:31:39] [DEBUG] 处理出错：19
+[2021-05-14 22:31:39] [DEBUG] 开始处理 8/8
+[2021-05-14 22:31:39] [INFO] 正在处理：神庙 - 智之试炼 98 110
+Error: no such column: killnum
+[2021-05-14 22:31:39] [DEBUG] TypeID: 2
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:31:39] [DEBUG] 处理出错：19
+[2021-05-14 22:31:39] [DEBUG] 处理结束
+[2021-05-14 22:31:39] [DEBUG] --- End Packet ---
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-14 22:32:32] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:32:33] [DEBUG] Found Debian traditional netcat
+[2021-05-14 22:32:33] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+connect to [127.0.0.1] from localhost [127.0.0.1] 48062
+[2021-05-14 22:32:34] [DEBUG] --- Begin Packet ---
+[2021-05-14 22:32:34] [DEBUG] [RECV TYPE]: add
+[2021-05-14 22:32:34] [INFO] 接收到来自 1145141919 的请求
+[2021-05-14 22:32:35] [DEBUG] 开始处理 1 (1145141919)，共 8 个
+[2021-05-14 22:32:35] [DEBUG] 开始处理 1/8
+[2021-05-14 22:32:35] [DEBUG] Skipping header
+[2021-05-14 22:32:35] [DEBUG] 开始处理 2/8
+[2021-05-14 22:32:35] [INFO] 正在处理：巨型怪兽 独眼巨人西诺克斯 蓝色 884 11
+Error: no such column: killnum
+[2021-05-14 22:32:35] [DEBUG] TypeID: 8
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:32:35] [DEBUG] 处理出错：19
+[2021-05-14 22:32:35] [DEBUG] 开始处理 3/8
+[2021-05-14 22:32:35] [INFO] 正在处理：巨型怪兽 半人马莱尼尔 白鬃 112 120
+Error: no such column: killnum
+[2021-05-14 22:32:35] [DEBUG] TypeID: 12
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:32:35] [DEBUG] 处理出错：19
+[2021-05-14 22:32:35] [DEBUG] 开始处理 4/8
+[2021-05-14 22:32:35] [INFO] 正在处理：克洛格种子 - 搬石头 5 441
+Error: no such column: killnum
+[2021-05-14 22:32:35] [DEBUG] TypeID: 19
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:32:35] [DEBUG] 处理出错：19
+[2021-05-14 22:32:35] [DEBUG] 开始处理 5/8
+[2021-05-14 22:32:35] [INFO] 正在处理：神庙 - 力之试炼 1.81 25.1
+Error: no such column: killnum
+[2021-05-14 22:32:35] [DEBUG] TypeID: 1
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:32:35] [DEBUG] 处理出错：19
+[2021-05-14 22:32:35] [DEBUG] 开始处理 6/8
+[2021-05-14 22:32:35] [INFO] 正在处理：巨型怪兽 岩石巨人 熔岩 84.1 24.1	
+Error: no such column: killnum
+[2021-05-14 22:32:36] [DEBUG] TypeID: 6
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:32:36] [DEBUG] 处理出错：19
+[2021-05-14 22:32:36] [DEBUG] 开始处理 7/8
+[2021-05-14 22:32:36] [INFO] 正在处理：克洛格种子 - 弥补 48.2 12
+Error: no such column: killnum
+[2021-05-14 22:32:36] [DEBUG] TypeID: 23
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:32:36] [DEBUG] 处理出错：19
+[2021-05-14 22:32:36] [DEBUG] 开始处理 8/8
+[2021-05-14 22:32:36] [INFO] 正在处理：神庙 - 智之试炼 98 110
+Error: no such column: killnum
+[2021-05-14 22:32:36] [DEBUG] TypeID: 2
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:32:36] [DEBUG] 处理出错：19
+[2021-05-14 22:32:36] [DEBUG] 处理结束
+[2021-05-14 22:32:36] [DEBUG] --- End Packet ---
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-14 22:33:17] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./server.sh [C[C[C[C[C[C[C[C[C[Cscript -a t2[C[C[C[C[C[C[C[C[C[C./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:33:18] [DEBUG] Found Debian traditional netcat
+[2021-05-14 22:33:18] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+connect to [127.0.0.1] from localhost [127.0.0.1] 48079
+[2021-05-14 22:33:20] [DEBUG] --- Begin Packet ---
+[2021-05-14 22:33:20] [DEBUG] [RECV TYPE]: add
+[2021-05-14 22:33:20] [INFO] 接收到来自 1145141919 的请求
+[2021-05-14 22:33:20] [DEBUG] 开始处理 1 (1145141919)，共 8 个
+[2021-05-14 22:33:20] [DEBUG] 开始处理 1/8
+[2021-05-14 22:33:20] [DEBUG] Skipping header
+[2021-05-14 22:33:20] [DEBUG] 开始处理 2/8
+[2021-05-14 22:33:20] [INFO] 正在处理：巨型怪兽 独眼巨人西诺克斯 蓝色 884 11
+Error: no such column: killnum
+[2021-05-14 22:33:20] [DEBUG] TypeID: 8
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:33:20] [DEBUG] 处理出错：19
+[2021-05-14 22:33:20] [DEBUG] 开始处理 3/8
+[2021-05-14 22:33:20] [INFO] 正在处理：巨型怪兽 半人马莱尼尔 白鬃 112 120
+Error: no such column: killnum
+[2021-05-14 22:33:20] [DEBUG] TypeID: 12
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:33:20] [DEBUG] 处理出错：19
+[2021-05-14 22:33:20] [DEBUG] 开始处理 4/8
+[2021-05-14 22:33:20] [INFO] 正在处理：克洛格种子 - 搬石头 5 441
+Error: no such column: killnum
+[2021-05-14 22:33:20] [DEBUG] TypeID: 19
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:33:21] [DEBUG] 处理出错：19
+[2021-05-14 22:33:21] [DEBUG] 开始处理 5/8
+[2021-05-14 22:33:21] [INFO] 正在处理：神庙 - 力之试炼 1.81 25.1
+Error: no such column: killnum
+[2021-05-14 22:33:21] [DEBUG] TypeID: 1
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:33:21] [DEBUG] 处理出错：19
+[2021-05-14 22:33:21] [DEBUG] 开始处理 6/8
+[2021-05-14 22:33:21] [INFO] 正在处理：巨型怪兽 岩石巨人 熔岩 84.1 24.1	
+Error: no such column: killnum
+[2021-05-14 22:33:21] [DEBUG] TypeID: 6
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:33:21] [DEBUG] 处理出错：19
+[2021-05-14 22:33:21] [DEBUG] 开始处理 7/8
+[2021-05-14 22:33:21] [INFO] 正在处理：克洛格种子 - 弥补 48.2 12
+Error: no such column: killnum
+[2021-05-14 22:33:21] [DEBUG] TypeID: 23
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:33:21] [DEBUG] 处理出错：19
+[2021-05-14 22:33:21] [DEBUG] 开始处理 8/8
+[2021-05-14 22:33:21] [INFO] 正在处理：神庙 - 智之试炼 98 110
+Error: no such column: killnum
+[2021-05-14 22:33:21] [DEBUG] TypeID: 2
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:33:21] [DEBUG] 处理出错：19
+[2021-05-14 22:33:21] [DEBUG] 处理结束
+[2021-05-14 22:33:21] [DEBUG] --- End Packet ---
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-14 22:35:00] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:35:00] [DEBUG] Found Debian traditional netcat
+[2021-05-14 22:35:00] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+connect to [127.0.0.1] from localhost [127.0.0.1] 48114
+[2021-05-14 22:35:02] [DEBUG] --- Begin Packet ---
+[2021-05-14 22:35:02] [DEBUG] [RECV TYPE]: add
+[2021-05-14 22:35:02] [INFO] 接收到来自 1145141919 的请求
+[2021-05-14 22:35:02] [DEBUG] 开始处理 1 (1145141919)，共 8 个
+[2021-05-14 22:35:02] [DEBUG] 开始处理 1/8
+[2021-05-14 22:35:02] [DEBUG] Skipping header
+[2021-05-14 22:35:02] [DEBUG] 开始处理 2/8
+[2021-05-14 22:35:02] [INFO] 正在处理：巨型怪兽 独眼巨人西诺克斯 蓝色 884 11
+[2021-05-14 22:35:02] [DEBUG] TypeID: 8
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:35:02] [DEBUG] 处理出错：19
+[2021-05-14 22:35:02] [DEBUG] 开始处理 3/8
+[2021-05-14 22:35:02] [INFO] 正在处理：巨型怪兽 半人马莱尼尔 白鬃 112 120
+[2021-05-14 22:35:02] [DEBUG] TypeID: 12
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:35:02] [DEBUG] 处理出错：19
+[2021-05-14 22:35:02] [DEBUG] 开始处理 4/8
+[2021-05-14 22:35:02] [INFO] 正在处理：克洛格种子 - 搬石头 5 441
+[2021-05-14 22:35:02] [DEBUG] TypeID: 19
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:35:02] [DEBUG] 处理出错：19
+[2021-05-14 22:35:02] [DEBUG] 开始处理 5/8
+[2021-05-14 22:35:02] [INFO] 正在处理：神庙 - 力之试炼 1.81 25.1
+[2021-05-14 22:35:03] [DEBUG] TypeID: 1
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:35:03] [DEBUG] 处理出错：19
+[2021-05-14 22:35:03] [DEBUG] 开始处理 6/8
+[2021-05-14 22:35:03] [INFO] 正在处理：巨型怪兽 岩石巨人 熔岩 84.1 24.1	
+[2021-05-14 22:35:03] [DEBUG] TypeID: 6
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:35:03] [DEBUG] 处理出错：19
+[2021-05-14 22:35:03] [DEBUG] 开始处理 7/8
+[2021-05-14 22:35:03] [INFO] 正在处理：克洛格种子 - 弥补 48.2 12
+[2021-05-14 22:35:03] [DEBUG] TypeID: 23
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:35:03] [DEBUG] 处理出错：19
+[2021-05-14 22:35:03] [DEBUG] 开始处理 8/8
+[2021-05-14 22:35:03] [INFO] 正在处理：神庙 - 智之试炼 98 110
+[2021-05-14 22:35:03] [DEBUG] TypeID: 2
+Error: UNIQUE constraint failed: elements.userid, elements.typeid, elements.x, elements.y, elements.date
+[2021-05-14 22:35:03] [DEBUG] 处理出错：19
+[2021-05-14 22:35:03] [DEBUG] 处理结束
+[2021-05-14 22:35:03] [DEBUG] --- End Packet ---
+listening on [any] 45123 ...
+^C sent 0, rcvd 0
+[2021-05-14 22:35:24] [WARN] nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换
+]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
+seDesign# ./server.sh 
+塞尔达传说信息收集服务器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-14 22:35:25] [DEBUG] Found Debian traditional netcat
+[2021-05-14 22:35:25] [INFO] 版本 3  正在监听端口 45123
+listening on [any] 45123 ...
+connect to [127.0.0.1] from localhost [127.0.0.1] 48120
+[2021-05-14 22:35:26] [DEBUG] --- Begin Packet ---
+[2021-05-14 22:35:26] [DEBUG] [RECV TYPE]: add
+[2021-05-14 22:35:26] [INFO] 接收到来自 1145141919 的请求
+[2021-05-14 22:35:26] [DEBUG] 开始处理 1 (1145141919)，共 8 个
+[2021-05-14 22:35:26] [DEBUG] 开始处理 1/8
+[2021-05-14 22:35:26] [DEBUG] Skipping header
+[2021-05-14 22:35:26] [DEBUG] 开始处理 2/8
+[2021-05-14 22:35:26] [INFO] 正在处理：巨型怪兽 独眼巨人西诺克斯 蓝色 884 11
+[2021-05-14 22:35:27] [INFO] 检测到同日重复，将忽略: 巨型怪兽 独眼巨人西诺克斯 蓝色 1 884 11
+[2021-05-14 22:35:27] [DEBUG] 处理出错：2
+[2021-05-14 22:35:27] [DEBUG] 开始处理 3/8
+[2021-05-14 22:35:27] [INFO] 正在处理：巨型怪兽 半人马莱尼尔 白鬃 112 120
+[2021-05-14 22:35:27] [INFO] 检测到同日重复，将忽略: 巨型怪兽 半人马莱尼尔 白鬃 1 112 120
+[2021-05-14 22:35:27] [DEBUG] 处理出错：2
+[2021-05-14 22:35:27] [DEBUG] 开始处理 4/8
+[2021-05-14 22:35:27] [INFO] 正在处理：克洛格种子 - 搬石头 5 441
+[2021-05-14 22:35:27] [INFO] 检测到同日重复，将忽略: 克洛格种子 - 搬石头 1 5 441
+[2021-05-14 22:35:27] [DEBUG] 处理出错：2
+[2021-05-14 22:35:27] [DEBUG] 开始处理 5/8
+[2021-05-14 22:35:27] [INFO] 正在处理：神庙 - 力之试炼 1.81 25.1
+[2021-05-14 22:35:27] [INFO] 检测到同日重复，将忽略: 神庙 - 力之试炼 1 1.81 25.1
+[2021-05-14 22:35:27] [DEBUG] 处理出错：2
+[2021-05-14 22:35:27] [DEBUG] 开始处理 6/8
+[2021-05-14 22:35:27] [INFO] 正在处理：巨型怪兽 岩石巨人 熔岩 84.1 24.1	
+[2021-05-14 22:35:27] [INFO] 检测到同日重复，将忽略: 巨型怪兽 岩石巨人 熔岩 1 84.1 24.1	
+[2021-05-14 22:35:27] [DEBUG] 处理出错：2
+[2021-05-14 22:35:27] [DEBUG] 开始处理 7/8
+[2021-05-14 22:35:27] [INFO] 正在处理：克洛格种子 - 弥补 48.2 12
+[2021-05-14 22:35:27] [INFO] 检测到同日重复，将忽略: 克洛格种子 - 弥补 1 48.2 12
+[2021-05-14 22:35:27] [DEBUG] 处理出错：2
+[2021-05-14 22:35:28] [DEBUG] 开始处理 8/8
+[2021-05-14 22:35:28] [IN
