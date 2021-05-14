@@ -191,19 +191,22 @@ function exportDailyRank {
     echo "<title>塞尔达传说 $(getDate) 的所有数据和排行榜</title>" >&9
     echo "</head><body>" >&9    
     echo "<h1>可视化地图</h1>" >&9 
-    echo '<canvas id="cv" width="100%" height="98vh" style="border:1px solid #000000;"></canvas>' >&9 
+    echo '<canvas id="cv" width="98%" height="98vh" style="border:1px solid #000000;"></canvas>' >&9 
     echo '<script>var c = document.getElementById("cv"); var ctx = c.getContext("2d");' >&9 
+    echo '
+  c.width  = window.innerWidth - 40;
+  c.height = window.innerHeight - 40;'  >&9 
     
-    local elements=$(execSQLRO "SELECT `type`, `subtype`, `x`, `y`, (
+    local elements=$(execSQLRO "SELECT type, subtype, x, y, (
 	CASE
-		WHEN `subtype` IS NULL OR `subtype` = '' THEN type
-		ELSE `subtype`
+		WHEN subtype IS NULL OR subtype = '' THEN type
+		ELSE subtype
 	END
-) AS `rtype`, (
+) AS rtype, (
 	CASE (
 		CASE
-			WHEN `subtype` IS NULL OR `subtype` = '' THEN type
-			ELSE `subtype`
+			WHEN subtype IS NULL OR subtype = '' THEN type
+			ELSE subtype
 		END
 		)
 		WHEN '独眼巨人西诺克斯' THEN '👽'
@@ -214,8 +217,15 @@ function exportDailyRank {
 		WHEN '克洛格种子' THEN '🌱'
 		ELSE '❓'
 	END
-) AS `emoji` FROM everything;")
-    
+) AS emoji FROM everything;")
+
+    echo "$elements" | {
+        while IFS= read -t 0.1 -r line; do
+            IFS='|' read -r -a line <<< "$line"
+            echo "${line[@]}"
+            echo "ctx.fillText('${line[5]}', ${line[2]}, ${line[3]});" >&9
+        done
+    } 
 
     echo '</script>' >&9 
 
