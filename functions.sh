@@ -162,9 +162,9 @@ function getTypeId {
 
 function addUser {
     checkParamNum 2 $*
-    local b=$(sqlAdds "$1")
-    local c=$(sqlAdds "$2")
-    execSQL "INSERT users (name, studentid) VALUES ('$a', '$b');"
+    local a=$(sqlAdds "$1")
+    local b=$(sqlAdds "$2")
+    execSQL "INSERT INTO users (name, studentid) VALUES ('$a', '$b');"
 }
 
 function getRankByTypeName {
