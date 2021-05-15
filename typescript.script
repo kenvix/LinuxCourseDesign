@@ -7130,4 +7130,1385 @@ Yes or no.
 ]0;root@EXCALIBUR: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@EXCALIBUR:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/Cour
 seDesign# ./client.sh 
 塞尔达传说信息收集客户端
-当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加Script started on 2021-05-15 08:33:09+08:00 [TERM="xterm-256color" TTY="/dev/tty2" COLUMNS="193" LINES="42"]
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# w c[K[K[Ks [K[Ks [K[Kls
+ [0m[01;32m1.html[0m           [01;32m2021-05-03.csv.save[0m   [01;32m2021-05-14.csv[0m   [34;42mdata[0m      [01;32mfunctions.sh[0m       [01;32mschema.sql[0m             [01;32mstat-2021-05-14.html[0m   [01;32mt2[0m             [01;32mtest.sh[0m      [01;32mw122.csv[0m
+[01;32m'2'$'\r'[0m          [01;32m2021-05-12.csv[0m        [01;32mclient.sh[0m        [01;32me.html[0m    [01;32mmain.sqlite3[0m       [01;32mserver.sh[0m              [01;32mstat-2021-05-15.html[0m   [01;32mtemplate.csv[0m   [01;32mtypescript[0m
+ [01;32m2021-05-03.csv[0m   [01;32m2021-05-13.csv[0m        [01;32mconfig.sh[0m        [01;32medit.sh[0m   [01;32mmain.sqlite3.bak[0m   [01;32mstat-2021-05-12.html[0m   [01;32mstdbuf[0m                 [01;32mtest.csv[0m       [01;32mutils.sh[0m
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[K./edit.sh 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-15 08:33:42] [INFO] 将创建当日的汇报文件：2021-05-15.csv
+[?2004h[?1049h[22;0;0t[1;42r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[40;90H(B[0;7m[ Reading... ](B[m[40;76H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                                             2021-05-15.csv                                                                                        [1;192H(B[m[41d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[41;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket   (B[0;7mM-Q(B[m Previous     (B[0;7m^B(B[m Back[42d(B[0;7m^X(B[m Exit[42;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[42;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was     (B[0;7mM-W(B[m Next[42;171H(B[0;7m^F(B[m Forward[40d[2d[39;49m(B[m种类（大类）    子类（可选）    特点（可选）    经度（X）[65G纬度（Y）[?12l[?25h[?25l[3d[?12l[?25h[?25l[?12l[?25h[?25l[40d[J[42d[?12l[?25h[42;1H[?1049l[23;0;0t[?1l>[?2004l[2021-05-15 08:33:45] [ERROR] 请至少编写一行数据，格式为：种类\t子类\t特点\t经度\t纬度 （\t表示制表符）
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 2021.[K-05-14.csv 
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-15 08:33:54] [INFO] 正在编辑文件: 2021-05-14.csv
+[?2004h[?1049h[22;0;0t[1;42r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[40;90H(B[0;7m[ Reading... ](B[m[40;75H(B[0;7m[ Read 8 lines (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                                             2021-05-14.csv                                                                                        [1;192H(B[m[41d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[41;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket   (B[0;7mM-Q(B[m Previous     (B[0;7m^B(B[m Back[42d(B[0;7m^X(B[m Exit[42;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[42;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was     (B[0;7mM-W(B[m Next[42;171H(B[0;7m^F(B[m Forward[40d[2d[39;49m(B[m种类（大类）    子类（可选）    特点（可选）    经度（X）[65G纬度（Y）[3d巨型怪兽[3;17H独眼巨人西诺克斯[3;41H蓝色    884[3;65H11[4d巨型怪兽[4;17H半人马莱尼尔    白鬃[4;49H112[4;65H120[5d克洛格种子[17G-[5;33H搬石头[5;49H5[5;65H441[6d神庙[6;17H-[6;33H力之试炼[6;49H1.81[6;65H25.1[7d巨型怪兽[7;17H岩石巨人[7;33H熔岩[7;49H84.1[7;65H24.1[8d克洛格种子[17G-[8;33H弥补[8;49H48.2[8;65H12[9d神庙[9;17H-[9;33H智之试炼[9;49H98[9;65H110[2d[?12l[?25h[?25l[40d[J[42d[?12l[?25h[42;1H[?1049l[23;0;0t[?1l>[?2004l[2021-05-15 08:34:00] [DEBUG] Skipping header
+是否立刻发送此文件？n
+[2021-05-15 08:34:03] [INFO] 将不会自动发送报告文件，你稍后可自行运行 ./client "2021-05-14.csv" 来发送文件
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./edit.sh 2021-05-14.csv [K
+塞尔达传说信息收集编辑器
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-15 08:34:05] [INFO] 正在编辑文件: 2021-05-15.csv
+[?2004h[?1049h[22;0;0t[1;42r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[40;90H(B[0;7m[ Reading... ](B[m[40;76H(B[0;7m[ Read 1 line (Converted from DOS format) ](B[m[H(B[0;7m  GNU nano 4.8                                                                             2021-05-15.csv                                                                                        [1;192H(B[m[41d(B[0;7m^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7mM-U(B[m Undo[41;120H(B[0;7mM-A(B[m Mark Text    (B[0;7mM-](B[m To Bracket   (B[0;7mM-Q(B[m Previous     (B[0;7m^B(B[m Back[42d(B[0;7m^X(B[m Exit[42;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7mM-E(B[m Redo[42;120H(B[0;7mM-6(B[m Copy Text    (B[0;7m^Q(B[m Where Was     (B[0;7mM-W(B[m Next[42;171H(B[0;7m^F(B[m Forward[40d[2d[39;49m(B[m种类（大类）    子类（可选）    特点（可选）    经度（X）[65G纬度（Y）[?12l[?25h[?25l[3d[?12l[?25h[?25l[?12l[?25h[?25l[1;184H(B[0;7mModified[40d(B[m[K[1;192H[3d巨型怪兽[3;17H独眼巨人西诺克斯[3;41H蓝色    884[3;65H11[4d巨型怪兽[4;17H半人马莱尼尔    白鬃[4;49H112[4;65H120[5d克洛格种子[17G-[5;33H搬石头[5;49H5[5;65H441[6d神庙[6;17H-[6;33H力之试炼[6;49H1.81[6;65H25.1[7d巨型怪兽[7;17H岩石巨人[7;33H熔岩[7;49H84.1[7;65H24.1[8d克洛格种子[17G-[8;33H弥补[8;49H48.2[8;65H12[9d神庙[9;17H-[9;33H智之试炼[9;49H98[9;65H110[?12l[?25h[?25l[A[?12l[?25h[?25l[A.[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[?12l[?25h[?25l[58G[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[3d[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l8[?12l[?25h[?25l8[?12l[?25h[?25l[1P8[?12l[?25h[?25l[4d[?12l[?25h[?25l1[?12l[?25h[?25l[1P1[?12l[?25h[?25l[5d[?12l[?25h[?25l55[5;65H 441[5;51H[?12l[?25h[?25l[6d[?12l[?25h[?25l[?12l[?25h[?25l4.81[6;65H 25.1[6;51H[?12l[?25h[?25l[7d[?12l[?25h[?25l5.1[7;65H 24.1[7;52H[?12l[?25h[?25l[8d[?12l[?25h[?25l[?12l[?25h[?25l3.2[8;65H 12[8;52H[?12l[?25h[?25l[9d[?12l[?25h[?25l[?12l[?25h[?25l1[9;65H 110[9;52H[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l1[?12l[?25h[?25l1[?12l[?25h[?25l[A[?12l[?25h[?25l2[?12l[?25h[?25l[A[?12l[?25h[?25l[8d[?12l[?25h[?25l[9d[?12l[?25h[?25l[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l2.1[?12l[?25h[?25l[A[?12l[?25h[?25l[?12l[?25h[?25l2.1[?12l[?25h[?25l[A[?12l[?25h[?25l [?12l[?25h[?25l[A[?12l[?25h[?25l [?12l[?25h[?25l[A[?12l[?25h[?25l3[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d4[?12l[?25h[?25l[40d(B[0;7mSave modified buffer?                                                                                                                                                                            [41;1H Y(B[m Yes[K[42d(B[0;7m N(B[m No  [42;17H(B[0;7m^C(B[m Cancel[K[40;23H[?12l[?25h[?25l[41d(B[0;7m^G(B[m Get Help[41;49H(B[0;7mM-D(B[m DOS Format[41;97H(B[0;7mM-A(B[m Append[41;145H(B[0;7mM-B(B[m Backup File[42d(B[0;7m^C(B[m Cancel[17G         [42;49H(B[0;7mM-M(B[m Mac Format[42;97H(B[0;7mM-P(B[m Prepend[42;145H(B[0;7m^T(B[m To Files[40d(B[0;7mFile Name to Write [DOS Format]: 2021-05-15.csv(B[m[40;48H[?12l[?25h[?25l[40;89H[1K (B[0;7m[ Writing... ](B[m[K[1;184H(B[0;7m        (B[m[40;89H(B[0;7m[ Wrote 8 lines ](B[m[J[42d[?12l[?25h[42;1H[?1049l[23;0;0t[?1l>[?2004l[2021-05-15 08:34:32] [DEBUG] Skipping header
+是否立刻发送此文件？y
+[2021-05-15 08:34:33] [DEBUG] Calling client
+塞尔达传说信息收集客户端
+当前工作目录是 /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign
+[2021-05-15 08:34:33] [INFO] 正在与服务器建立连接并发送文件
+[2021-05-15 08:34:33] [DEBUG] [CONNECT] localhost:45123
+[2021-05-15 08:34:33] [INFO] 连接成功
+[2021-05-15 08:34:33] [DEBUG] [SEND]: #%?\n
+[2021-05-15 08:34:34] [DEBUG] [SEND]: add
+[2021-05-15 08:34:34] [DEBUG] [SEND]: 1145141919
+[2021-05-15 08:34:34] [DEBUG] [SEND]: 8
+[2021-05-15 08:34:34] [DEBUG] [SEND-CSV]: 2021-05-15.csv
+[2021-05-15 08:34:34] [DEBUG] [SEND]: \0
+[2021-05-15 08:34:34] [DEBUG] [CLOSE] :
+[2021-05-15 08:34:34] [INFO] 发送结束
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ./ex[K[Kutil.s[K[Ks.sh exportDi[KailyRn[Kank
+[2021-05-15 08:34:51] [INFO] 导出 2021-05-15 的数据，并存储到：stat-2021-05-15.html
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[Ks [K[Kps f
+  PID TTY      STAT   TIME COMMAND
+  146 tty3     Ss     0:00 /init
+  147 tty3     S      0:00  \_ -bash
+  164 tty3     S      0:00      \_ script -a t2
+  165 pts/1    Ss     0:00          \_ bash -i
+  173 pts/1    S      0:00              \_ /bin/bash ./server.sh
+  441 pts/1    S      0:00                  \_ nc.traditional -vv -lkp 45123 -c ./server.sh --embedding --handle-request
+  120 tty2     Ss     0:00 /init
+  121 tty2     S      0:00  \_ -bash
+  138 tty2     S      0:00      \_ script -a
+  139 pts/0    Ss     0:00          \_ bash -i
+  464 pts/0    R      0:00              \_ ps f
+    6 tty1     Ss     0:00 /init
+    7 tty1     S      0:00  \_ -bash
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat s [K[K[K[K[K[Kls
+ [0m[01;32m1.html[0m           [01;32m2021-05-03.csv.save[0m   [01;32m2021-05-14.csv[0m   [01;32mconfig.sh[0m   [01;32medit.sh[0m        [01;32mmain.sqlite3.bak[0m   [01;32mstat-2021-05-12.html[0m   [01;32mstdbuf[0m         [01;32mtest.csv[0m     [01;32mutils.sh[0m
+[01;32m'2'$'\r'[0m          [01;32m2021-05-12.csv[0m        [01;32m2021-05-15.csv[0m   [34;42mdata[0m        [01;32mfunctions.sh[0m   [01;32mschema.sql[0m         [01;32mstat-2021-05-14.html[0m   [01;32mt2[0m             [01;32mtest.sh[0m      [01;32mw122.csv[0m
+ [01;32m2021-05-03.csv[0m   [01;32m2021-05-13.csv[0m        [01;32mclient.sh[0m        [01;32me.html[0m      [01;32mmain.sqlite3[0m   [01;32mserver.sh[0m          [01;32mstat-2021-05-15.html[0m   [01;32mtemplate.csv[0m   [01;32mtypescript[0m
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n *.sh
+     1	#!/bin/bash
+     2	SHELL_FOLDER=$(
+     3	    cd "$(dirname "$0")"
+     4	    pwd
+     5	)
+     6	CONFIG_FILE="config.sh"
+     7	cd "$SHELL_FOLDER"
+     8	
+     9	echo "塞尔达传说信息收集客户端" >&2
+    10	echo "当前工作目录是 $(pwd)" >&2
+    11	
+    12	if [ ! -f "$CONFIG_FILE" ] || [ ! -x "$CONFIG_FILE" ]; then
+    13	    logE "错误：在工作目录找不到配置文件 $CONFIG_FILE 或该文件不可执行。"
+    14	    exit 2
+    15	fi
+    16	
+    17	. ./$CONFIG_FILE
+    18	. ./functions.sh
+    19	
+    20	filePath=${1-"$(date +%Y-%m-%d).csv"}
+    21	if [ ! -f "$filePath" ]; then
+    22	    logE "错误：在工作目录找不到 $filePath ，请先运行 ./edit.sh 进行编写"
+    23	    exit 3
+    24	fi
+    25	
+    26	function sendFileNow {
+    27	    log "正在与服务器建立连接并发送文件"
+    28	    connectAndSendCSV "$USER_STUDENT_ID" "${filePath}" "${2-"$SERVER_ADDRESS"}" "${3-"$SERVER_PORT"}"
+    29	}
+    30	sendFileNow
+    31	senderExitCode=$?
+    32	
+    33	while ((senderExitCode != 0)); do
+    34	    read -p "发送文件失败失败，是否重试？[y/n] " yn
+    35	    case $yn in
+    36	    [Yy]*)
+    37	        sendFileNow
+    38	        senderExitCode=$?
+    39	        ;;
+    40	    [Nn]*)
+    41	        log "未发送报告文件，你稍后可自行运行 ./client \"$filePath\" 来发送文件"
+    42	        exit 1
+    43	        ;;
+    44	    *) echo "Yes or no." ;;
+    45	    esac
+    46	done
+    47	
+    48	log "发送结束"#!/bin/bash
+    49	
+    50	# 客户端设置
+    51	export USER_STUDENT_ID="1145141919"
+    52	export USER_NAME="李田所"
+    53	export SERVER_ADDRESS="localhost"
+    54	
+    55	# 服务器设置
+    56	export IS_DEBUG=1
+    57	export SERVER_PORT="45123"
+    58	export SERVER_DATABASE="main.sqlite3"
+    59	
+    60	
+    61	# PROTOCOL DEFINES
+    62	export PROTOCOL_TYPE_PING="a"
+    63	export SQL_FILE="main.sqlite3"#!/bin/bash
+    64	SHELL_FOLDER=$(cd "$(dirname "$0")";pwd)
+    65	CONFIG_FILE="config.sh"
+    66	cd "$SHELL_FOLDER"
+    67	
+    68	echo "塞尔达传说信息收集编辑器" >&2
+    69	echo "当前工作目录是 $(pwd)" >&2
+    70	
+    71	if [ ! -f "$CONFIG_FILE" ] || [ ! -x "$CONFIG_FILE" ]; then
+    72	    log "错误：在工作目录找不到配置文件 $CONFIG_FILE 或该文件不可执行。"
+    73	    exit 2
+    74	fi
+    75	
+    76	. ./$CONFIG_FILE
+    77	. ./functions.sh
+    78	
+    79	filePath=${1-"$(date +%Y-%m-%d).csv"}
+    80	if [ ! -f "$filePath" ]; then
+    81	    log "将创建当日的汇报文件：$filePath"
+    82	    cp "template.csv" "$filePath"
+    83	else 
+    84	    log "正在编辑文件: $filePath"
+    85	fi
+    86	
+    87	sensible-editor "$filePath"
+    88	
+    89	lineNum=$(grep -c "" "$filePath")
+    90	if (( $lineNum <= 1 )); then
+    91	    logE "请至少编写一行数据，格式为：种类\t子类\t特点\t经度\t纬度 （\t表示制表符）"
+    92	    exit 2
+    93	fi
+    94	
+    95	currentLine=0
+    96	while IFS= read -r line; do
+    97	    let currentLine++
+    98	    if [[ $line =~ "种类" ]]; then
+    99	        logD "Skipping header"
+   100	    else
+   101	        # colNum=$(echo -n -e "$line" | grep -o $'\t' | wc -l | wc -l)
+   102	        read mainType subType sku x y < <(echo "$line")
+   103	        if [ ! -n "$y" ]; then
+   104	            log "第 $currentLine 行有错误，每行数据必须有 5 列"
+   105	            log "文本编辑器请按 Tab 键表示下一列，建议使用 VSCode 或 LibreOffice 编辑，如果数据不存在请写横线 - "
+   106	            log "请重新编写文件。"
+   107	            rm -f "$filePath"
+   108	            exit 3
+   109	        fi
+   110	    fi
+   111	done < "$filePath"
+   112	
+   113	function sendFileNow {
+   114	    logD "Calling client"
+   115	    ./client.sh "$filePath"
+   116	}
+   117	
+   118	while true; do
+   119	    read -p "是否立刻发送此文件？" yn
+   120	    case $yn in
+   121	        [Yy]* ) 
+   122	            sendFileNow
+   123	            exit $?
+   124	        ;;
+   125	        [Nn]* ) 
+   126	            log "将不会自动发送报告文件，你稍后可自行运行 ./client \"$filePath\" 来发送文件"
+   127	            exit 0
+   128	        ;;
+   129	        * ) echo "Yes or no.";;
+   130	    esac
+   131	done#!/bin/bash
+   132	
+   133	export SQL_FILE=${SQL_FILE-"main.sqlite3"}
+   134	export VERSION=3
+   135	ALTERNATIVE_LOG_OUTPUT_DESCRIPTOR=0
+   136	
+   137	function checkParamNum {
+   138	    if (($# < 1)); then
+   139	        logE "Illegal checkParamNum call, at least one param required."
+   140	        return 2
+   141	    fi
+   142	
+   143	    local minParamNum=$1
+   144	    shift
+   145	    if (($# < $minParamNum)); then
+   146	        logE "Illegal function call, at least $minParamNum param required, $# given."
+   147	        return 2
+   148	    fi
+   149	}
+   150	
+   151	function getDate {
+   152	    echo -n "$(date '+%Y-%m-%d')"
+   153	}
+   154	
+   155	function getDateTime {
+   156	    echo -n "$(date '+%Y-%m-%d %H:%M:%S')"
+   157	}
+   158	
+   159	function log {
+   160	    local level=${2-"INFO"}
+   161	    echo -n "[$(getDateTime)] [$level] " >&2
+   162	    echo "$1" >&2
+   163	}
+   164	
+   165	function logD {
+   166	    if [ "${IS_DEBUG-0}" -ne 0 ]; then
+   167	        log "$1" "DEBUG"
+   168	    fi
+   169	}
+   170	
+   171	function logW {
+   172	    log "$1" "WARN"
+   173	}
+   174	
+   175	function logE {
+   176	    log "$1" "ERROR"
+   177	}
+   178	
+   179	function logInline {
+   180	    echo -n "$1" >&2
+   181	}
+   182	
+   183	function connectServer {
+   184	    logD "[CONNECT] $1:$2"
+   185	    exec 4<>/dev/tcp/$1/$2
+   186	}
+   187	
+   188	function disconnectServer {
+   189	    logD "[CLOSE] $1:$2"
+   190	    exec 4>&-
+   191	}
+   192	
+   193	function sendPacket {
+   194	    logD "[SEND]: $1"
+   195	    echo -n -e $1 >&4
+   196	}
+   197	
+   198	function sendHeader {
+   199	    sendPacket "#%?\n"
+   200	}
+   201	
+   202	function sendFooter {
+   203	    sendPacket "\0"
+   204	}
+   205	
+   206	function sendString {
+   207	    logD "[SEND]: $1"
+   208	    echo -n "$1" >&4
+   209	}
+   210	
+   211	function sendLine {
+   212	    sendString "$1"
+   213	    echo >&4
+   214	}
+   215	
+   216	function sendFile {
+   217	    logD "[SEND-FILE]: $1"
+   218	    cat "$1" >&4
+   219	}
+   220	
+   221	function sendCSV {
+   222	    logD "[SEND-CSV]: $1"
+   223	    local csv=$(cat "$1")
+   224	    echo -e -n "${csv//[,]/\t}" >&4
+   225	}
+   226	
+   227	function sendType {
+   228	    sendLine "$1"
+   229	}
+   230	
+   231	function execSQL {
+   232	    sqlite3 "$SQL_FILE" "$@"
+   233	}
+   234	
+   235	function execSQLRO {
+   236	    sqlite3 "file:$SQL_FILE?mode=ro" "$@"
+   237	}
+   238	
+   239	function sqlAdds {
+   240	    echo -n "${1//[\']/\\\'}"
+   241	}
+   242	
+   243	function getUserIdByStudentId {
+   244	    checkParamNum 1 $*
+   245	    local studentId=$(sqlAdds "$1")
+   246	    execSQLRO "SELECT userid FROM users WHERE studentid = '$studentId';"
+   247	}
+   248	
+   249	function addElementOrIncKillNumByTypeName {
+   250	    checkParamNum 6 $*
+   251	    local type=$(sqlAdds "$1")
+   252	    local subtype=$(sqlAdds "$2")
+   253	    local sku=$(sqlAdds "$3")
+   254	    local userid=$(sqlAdds "$4")
+   255	    local x=$(sqlAdds "$5")
+   256	    local y=$(sqlAdds "$6")
+   257	    local today=$(getDate)
+   258	
+   259	    subtype="${subtype//[-]/}"
+   260	    sku="${sku//[-]/}"
+   261	
+   262	    local existOne=$(execSQLRO "SELECT date,id FROM elements WHERE x = '$x' AND y = '$y' AND userid = '$userid'")
+   263	    IFS='|' read -r -a existOne <<<"$existOne"
+   264	
+   265	    local typeid=$(execSQLRO "SELECT typeid FROM types WHERE types.type LIKE '$type' AND types.subtype LIKE '$subtype' AND types.sku LIKE '$sku'")
+   266	    if [[ "$typeid" == "" ]]; then
+   267	        logW "无法找到这样的类型，请核查：$type $subtype $sku"
+   268	        return 3
+   269	    fi
+   270	
+   271	    if ((${#existOne[@]} == 2)); then
+   272	        if [[ "${existOne[0]}" == "$today" ]]; then
+   273	            log "检测到同人-同日重复，将忽略: $*"
+   274	            return 2
+   275	        fi
+   276	    else
+   277	        logD "TypeID: $typeid"
+   278	        execSQL "INSERT INTO elements (userid, typeid, x, y, date) VALUES ( '$userid', '$typeid', '$x', '$y', DATE() )"
+   279	    fi
+   280	}
+   281	
+   282	function getTypeId {
+   283	    checkParamNum 3 $*
+   284	    local b=$(sqlAdds "$1")
+   285	    local c=$(sqlAdds "$2")
+   286	    local d=$(sqlAdds "$3")
+   287	}
+   288	
+   289	function addUser {
+   290	    checkParamNum 2 $*
+   291	    local a=$(sqlAdds "$1")
+   292	    local b=$(sqlAdds "$2")
+   293	    execSQL "INSERT INTO users (name, studentid) VALUES ('$a', '$b');"
+   294	}
+   295	
+   296	function getRankByTypeName {
+   297	    checkParamNum 1 $*
+   298	    local name=$(sqlAdd "$1")
+   299	    execSQL "SELECT * FROM daily_rank_by_type WHERE type LIKE '$name' OR subtype LIKE '$name';"
+   300	}
+   301	
+   302	function exportDailyRank {
+   303	    local date="${1-"$(getDate)"}"
+   304	    local fileName="${2-"stat-$(getDate).html"}"
+   305	    log "导出 $date 的数据，并存储到：$fileName"
+   306	
+   307	    exec 9<>"$fileName"
+   308	    echo '<!DOCTYPE html>
+   309	<html>
+   310	<head>
+   311	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   312		<meta http-equiv="charset" content="utf-8">
+   313		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+   314		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+   315	    <style>table,table tr th, table tr td { border:1px solid #0094ff; }</style>' >&9
+   316	
+   317	    echo "<title>塞尔达传说 $(getDate) 的所有数据和排行榜</title>" >&9
+   318	    echo "</head><body>" >&9
+   319	    echo "<h1>可视化地图</h1>" >&9
+   320	    echo '<canvas id="cv" width="98%" height="98vh" style="border:1px solid #000000;"></canvas>' >&9
+   321	    echo '<script>var c = document.getElementById("cv"); var ctx = c.getContext("2d");' >&9
+   322	    echo '
+   323	  c.width  = window.innerWidth - 40;
+   324	  c.height = window.innerHeight - 40;' >&9
+   325	
+   326	    local elements=$(execSQLRO "SELECT * FROM everything_unique_types")
+   327	
+   328	    echo "$elements" | {
+   329	        while IFS= read -t 0.1 -r line; do
+   330	            IFS='|' read -r -a line <<<"$line"
+   331	            echo "ctx.fillText('${line[5]}', ${line[2]}, ${line[3]});" >&9
+   332	        done
+   333	    }
+   334	
+   335	    echo '</script>' >&9
+   336	
+   337	    echo "<h1>目前的全部数据 (已合并)</h1>" >&9
+   338	
+   339	    echo "<table>" >&9
+   340	    echo "<tr> <th>ID</th> <th>类型</th> <th>子类</th> <th>特点</th> <th>X</th>  <th>Y</th> <th>提交人姓名</th> <th>学号</th> <th>时间</th> <th>总击杀次数</th></tr>" >&9
+   341	
+   342	    execSQLRO '.mode html' \
+   343	        '.output stdout' \
+   344	        'SELECT `id`, `type`, `subtype`, `sku`, `x`, `y`, `name`, `studentid`, `date`, `kill_num` FROM everything_merged ORDER BY datetime(`date`) DESC;' >&9
+   345	
+   346	    echo "</table>" >&9
+   347	
+   348	    echo "<h1>$date 的排行榜</h1>" >&9
+   349	
+   350	    echo "<h2>神庙高手排行榜</h2>" >&9
+   351	    echo "<table>" >&9
+   352	    echo "<tr>  <th>姓名</th>  <th>学号</th> <th>总数</th></tr>" >&9
+   353	
+   354	    execSQLRO ".mode html" \
+   355	        ".output stdout" \
+   356	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '神庙' LIMIT 10;" >&9
+   357	
+   358	    echo "</table>" >&9
+   359	
+   360	    echo "<h2>岩石巨人杀手排行榜</h2>" >&9
+   361	    echo "<table>" >&9
+   362	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   363	
+   364	    execSQLRO ".mode html" \
+   365	        ".output stdout" \
+   366	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '岩石巨人' LIMIT 10;" >&9
+   367	
+   368	    echo "</table>" >&9
+   369	
+   370	    echo "<h2>西诺克斯杀手排行榜</h2>" >&9
+   371	    echo "<table>" >&9
+   372	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   373	
+   374	    execSQLRO ".mode html" \
+   375	        ".output stdout" \
+   376	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '独眼巨人西诺克斯' LIMIT 10;" >&9
+   377	
+   378	    echo "</table>" >&9
+   379	
+   380	    echo "<h2>莱尼尔杀手排行榜</h2>" >&9
+   381	    echo "<table>" >&9
+   382	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   383	
+   384	    execSQLRO ".mode html" \
+   385	        ".output stdout" \
+   386	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '半人马莱尼尔' LIMIT 10;" >&9
+   387	
+   388	    echo "</table>" >&9
+   389	
+   390	    echo "<h2>莫尔德拉吉克杀手排行榜</h2>" >&9
+   391	    echo "<table>" >&9
+   392	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   393	
+   394	    execSQLRO ".mode html" \
+   395	        ".output stdout" \
+   396	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '莫尔德拉吉克' LIMIT 10;" >&9
+   397	
+   398	    echo "</table>" >&9
+   399	
+   400	    echo "<h2>克洛格排行榜</h2>" >&9
+   401	    echo "<table>" >&9
+   402	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   403	
+   404	    execSQLRO ".mode html" \
+   405	        ".output stdout" \
+   406	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '克洛格种子' LIMIT 10;" >&9
+   407	
+   408	    echo "</table>" >&9
+   409	
+   410	    echo "</body></html>" >&9
+   411	    exec 9>&-
+   412	}
+   413	
+   414	function connectAndSendCSV {
+   415	    checkParamNum 2 $*
+   416	    local studentId="$1"
+   417	    local file="$2"
+   418	    local server="${SERVER_ADDRESS-"localhost"}"
+   419	    local port="${SERVER_PORT-"45123"}"
+   420	    connectServer "$server" "$port"
+   421	    if (($? != 0)); then
+   422	        logE "连接服务器失败"
+   423	        return 2
+   424	    fi
+   425	
+   426	    log "连接成功"
+   427	
+   428	    sendHeader || return 1
+   429	    sendType "add" || return 1
+   430	    sendLine "$studentId" || return 1
+   431	    sendLine "$(wc -l <"$file")" || return 1
+   432	    sendCSV "$file" || return 1
+   433	    sendFooter || return 1
+   434	
+   435	    disconnectServer || return 1
+   436	    return 0
+   437	}
+   438	#!/bin/bash
+   439	
+   440	SHELL_FOLDER=$(
+   441	    cd "$(dirname "$0")"
+   442	    pwd
+   443	)
+   444	CONFIG_FILE="config.sh"
+   445	EMBEDDING_MODE=0
+   446	HANDLE_REQUEST=0
+   447	
+   448	set -- $(getopt -q -o h --long embedding,handle-request -- "$@")
+   449	
+   450	while [ -n "$1" ]; do
+   451	    case "$1" in
+   452	    --embedding) EMBEDDING_MODE=1 ;;
+   453	    --handle-request) HANDLE_REQUEST=1 ;;
+   454	    --)
+   455	        shift
+   456	        break
+   457	        ;;
+   458	    *) echo "$1 is not option" ;;
+   459	    esac
+   460	
+   461	    shift
+   462	done
+   463	
+   464	cd "$SHELL_FOLDER"
+   465	
+   466	if [ ! -f "$CONFIG_FILE" ] || [ ! -x "$CONFIG_FILE" ]; then
+   467	    log "错误：在工作目录找不到配置文件 $CONFIG_FILE 或该文件不可执行。"
+   468	    exit 2
+   469	fi
+   470	
+   471	. ./$CONFIG_FILE
+   472	. ./functions.sh
+   473	
+   474	function handleRequest {
+   475	    # 分隔符：NUL
+   476	    while IFS= read -t 10 -d '' -r recv; do
+   477	        # log "RECV: $recv"
+   478	        echo "$recv" | {
+   479	            IFS= read -t 0.1 -r line
+   480	            if [[ $line != "#%?" ]]; then
+   481	                log "收到无效数据包，必须以 #%?\n 开头: $line"
+   482	            else
+   483	                logD "--- Begin Packet ---"
+   484	                IFS= read -t 0.1 -r dType
+   485	                logD "[RECV TYPE]: $dType"
+   486	
+   487	                case "$dType" in
+   488	                # Add
+   489	                add)
+   490	                    IFS= read -t 0.1 -r studentId
+   491	                    currentLine=0
+   492	                    log "接收到来自 $studentId 的请求"
+   493	                    _sqlUserId=$(getUserIdByStudentId "$studentId")
+   494	                    userId=${_sqlUserId-"-1"}
+   495	                    if [[ $userId == "" || $userId == "-1" ]]; then
+   496	                        logW "无此用户 $studentId"
+   497	                    else
+   498	                        IFS= read -t 0.1 -r dNum
+   499	                        logD "开始处理 $userId ($studentId)，共 $dNum 个"
+   500	                        for ((currentLine = 1; currentLine <= $dNum; currentLine++)); do
+   501	                            logD "开始处理 $currentLine/$dNum"
+   502	
+   503	                            # colNum=$(echo -n -e "$line" | grep -o $'\t' | wc -l | wc -l)
+   504	                            read -t 0.1 mainType subType sku x y
+   505	                            if [[ $mainType =~ "种类" ]]; then
+   506	                                logD "Skipping header"
+   507	                            else
+   508	                                log "正在处理：$mainType $subType $sku $x $y"
+   509	                                if [ ! -n "$y" ]; then
+   510	                                    logW "第 $currentLine 行有错误，每行数据必须有 5 列"
+   511	                                else
+   512	                                    addElementOrIncKillNumByTypeName "$mainType" "$subType" "$sku" "$userId" "$x" "$y"
+   513	                                    exitCode=$?
+   514	                                    if (($exitCode == 0)); then
+   515	                                        logD "处理成功"
+   516	                                    else 
+   517	                                        logD "处理出错：$exitCode"
+   518	                                    fi
+   519	                                fi
+   520	                            fi
+   521	                        done
+   522	                        logD "处理结束"
+   523	                    fi
+   524	                    ;;
+   525	
+   526	                *)
+   527	                    logD "<!> Unknown type, Logging: $dType"
+   528	                    while IFS= read -t 0.1 -r line; do
+   529	                        logD "[RECV]: $line"
+   530	                    done
+   531	                    ;;
+   532	                esac
+   533	
+   534	                logD "--- End Packet ---"
+   535	            fi
+   536	        }
+   537	
+   538	        # echo "RECV PACKET: $recv"
+   539	    done
+   540	    exit 0
+   541	}
+   542	
+   543	if [ $EMBEDDING_MODE -ne 0 ]; then
+   544	    if [ $HANDLE_REQUEST -ne 0 ]; then
+   545	        handleRequest
+   546	        exit $?
+   547	    fi
+   548	else
+   549	    echo "塞尔达传说信息收集服务器" >&2
+   550	    echo "当前工作目录是 $(pwd)" >&2
+   551	
+   552	    if [ ! -f "$SERVER_DATABASE" ]; then
+   553	        logInline "正在初始化数据库..."
+   554	        cp "template.sqlite3" "$SERVER_DATABASE"
+   555	        log "完成"
+   556	    fi
+   557	
+   558	    if command -v nc.traditional &>/dev/null; then
+   559	        logD "Found Debian traditional netcat"
+   560	        netcat="nc.traditional"
+   561	    else
+   562	        netcat="nc"
+   563	    fi
+   564	
+   565	    log "版本 $VERSION  正在监听端口 $SERVER_PORT"
+   566	    while true; do
+   567	        $netcat -vv -lkp $SERVER_PORT -c "./server.sh --embedding --handle-request"
+   568	
+   569	        if [ $? -ne 0 ]; then
+   570	            logW "nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换"
+   571	            break
+   572	        fi
+   573	    done
+   574	fiecho $#
+   575	#!/bin/bash
+   576	SHELL_FOLDER=$(
+   577	    cd "$(dirname "$0")"
+   578	    pwd
+   579	)
+   580	CONFIG_FILE="config.sh"
+   581	cd "$SHELL_FOLDER"
+   582	
+   583	if [ ! -f "$CONFIG_FILE" ] || [ ! -x "$CONFIG_FILE" ]; then
+   584	    logE "错误：在工作目录找不到配置文件 $CONFIG_FILE 或该文件不可执行。"
+   585	    exit 2
+   586	fi
+   587	
+   588	. ./$CONFIG_FILE
+   589	. ./functions.sh
+   590	
+   591	$*]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# s [K[Kcat -n *.shs [K[K[K[K[K[K
+.git/                 2021-05-03.csv        2021-05-14.csv        data/                 main.sqlite3          stat-2021-05-12.html  t2                    typescript
+.scheme               2021-05-03.csv.save   2021-05-15.csv        e.html                main.sqlite3.bak      stat-2021-05-14.html  template.csv          utils.sh
+1.html                2021-05-12.csv        client.sh             edit.sh               schema.sql            stat-2021-05-15.html  test.csv              w122.csv
+2^M                   2021-05-13.csv        config.sh             functions.sh          server.sh             stdbuf                test.sh               
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n 
+.git/                 2021-05-03.csv        2021-05-14.csv        data/                 main.sqlite3          stat-2021-05-12.html  t2                    typescript
+.scheme               2021-05-03.csv.save   2021-05-15.csv        e.html                main.sqlite3.bak      stat-2021-05-14.html  template.csv          utils.sh
+1.html                2021-05-12.csv        client.sh             edit.sh               schema.sql            stat-2021-05-15.html  test.csv              w122.csv
+2^M                   2021-05-13.csv        config.sh             functions.sh          server.sh             stdbuf                test.sh               
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n client.sh 
+     1	#!/bin/bash
+     2	SHELL_FOLDER=$(
+     3	    cd "$(dirname "$0")"
+     4	    pwd
+     5	)
+     6	CONFIG_FILE="config.sh"
+     7	cd "$SHELL_FOLDER"
+     8	
+     9	echo "塞尔达传说信息收集客户端" >&2
+    10	echo "当前工作目录是 $(pwd)" >&2
+    11	
+    12	if [ ! -f "$CONFIG_FILE" ] || [ ! -x "$CONFIG_FILE" ]; then
+    13	    logE "错误：在工作目录找不到配置文件 $CONFIG_FILE 或该文件不可执行。"
+    14	    exit 2
+    15	fi
+    16	
+    17	. ./$CONFIG_FILE
+    18	. ./functions.sh
+    19	
+    20	filePath=${1-"$(date +%Y-%m-%d).csv"}
+    21	if [ ! -f "$filePath" ]; then
+    22	    logE "错误：在工作目录找不到 $filePath ，请先运行 ./edit.sh 进行编写"
+    23	    exit 3
+    24	fi
+    25	
+    26	function sendFileNow {
+    27	    log "正在与服务器建立连接并发送文件"
+    28	    connectAndSendCSV "$USER_STUDENT_ID" "${filePath}" "${2-"$SERVER_ADDRESS"}" "${3-"$SERVER_PORT"}"
+    29	}
+    30	sendFileNow
+    31	senderExitCode=$?
+    32	
+    33	while ((senderExitCode != 0)); do
+    34	    read -p "发送文件失败失败，是否重试？[y/n] " yn
+    35	    case $yn in
+    36	    [Yy]*)
+    37	        sendFileNow
+    38	        senderExitCode=$?
+    39	        ;;
+    40	    [Nn]*)
+    41	        log "未发送报告文件，你稍后可自行运行 ./client \"$filePath\" 来发送文件"
+    42	        exit 1
+    43	        ;;
+    44	    *) echo "Yes or no." ;;
+    45	    esac
+    46	done
+    47	
+    48	log "发送结束"]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n client.sh [K[K[K[K[K[K[K[K[Konfig.sh 
+     1	#!/bin/bash
+     2	
+     3	# 客户端设置
+     4	export USER_STUDENT_ID="1145141919"
+     5	export USER_NAME="李田所"
+     6	export SERVER_ADDRESS="localhost"
+     7	
+     8	# 服务器设置
+     9	export IS_DEBUG=1
+    10	export SERVER_PORT="45123"
+    11	export SERVER_DATABASE="main.sqlite3"
+    12	
+    13	
+    14	# PROTOCOL DEFINES
+    15	export PROTOCOL_TYPE_PING="a"
+    16	export SQL_FILE="main.sqlite3"]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n config.sh [K\[K[K[K[K[K[K[K[K[K[Kserver.sh 
+     1	#!/bin/bash
+     2	
+     3	SHELL_FOLDER=$(
+     4	    cd "$(dirname "$0")"
+     5	    pwd
+     6	)
+     7	CONFIG_FILE="config.sh"
+     8	EMBEDDING_MODE=0
+     9	HANDLE_REQUEST=0
+    10	
+    11	set -- $(getopt -q -o h --long embedding,handle-request -- "$@")
+    12	
+    13	while [ -n "$1" ]; do
+    14	    case "$1" in
+    15	    --embedding) EMBEDDING_MODE=1 ;;
+    16	    --handle-request) HANDLE_REQUEST=1 ;;
+    17	    --)
+    18	        shift
+    19	        break
+    20	        ;;
+    21	    *) echo "$1 is not option" ;;
+    22	    esac
+    23	
+    24	    shift
+    25	done
+    26	
+    27	cd "$SHELL_FOLDER"
+    28	
+    29	if [ ! -f "$CONFIG_FILE" ] || [ ! -x "$CONFIG_FILE" ]; then
+    30	    log "错误：在工作目录找不到配置文件 $CONFIG_FILE 或该文件不可执行。"
+    31	    exit 2
+    32	fi
+    33	
+    34	. ./$CONFIG_FILE
+    35	. ./functions.sh
+    36	
+    37	function handleRequest {
+    38	    # 分隔符：NUL
+    39	    while IFS= read -t 10 -d '' -r recv; do
+    40	        # log "RECV: $recv"
+    41	        echo "$recv" | {
+    42	            IFS= read -t 0.1 -r line
+    43	            if [[ $line != "#%?" ]]; then
+    44	                log "收到无效数据包，必须以 #%?\n 开头: $line"
+    45	            else
+    46	                logD "--- Begin Packet ---"
+    47	                IFS= read -t 0.1 -r dType
+    48	                logD "[RECV TYPE]: $dType"
+    49	
+    50	                case "$dType" in
+    51	                # Add
+    52	                add)
+    53	                    IFS= read -t 0.1 -r studentId
+    54	                    currentLine=0
+    55	                    log "接收到来自 $studentId 的请求"
+    56	                    _sqlUserId=$(getUserIdByStudentId "$studentId")
+    57	                    userId=${_sqlUserId-"-1"}
+    58	                    if [[ $userId == "" || $userId == "-1" ]]; then
+    59	                        logW "无此用户 $studentId"
+    60	                    else
+    61	                        IFS= read -t 0.1 -r dNum
+    62	                        logD "开始处理 $userId ($studentId)，共 $dNum 个"
+    63	                        for ((currentLine = 1; currentLine <= $dNum; currentLine++)); do
+    64	                            logD "开始处理 $currentLine/$dNum"
+    65	
+    66	                            # colNum=$(echo -n -e "$line" | grep -o $'\t' | wc -l | wc -l)
+    67	                            read -t 0.1 mainType subType sku x y
+    68	                            if [[ $mainType =~ "种类" ]]; then
+    69	                                logD "Skipping header"
+    70	                            else
+    71	                                log "正在处理：$mainType $subType $sku $x $y"
+    72	                                if [ ! -n "$y" ]; then
+    73	                                    logW "第 $currentLine 行有错误，每行数据必须有 5 列"
+    74	                                else
+    75	                                    addElementOrIncKillNumByTypeName "$mainType" "$subType" "$sku" "$userId" "$x" "$y"
+    76	                                    exitCode=$?
+    77	                                    if (($exitCode == 0)); then
+    78	                                        logD "处理成功"
+    79	                                    else 
+    80	                                        logD "处理出错：$exitCode"
+    81	                                    fi
+    82	                                fi
+    83	                            fi
+    84	                        done
+    85	                        logD "处理结束"
+    86	                    fi
+    87	                    ;;
+    88	
+    89	                *)
+    90	                    logD "<!> Unknown type, Logging: $dType"
+    91	                    while IFS= read -t 0.1 -r line; do
+    92	                        logD "[RECV]: $line"
+    93	                    done
+    94	                    ;;
+    95	                esac
+    96	
+    97	                logD "--- End Packet ---"
+    98	            fi
+    99	        }
+   100	
+   101	        # echo "RECV PACKET: $recv"
+   102	    done
+   103	    exit 0
+   104	}
+   105	
+   106	if [ $EMBEDDING_MODE -ne 0 ]; then
+   107	    if [ $HANDLE_REQUEST -ne 0 ]; then
+   108	        handleRequest
+   109	        exit $?
+   110	    fi
+   111	else
+   112	    echo "塞尔达传说信息收集服务器" >&2
+   113	    echo "当前工作目录是 $(pwd)" >&2
+   114	
+   115	    if [ ! -f "$SERVER_DATABASE" ]; then
+   116	        logInline "正在初始化数据库..."
+   117	        cp "template.sqlite3" "$SERVER_DATABASE"
+   118	        log "完成"
+   119	    fi
+   120	
+   121	    if command -v nc.traditional &>/dev/null; then
+   122	        logD "Found Debian traditional netcat"
+   123	        netcat="nc.traditional"
+   124	    else
+   125	        netcat="nc"
+   126	    fi
+   127	
+   128	    log "版本 $VERSION  正在监听端口 $SERVER_PORT"
+   129	    while true; do
+   130	        $netcat -vv -lkp $SERVER_PORT -c "./server.sh --embedding --handle-request"
+   131	
+   132	        if [ $? -ne 0 ]; then
+   133	            logW "nc 似乎未能监听端口，请确保端口未占用。同时也请确保你使用的是 nc.traditional 而非 BSD netcat. 在 Debian 上，使用 update-alternatives --config nc 切换"
+   134	            break
+   135	        fi
+   136	    done
+   137	fi]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n server.sh [K[K[K[K[K[K[K[K[K[Kfunctions.sh 
+     1	#!/bin/bash
+     2	
+     3	export SQL_FILE=${SQL_FILE-"main.sqlite3"}
+     4	export VERSION=3
+     5	ALTERNATIVE_LOG_OUTPUT_DESCRIPTOR=0
+     6	
+     7	function checkParamNum {
+     8	    if (($# < 1)); then
+     9	        logE "Illegal checkParamNum call, at least one param required."
+    10	        return 2
+    11	    fi
+    12	
+    13	    local minParamNum=$1
+    14	    shift
+    15	    if (($# < $minParamNum)); then
+    16	        logE "Illegal function call, at least $minParamNum param required, $# given."
+    17	        return 2
+    18	    fi
+    19	}
+    20	
+    21	function getDate {
+    22	    echo -n "$(date '+%Y-%m-%d')"
+    23	}
+    24	
+    25	function getDateTime {
+    26	    echo -n "$(date '+%Y-%m-%d %H:%M:%S')"
+    27	}
+    28	
+    29	function log {
+    30	    local level=${2-"INFO"}
+    31	    echo -n "[$(getDateTime)] [$level] " >&2
+    32	    echo "$1" >&2
+    33	}
+    34	
+    35	function logD {
+    36	    if [ "${IS_DEBUG-0}" -ne 0 ]; then
+    37	        log "$1" "DEBUG"
+    38	    fi
+    39	}
+    40	
+    41	function logW {
+    42	    log "$1" "WARN"
+    43	}
+    44	
+    45	function logE {
+    46	    log "$1" "ERROR"
+    47	}
+    48	
+    49	function logInline {
+    50	    echo -n "$1" >&2
+    51	}
+    52	
+    53	function connectServer {
+    54	    logD "[CONNECT] $1:$2"
+    55	    exec 4<>/dev/tcp/$1/$2
+    56	}
+    57	
+    58	function disconnectServer {
+    59	    logD "[CLOSE] $1:$2"
+    60	    exec 4>&-
+    61	}
+    62	
+    63	function sendPacket {
+    64	    logD "[SEND]: $1"
+    65	    echo -n -e $1 >&4
+    66	}
+    67	
+    68	function sendHeader {
+    69	    sendPacket "#%?\n"
+    70	}
+    71	
+    72	function sendFooter {
+    73	    sendPacket "\0"
+    74	}
+    75	
+    76	function sendString {
+    77	    logD "[SEND]: $1"
+    78	    echo -n "$1" >&4
+    79	}
+    80	
+    81	function sendLine {
+    82	    sendString "$1"
+    83	    echo >&4
+    84	}
+    85	
+    86	function sendFile {
+    87	    logD "[SEND-FILE]: $1"
+    88	    cat "$1" >&4
+    89	}
+    90	
+    91	function sendCSV {
+    92	    logD "[SEND-CSV]: $1"
+    93	    local csv=$(cat "$1")
+    94	    echo -e -n "${csv//[,]/\t}" >&4
+    95	}
+    96	
+    97	function sendType {
+    98	    sendLine "$1"
+    99	}
+   100	
+   101	function execSQL {
+   102	    sqlite3 "$SQL_FILE" "$@"
+   103	}
+   104	
+   105	function execSQLRO {
+   106	    sqlite3 "file:$SQL_FILE?mode=ro" "$@"
+   107	}
+   108	
+   109	function sqlAdds {
+   110	    echo -n "${1//[\']/\\\'}"
+   111	}
+   112	
+   113	function getUserIdByStudentId {
+   114	    checkParamNum 1 $*
+   115	    local studentId=$(sqlAdds "$1")
+   116	    execSQLRO "SELECT userid FROM users WHERE studentid = '$studentId';"
+   117	}
+   118	
+   119	function addElementOrIncKillNumByTypeName {
+   120	    checkParamNum 6 $*
+   121	    local type=$(sqlAdds "$1")
+   122	    local subtype=$(sqlAdds "$2")
+   123	    local sku=$(sqlAdds "$3")
+   124	    local userid=$(sqlAdds "$4")
+   125	    local x=$(sqlAdds "$5")
+   126	    local y=$(sqlAdds "$6")
+   127	    local today=$(getDate)
+   128	
+   129	    subtype="${subtype//[-]/}"
+   130	    sku="${sku//[-]/}"
+   131	
+   132	    local existOne=$(execSQLRO "SELECT date,id FROM elements WHERE x = '$x' AND y = '$y' AND userid = '$userid'")
+   133	    IFS='|' read -r -a existOne <<<"$existOne"
+   134	
+   135	    local typeid=$(execSQLRO "SELECT typeid FROM types WHERE types.type LIKE '$type' AND types.subtype LIKE '$subtype' AND types.sku LIKE '$sku'")
+   136	    if [[ "$typeid" == "" ]]; then
+   137	        logW "无法找到这样的类型，请核查：$type $subtype $sku"
+   138	        return 3
+   139	    fi
+   140	
+   141	    if ((${#existOne[@]} == 2)); then
+   142	        if [[ "${existOne[0]}" == "$today" ]]; then
+   143	            log "检测到同人-同日重复，将忽略: $*"
+   144	            return 2
+   145	        fi
+   146	    else
+   147	        logD "TypeID: $typeid"
+   148	        execSQL "INSERT INTO elements (userid, typeid, x, y, date) VALUES ( '$userid', '$typeid', '$x', '$y', DATE() )"
+   149	    fi
+   150	}
+   151	
+   152	function getTypeId {
+   153	    checkParamNum 3 $*
+   154	    local b=$(sqlAdds "$1")
+   155	    local c=$(sqlAdds "$2")
+   156	    local d=$(sqlAdds "$3")
+   157	}
+   158	
+   159	function addUser {
+   160	    checkParamNum 2 $*
+   161	    local a=$(sqlAdds "$1")
+   162	    local b=$(sqlAdds "$2")
+   163	    execSQL "INSERT INTO users (name, studentid) VALUES ('$a', '$b');"
+   164	}
+   165	
+   166	function getRankByTypeName {
+   167	    checkParamNum 1 $*
+   168	    local name=$(sqlAdd "$1")
+   169	    execSQL "SELECT * FROM daily_rank_by_type WHERE type LIKE '$name' OR subtype LIKE '$name';"
+   170	}
+   171	
+   172	function exportDailyRank {
+   173	    local date="${1-"$(getDate)"}"
+   174	    local fileName="${2-"stat-$(getDate).html"}"
+   175	    log "导出 $date 的数据，并存储到：$fileName"
+   176	
+   177	    exec 9<>"$fileName"
+   178	    echo '<!DOCTYPE html>
+   179	<html>
+   180	<head>
+   181	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   182		<meta http-equiv="charset" content="utf-8">
+   183		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+   184		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+   185	    <style>table,table tr th, table tr td { border:1px solid #0094ff; }</style>' >&9
+   186	
+   187	    echo "<title>塞尔达传说 $(getDate) 的所有数据和排行榜</title>" >&9
+   188	    echo "</head><body>" >&9
+   189	    echo "<h1>可视化地图</h1>" >&9
+   190	    echo '<canvas id="cv" width="98%" height="98vh" style="border:1px solid #000000;"></canvas>' >&9
+   191	    echo '<script>var c = document.getElementById("cv"); var ctx = c.getContext("2d");' >&9
+   192	    echo '
+   193	  c.width  = window.innerWidth - 40;
+   194	  c.height = window.innerHeight - 40;' >&9
+   195	
+   196	    local elements=$(execSQLRO "SELECT * FROM everything_unique_types")
+   197	
+   198	    echo "$elements" | {
+   199	        while IFS= read -t 0.1 -r line; do
+   200	            IFS='|' read -r -a line <<<"$line"
+   201	            echo "ctx.fillText('${line[5]}', ${line[2]}, ${line[3]});" >&9
+   202	        done
+   203	    }
+   204	
+   205	    echo '</script>' >&9
+   206	
+   207	    echo "<h1>目前的全部数据 (已合并)</h1>" >&9
+   208	
+   209	    echo "<table>" >&9
+   210	    echo "<tr> <th>ID</th> <th>类型</th> <th>子类</th> <th>特点</th> <th>X</th>  <th>Y</th> <th>提交人姓名</th> <th>学号</th> <th>时间</th> <th>总击杀次数</th></tr>" >&9
+   211	
+   212	    execSQLRO '.mode html' \
+   213	        '.output stdout' \
+   214	        'SELECT `id`, `type`, `subtype`, `sku`, `x`, `y`, `name`, `studentid`, `date`, `kill_num` FROM everything_merged ORDER BY datetime(`date`) DESC;' >&9
+   215	
+   216	    echo "</table>" >&9
+   217	
+   218	    echo "<h1>$date 的排行榜</h1>" >&9
+   219	
+   220	    echo "<h2>神庙高手排行榜</h2>" >&9
+   221	    echo "<table>" >&9
+   222	    echo "<tr>  <th>姓名</th>  <th>学号</th> <th>总数</th></tr>" >&9
+   223	
+   224	    execSQLRO ".mode html" \
+   225	        ".output stdout" \
+   226	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '神庙' LIMIT 10;" >&9
+   227	
+   228	    echo "</table>" >&9
+   229	
+   230	    echo "<h2>岩石巨人杀手排行榜</h2>" >&9
+   231	    echo "<table>" >&9
+   232	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   233	
+   234	    execSQLRO ".mode html" \
+   235	        ".output stdout" \
+   236	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '岩石巨人' LIMIT 10;" >&9
+   237	
+   238	    echo "</table>" >&9
+   239	
+   240	    echo "<h2>西诺克斯杀手排行榜</h2>" >&9
+   241	    echo "<table>" >&9
+   242	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   243	
+   244	    execSQLRO ".mode html" \
+   245	        ".output stdout" \
+   246	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '独眼巨人西诺克斯' LIMIT 10;" >&9
+   247	
+   248	    echo "</table>" >&9
+   249	
+   250	    echo "<h2>莱尼尔杀手排行榜</h2>" >&9
+   251	    echo "<table>" >&9
+   252	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   253	
+   254	    execSQLRO ".mode html" \
+   255	        ".output stdout" \
+   256	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '半人马莱尼尔' LIMIT 10;" >&9
+   257	
+   258	    echo "</table>" >&9
+   259	
+   260	    echo "<h2>莫尔德拉吉克杀手排行榜</h2>" >&9
+   261	    echo "<table>" >&9
+   262	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   263	
+   264	    execSQLRO ".mode html" \
+   265	        ".output stdout" \
+   266	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND subtype LIKE '莫尔德拉吉克' LIMIT 10;" >&9
+   267	
+   268	    echo "</table>" >&9
+   269	
+   270	    echo "<h2>克洛格排行榜</h2>" >&9
+   271	    echo "<table>" >&9
+   272	    echo "<tr>  <th>姓名</th>  <th>学号</th>  <th>总数</th></tr>" >&9
+   273	
+   274	    execSQLRO ".mode html" \
+   275	        ".output stdout" \
+   276	        "SELECT name, studentid, subtype_count FROM daily_rank_by_type WHERE date LIKE '$date' AND type LIKE '克洛格种子' LIMIT 10;" >&9
+   277	
+   278	    echo "</table>" >&9
+   279	
+   280	    echo "</body></html>" >&9
+   281	    exec 9>&-
+   282	}
+   283	
+   284	function connectAndSendCSV {
+   285	    checkParamNum 2 $*
+   286	    local studentId="$1"
+   287	    local file="$2"
+   288	    local server="${SERVER_ADDRESS-"localhost"}"
+   289	    local port="${SERVER_PORT-"45123"}"
+   290	    connectServer "$server" "$port"
+   291	    if (($? != 0)); then
+   292	        logE "连接服务器失败"
+   293	        return 2
+   294	    fi
+   295	
+   296	    log "连接成功"
+   297	
+   298	    sendHeader || return 1
+   299	    sendType "add" || return 1
+   300	    sendLine "$studentId" || return 1
+   301	    sendLine "$(wc -l <"$file")" || return 1
+   302	    sendCSV "$file" || return 1
+   303	    sendFooter || return 1
+   304	
+   305	    disconnectServer || return 1
+   306	    return 0
+   307	}
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n functions.sh [K[K[K[K[K[K[K[K[K[K[K[K[Kutils.sh 
+     1	#!/bin/bash
+     2	SHELL_FOLDER=$(
+     3	    cd "$(dirname "$0")"
+     4	    pwd
+     5	)
+     6	CONFIG_FILE="config.sh"
+     7	cd "$SHELL_FOLDER"
+     8	
+     9	if [ ! -f "$CONFIG_FILE" ] || [ ! -x "$CONFIG_FILE" ]; then
+    10	    logE "错误：在工作目录找不到配置文件 $CONFIG_FILE 或该文件不可执行。"
+    11	    exit 2
+    12	fi
+    13	
+    14	. ./$CONFIG_FILE
+    15	. ./functions.sh
+    16	
+    17	$*]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ls
+ [0m[01;32m1.html[0m           [01;32m2021-05-03.csv.save[0m   [01;32m2021-05-14.csv[0m   [01;32mconfig.sh[0m   [01;32medit.sh[0m        [01;32mmain.sqlite3.bak[0m   [01;32mstat-2021-05-12.html[0m   [01;32mstdbuf[0m         [01;32mtest.csv[0m     [01;32mutils.sh[0m
+[01;32m'2'$'\r'[0m          [01;32m2021-05-12.csv[0m        [01;32m2021-05-15.csv[0m   [34;42mdata[0m        [01;32mfunctions.sh[0m   [01;32mschema.sql[0m         [01;32mstat-2021-05-14.html[0m   [01;32mt2[0m             [01;32mtest.sh[0m      [01;32mw122.csv[0m
+ [01;32m2021-05-03.csv[0m   [01;32m2021-05-13.csv[0m        [01;32mclient.sh[0m        [01;32me.html[0m      [01;32mmain.sqlite3[0m   [01;32mserver.sh[0m          [01;32mstat-2021-05-15.html[0m   [01;32mtemplate.csv[0m   [01;32mtypescript[0m
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat s [K[Ktest.sh 
+echo $#
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat test.sh [K[K[K[K[K[K[K[Kty[K[Kschema.sql 
+CREATE TABLE sqlite_sequence(name,seq);
+CREATE VIEW "everything" AS SELECT
+	elements.*, 
+	types.type, 
+	types.subtype, 
+	types.sku, 
+	users.name, 
+	users.studentid
+FROM
+	elements
+	INNER JOIN
+	types
+	ON 
+		elements.typeid = types.typeid
+	INNER JOIN
+	users
+	ON 
+		elements.userid = users.userid
+/* everything(id,userid,typeid,x,y,date,type,subtype,sku,name,studentid) */;
+CREATE TABLE IF NOT EXISTS "types" (
+  "typeid" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  "type" TEXT NOT NULL DEFAULT '',
+  "subtype" TEXT NOT NULL DEFAULT '',
+  "sku" TEXT NOT NULL DEFAULT '',
+  CONSTRAINT "unique_types" UNIQUE ("type" ASC, "subtype" ASC, "sku" ASC) ON CONFLICT ROLLBACK
+);
+CREATE TABLE IF NOT EXISTS "users" (
+  "userid" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  "name" TEXT,
+  "studentid" INTEGER NOT NULL,
+  CONSTRAINT "unique_studentid" UNIQUE ("studentid") ON CONFLICT ROLLBACK
+);
+CREATE UNIQUE INDEX "i_studentid"
+ON "users" (
+  "studentid" COLLATE BINARY ASC
+);
+CREATE TABLE IF NOT EXISTS "elements" (
+  "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  "userid" integer NOT NULL,
+  "typeid" integer NOT NULL,
+  "x" real NOT NULL,
+  "y" real NOT NULL,
+  "date" TEXT NOT NULL DEFAULT CURRENT_DATE,
+  CONSTRAINT "fk_userid" FOREIGN KEY ("userid") REFERENCES "users" ("userid") ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT "fk_typeid" FOREIGN KEY ("typeid") REFERENCES "types" ("typeid") ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT "unique_element" UNIQUE ("userid", "typeid", "x", "y", "date") ON CONFLICT ROLLBACK
+);
+CREATE INDEX "i_location"
+ON "elements" (
+  "x" ASC,
+  "y" ASC
+);
+CREATE INDEX "i_type"
+ON "elements" (
+  "typeid" ASC
+);
+CREATE INDEX "i_userid"
+ON "elements" (
+  "userid" ASC
+);
+CREATE VIEW "daily_rank_by_type" AS SELECT
+	t1.type, 
+	t1.subtype, 
+	t1.userid, 
+	t1.name, 
+	t1.studentid,
+	t1.date, 
+	(
+		SELECT COUNT(*) 
+		FROM everything AS t2
+		WHERE 
+			t2.userid = t1.userid 
+			AND t2.type = t1.type 
+			AND (t2.subtype = t1.subtype OR (t1.subtype IS NULL AND t2.subtype IS NULL))
+			and t2.date = t1.date
+	) AS subtype_count,
+	t1.typeid
+FROM
+	everything AS t1
+GROUP BY
+	subtype, 
+	type, 
+	userid,
+	date
+/* daily_rank_by_type(type,subtype,userid,name,studentid,date,subtype_count,typeid) */;
+CREATE VIEW "everything_merged" AS SELECT *, COUNT(*) AS kill_num FROM everything GROUP BY typeid, userid, x, y
+/* everything_merged(id,userid,typeid,x,y,date,type,subtype,sku,name,studentid,kill_num) */;
+CREATE VIEW "everything_unique_types" AS SELECT type, subtype, x, y, (
+	CASE
+		WHEN subtype IS NULL OR subtype = '' THEN type
+		ELSE subtype
+	END
+) AS rtype, (
+	CASE (
+		CASE
+			WHEN subtype IS NULL OR subtype = '' THEN type
+			ELSE subtype
+		END
+		)
+		WHEN '独眼巨人西诺克斯' THEN '👽'
+		WHEN '岩石巨人' THEN '🗿'
+		WHEN '神庙' THEN '🏯'
+        WHEN '半人马莱尼尔' THEN '🐴'
+        WHEN '莫尔德拉吉克' THEN '👻'
+		WHEN '克洛格种子' THEN '🌱'
+		ELSE '❓'
+	END
+) AS emoji FROM everything GROUP BY x, y
+/* everything_unique_types(type,subtype,x,y,rtype,emoji) */;
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat 0[K9n [K[K[Kn[K-n s [K[K201[K[K2[K021-05-
+2021-05-03.csv       2021-05-03.csv.save  2021-05-12.csv       2021-05-13.csv       2021-05-14.csv       2021-05-15.csv       
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n 2021-05-
+2021-05-03.csv       2021-05-03.csv.save  2021-05-12.csv       2021-05-13.csv       2021-05-14.csv       2021-05-15.csv       
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n 2021-05-15.csv 
+     1	种类（大类）	子类（可选）	特点（可选）	经度（X）	纬度（Y）
+     2	巨型怪兽        独眼巨人西诺克斯        蓝色    84             113
+     3	巨型怪兽        半人马莱尼尔    白鬃            12             12
+     4	克洛格种子      -               搬石头          55               44
+     5	神庙            -               力之试炼        14.81            252.1
+     6	巨型怪兽        岩石巨人        熔岩            845.1            242.1
+     7	克洛格种子      -               弥补            483.2            122
+     8	神庙            -               智之试炼        981              110
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# cat -n 2021-05-15.csv ]]]]]]]]]]]]][K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kps f
+  PID TTY      STAT   TIME COMMAND
+  146 tty3     Ss     0:00 /init
+  147 tty3     S      0:00  \_ -bash
+  164 tty3     S      0:00      \_ script -a t2
+  165 pts/1    Ss     0:00          \_ bash -i
+  173 pts/1    S      0:00              \_ /bin/bash ./server.sh
+  441 pts/1    S      0:00                  \_ nc.traditional -vv -lkp 45123 -c ./server.sh --embedding --handle-request
+  120 tty2     Ss     0:00 /init
+  121 tty2     S      0:00  \_ -bash
+  138 tty2     S      0:00      \_ script -a
+  139 pts/0    Ss     0:00          \_ bash -i
+  476 pts/0    R      0:00              \_ ps f
+    6 tty1     Ss     0:00 /init
+    7 tty1     S      0:00  \_ -bash
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ps f
+  PID TTY      STAT   TIME COMMAND
+  146 tty3     Ss     0:00 /init
+  147 tty3     S      0:00  \_ -bash
+  164 tty3     S      0:00      \_ script -a t2
+  165 pts/1    Ss     0:00          \_ bash -i
+  173 pts/1    S      0:00              \_ /bin/bash ./server.sh
+  441 pts/1    S      0:00                  \_ nc.traditional -vv -lkp 45123 -c ./server.sh --embedding --handle-request
+  120 tty2     Ss     0:00 /init
+  121 tty2     S      0:00  \_ -bash
+  138 tty2     S      0:00      \_ script -a
+  139 pts/0    Ss     0:00          \_ bash -i
+  477 pts/0    R      0:00              \_ ps f
+    6 tty1     Ss     0:00 /init
+    7 tty1     S      0:00  \_ -bash
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# ls -al
+total 1336
+drwxrwxrwx 1 root root   4096 May 15 08:34  [0m[34;42m.[0m
+drwxrwxrwx 1 root root   4096 May 15 08:14  [34;42m..[0m
+drwxrwxrwx 1 root root   4096 May 15 08:43  [34;42m.git[0m
+-rwxrwxrwx 1 root root      0 May 15 08:30  [01;32m.scheme[0m
+-rwxrwxrwx 1 root root   1056 May  3 11:06  [01;32m1.html[0m
+-rwxrwxrwx 1 root root    122 May 14 21:15 [01;32m'2'$'\r'[0m
+-rwxrwxrwx 1 root root    113 May  3 16:28  [01;32m2021-05-03.csv[0m
+-rwxrwxrwx 1 root root    100 May  5 15:57  [01;32m2021-05-03.csv.save[0m
+-rwxrwxrwx 1 root root     86 May 12 17:37  [01;32m2021-05-12.csv[0m
+-rwxrwxrwx 1 root root    103 May 13 19:30  [01;32m2021-05-13.csv[0m
+-rwxrwxrwx 1 root root    381 May 14 22:16  [01;32m2021-05-14.csv[0m
+-rwxrwxrwx 1 root root    637 May 15 08:34  [01;32m2021-05-15.csv[0m
+-rwxrwxrwx 1 root root   1179 May 14 21:16  [01;32mclient.sh[0m
+-rwxrwxrwx 1 root root    313 May 14 16:31  [01;32mconfig.sh[0m
+drwxrwxrwx 1 root root   4096 May  6 09:06  [34;42mdata[0m
+-rwxrwxrwx 1 root root   4222 May 12 18:03  [01;32me.html[0m
+-rwxrwxrwx 1 root root   1916 May 14 21:16  [01;32medit.sh[0m
+-rwxrwxrwx 1 root root   8269 May 15 08:25  [01;32mfunctions.sh[0m
+-rwxrwxrwx 1 root root  61440 May 15 08:34  [01;32mmain.sqlite3[0m
+-rwxrwxrwx 1 root root  40960 May 12 11:15  [01;32mmain.sqlite3.bak[0m
+-rwxrwxrwx 1 root root   3150 May 15 08:32  [01;32mschema.sql[0m
+-rwxrwxrwx 1 root root   4448 May 14 19:28  [01;32mserver.sh[0m
+-rwxrwxrwx 1 root root   4451 May 12 21:48  [01;32mstat-2021-05-12.html[0m
+-rwxrwxrwx 1 root root   6184 May 14 22:38  [01;32mstat-2021-05-14.html[0m
+-rwxrwxrwx 1 root root   7694 May 15 08:34  [01;32mstat-2021-05-15.html[0m
+-rwxrwxrwx 1 root root      0 May 13 22:07  [01;32mstdbuf[0m
+-rwxrwxrwx 1 root root 322073 May 14 22:35  [01;32mt2[0m
+-rwxrwxrwx 1 root root     86 May  3 16:23  [01;32mtemplate.csv[0m
+-rwxrwxrwx 1 root root    395 May  3 11:10  [01;32mtest.csv[0m
+-rwxrwxrwx 1 root root      8 May 12 21:06  [01;32mtest.sh[0m
+-rwxrwxrwx 1 root root 796509 May 15 08:52  [01;32mtypescript[0m
+-rwxrwxrwx 1 root root    317 May 14 16:03  [01;32mutils.sh[0m
+-rwxrwxrwx 1 root root   1099 May  3 11:02  [01;32mw122.csv[0m
+]0;root@LowDPI: /mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesignroot@LowDPI:/mnt/c/Synced/OneDrive - 欧舶智能科技（上海）有限公司/附加文档/Linux/CourseDesign# exit
+
+Script done on 2021-05-15 08:52:27+08:00 [COMMAND_EXIT_CODE="0"]

@@ -193,27 +193,7 @@ function exportDailyRank {
   c.width  = window.innerWidth - 40;
   c.height = window.innerHeight - 40;' >&9
 
-    local elements=$(execSQLRO "SELECT type, subtype, x, y, (
-	CASE
-		WHEN subtype IS NULL OR subtype = '' THEN type
-		ELSE subtype
-	END
-) AS rtype, (
-	CASE (
-		CASE
-			WHEN subtype IS NULL OR subtype = '' THEN type
-			ELSE subtype
-		END
-		)
-		WHEN '独眼巨人西诺克斯' THEN '👽'
-		WHEN '岩石巨人' THEN '🗿'
-		WHEN '神庙' THEN '🏯'
-        WHEN '半人马莱尼尔' THEN '🐴'
-        WHEN '莫尔德拉吉克' THEN '👻'
-		WHEN '克洛格种子' THEN '🌱'
-		ELSE '❓'
-	END
-) AS emoji FROM everything GROUP BY x, y ;")
+    local elements=$(execSQLRO "SELECT * FROM everything_unique_types")
 
     echo "$elements" | {
         while IFS= read -t 0.1 -r line; do
@@ -224,14 +204,14 @@ function exportDailyRank {
 
     echo '</script>' >&9
 
-    echo "<h1>目前的全部数据</h1>" >&9
+    echo "<h1>目前的全部数据 (已合并)</h1>" >&9
 
     echo "<table>" >&9
     echo "<tr> <th>ID</th> <th>类型</th> <th>子类</th> <th>特点</th> <th>X</th>  <th>Y</th> <th>提交人姓名</th> <th>学号</th> <th>时间</th> <th>总击杀次数</th></tr>" >&9
 
     execSQLRO '.mode html' \
         '.output stdout' \
-        'SELECT `id`, `type`, `subtype`, `sku`, `x`, `y`, `name`, `studentid`, `date` FROM everything ORDER BY datetime(`date`) DESC;' >&9
+        'SELECT `id`, `type`, `subtype`, `sku`, `x`, `y`, `name`, `studentid`, `date`, `kill_num` FROM everything_merged ORDER BY datetime(`date`) DESC;' >&9
 
     echo "</table>" >&9
 
